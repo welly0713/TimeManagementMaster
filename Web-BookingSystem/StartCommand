@@ -1,1 +1,1 @@
-sudo nohup python3 /home/ubuntu/Web-BookingSystem/run.py &
+sudo nohup python3 /home/ubuntu/TimeManagementMaster/Web-BookingSystem/run.py &

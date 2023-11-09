@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<head>
+    <meta charset="utf-8">
+    <title>時間管理大師 Time Manage Master</title>
+    <link rel= "stylesheet" type= "text/css" href= "{{ url_for('static',filename='styles/main.css') }}">
+</head>
+
+<body>
+    <!-- Title -->
+    <nav class="navbar_navbar-expand-lg">
+        <div class = "container_px-5">
+            <a class = "navbar-brand">時間預約系統</a>
+        </div>
+    </nav>
+
+    <br/>
+    <br/>
+    <form action="/Submit/{{Type}}" method="post">
+        <table class="Schedule">
+            <tr class="WeekDay">
+                {% for WeekDay in data[0] %}
+                    <th>{{WeekDay}}</th>
+                {% endfor %}
+        </tr>
+
+            {% for Time in data[1:] %}
+                <tr class="Time">
+                    <td>{{Time[0]}}</td>
+
+                    {% for TimeCheck in Time[1:] %}
+
+                        {%if TimeCheck[0] %}
+                            <td><input type="checkbox" class="TimeCheck" name="checkbox{{TimeCheck[1]}}" checked></td>
+                        {% else %}
+                            <td><input type="checkbox" class="TimeCheck" name="checkbox{{TimeCheck[1]}}" disabled></td>
+                        {% endif %}
+
+                    {% endfor %}
+                </tr>
+            {% endfor %}
+            <tr class="Time" id="PM4:00" style="border:none">
+                <td><input type="text" class="name_bar" name="name" placeholder="Write Your name here!"></td>
+                <td><input type="submit" value="Submit"></td>
+            </tr>
+            
+        </table>
+</body>

@@ -1,0 +1,59 @@
+body{
+    border: 0;
+    margin: 0;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.container_px-5{
+    background-color:darkgreen ;
+    color: white;
+    display: flex;
+    justify-content: center;
+}
+
+.navbar-brand{
+    margin: 10px;
+    font-size: larger;
+}
+
+
+.Schedule{
+    height: calc(100%-10px);
+    display: flex;
+    justify-content: space-between;
+    background-color: rgba(249, 249, 255,1);
+    margin: 20px;
+    border-radius: 10px;
+}
+tbody{
+    width:100%;
+}
+
+tr{
+    /* width: max-content; */
+    display: flex;
+    justify-content: space-between;
+}
+
+td{
+    width: 100%;
+    text-align: center;
+    align-items: center;
+    margin: 20px;
+}
+
+input{
+    margin: 0;
+    padding: 0;
+}
+
+th, input{
+    width: 100%;
+    text-align: center;
+    margin: 10px;
+}
+
+.TimeCheck :hover{
+    background-color: red;
+    size: 20px;
+}

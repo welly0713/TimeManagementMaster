@@ -1,0 +1,1870 @@
+ * Serving Flask app 'run'
+ * Debug mode: off
+Permission denied
+ * Serving Flask app 'run'
+ * Debug mode: off
+WARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:80
+ * Running on http://172.31.26.153:80
+Press CTRL+C to quit
+223.139.134.175 - - [05/Nov/2023 04:54:31] "GET /Schedule/BandPractice HTTP/1.1" 200 -
+223.139.134.175 - - [05/Nov/2023 04:54:31] "GET /static/styles/main.css HTTP/1.1" 304 -
+223.139.134.175 - - [05/Nov/2023 04:54:32] "GET /favicon.ico HTTP/1.1" 404 -
+223.139.134.175 - - [05/Nov/2023 04:54:32] "GET /favicon.ico HTTP/1.1" 404 -
+223.139.134.175 - - [05/Nov/2023 04:54:39] "POST /Submit/BandPractice HTTP/1.1" 200 -
+223.139.134.175 - - [05/Nov/2023 04:54:45] "GET /Schedule/BandPractice HTTP/1.1" 200 -
+223.139.134.175 - - [05/Nov/2023 04:54:45] "GET /static/styles/main.css HTTP/1.1" 304 -
+223.139.134.175 - - [05/Nov/2023 04:54:45] "GET /favicon.ico HTTP/1.1" 404 -
+223.139.134.175 - - [05/Nov/2023 04:54:46] "GET /favicon.ico HTTP/1.1" 404 -
+223.139.134.175 - - [05/Nov/2023 04:54:49] "POST /Submit/BandPractice HTTP/1.1" 200 -
+223.139.134.175 - - [05/Nov/2023 04:55:18] "POST /Submit/BandPractice HTTP/1.1" 200 -
+223.139.134.175 - - [05/Nov/2023 04:55:26] "POST /Submit/BandPractice HTTP/1.1" 200 -
+223.139.134.175 - - [05/Nov/2023 04:55:30] "GET /Schedule/BandPractice HTTP/1.1" 200 -
+223.139.134.175 - - [05/Nov/2023 04:55:31] "GET /static/styles/main.css HTTP/1.1" 304 -
+223.139.134.175 - - [05/Nov/2023 04:55:31] "GET /favicon.ico HTTP/1.1" 404 -
+223.139.134.175 - - [05/Nov/2023 04:55:32] "GET /favicon.ico HTTP/1.1" 404 -
+223.139.134.175 - - [05/Nov/2023 04:55:39] "GET /Schedule/GDSC HTTP/1.1" 200 -
+223.139.134.175 - - [05/Nov/2023 04:55:39] "GET /static/styles/main.css HTTP/1.1" 304 -
+223.139.134.175 - - [05/Nov/2023 04:55:40] "GET /favicon.ico HTTP/1.1" 404 -
+223.139.134.175 - - [05/Nov/2023 04:55:40] "GET /favicon.ico HTTP/1.1" 404 -
+147.92.179.110 - - [05/Nov/2023 04:55:52] "GET /Schedule/BandPractice HTTP/1.1" 200 -
+223.139.134.175 - - [05/Nov/2023 04:56:34] "GET / HTTP/1.1" 404 -
+223.139.134.175 - - [05/Nov/2023 04:56:34] "GET /favicon.ico HTTP/1.1" 404 -
+223.139.134.175 - - [05/Nov/2023 04:56:38] "GET /Schedule/GDSC HTTP/1.1" 200 -
+223.139.134.175 - - [05/Nov/2023 04:56:38] "GET /static/styles/main.css HTTP/1.1" 304 -
+223.139.134.175 - - [05/Nov/2023 04:56:48] "GET /Schedule/BandPractice HTTP/1.1" 200 -
+223.139.134.175 - - [05/Nov/2023 04:56:48] "GET /static/styles/main.css HTTP/1.1" 304 -
+147.92.179.119 - - [05/Nov/2023 04:57:03] "GET /Schedule/BandPractice HTTP/1.1" 200 -
+1.200.158.223 - - [05/Nov/2023 04:57:10] "GET /Schedule/BandPractice HTTP/1.1" 200 -
+1.200.158.223 - - [05/Nov/2023 04:57:11] "GET /static/styles/main.css HTTP/1.1" 200 -
+1.200.158.223 - - [05/Nov/2023 04:57:23] "GET /Schedule/BandPractice HTTP/1.1" 200 -
+1.200.158.223 - - [05/Nov/2023 04:57:24] "GET /static/styles/main.css HTTP/1.1" 304 -
+1.200.158.223 - - [05/Nov/2023 04:57:28] "GET /favicon.ico HTTP/1.1" 404 -
+1.200.158.223 - - [05/Nov/2023 04:57:34] "GET /Schedule/BandPractice HTTP/1.1" 200 -
+1.200.158.223 - - [05/Nov/2023 04:57:35] "GET /static/styles/main.css HTTP/1.1" 304 -
+111.255.79.58 - - [05/Nov/2023 04:58:00] "GET /Schedule/BandPractice HTTP/1.1" 200 -
+111.255.79.58 - - [05/Nov/2023 04:58:00] "GET /static/styles/main.css HTTP/1.1" 200 -
+111.255.79.58 - - [05/Nov/2023 04:58:00] "GET /favicon.ico HTTP/1.1" 404 -
+223.139.134.175 - - [05/Nov/2023 04:59:05] "GET /Schedule/BandPractice HTTP/1.1" 200 -
+223.139.134.175 - - [05/Nov/2023 04:59:05] "GET /static/styles/main.css HTTP/1.1" 304 -
+223.139.134.175 - - [05/Nov/2023 04:59:07] "GET /Schedule/BandPractice HTTP/1.1" 200 -
+223.139.134.175 - - [05/Nov/2023 04:59:08] "GET /static/styles/main.css HTTP/1.1" 304 -
+223.139.134.175 - - [05/Nov/2023 04:59:48] "GET /Schedule/BandPractice HTTP/1.1" 200 -
+223.139.134.175 - - [05/Nov/2023 04:59:48] "GET /static/styles/main.css HTTP/1.1" 304 -
+1.200.158.223 - - [05/Nov/2023 05:00:20] "GET /Schedule/BandPractice HTTP/1.1" 200 -
+1.200.158.223 - - [05/Nov/2023 05:00:20] "GET /static/styles/main.css HTTP/1.1" 304 -
+223.139.134.175 - - [05/Nov/2023 05:00:41] "GET /Schedule/BandPractice HTTP/1.1" 200 -
+223.139.134.175 - - [05/Nov/2023 05:00:41] "GET /static/styles/main.css HTTP/1.1" 304 -
+223.139.134.175 - - [05/Nov/2023 05:02:14] "GET /Schedule/BandPractice HTTP/1.1" 200 -
+223.139.134.175 - - [05/Nov/2023 05:02:15] "GET /static/styles/main.css HTTP/1.1" 304 -
+223.139.134.175 - - [05/Nov/2023 05:02:15] "GET /favicon.ico HTTP/1.1" 404 -
+223.139.134.175 - - [05/Nov/2023 05:02:15] "GET /favicon.ico HTTP/1.1" 404 -
+223.139.134.175 - - [05/Nov/2023 05:02:16] "GET /favicon.ico HTTP/1.1" 404 -
+223.139.134.175 - - [05/Nov/2023 05:03:56] "GET /Schedule/BandPractice HTTP/1.1" 200 -
+223.139.134.175 - - [05/Nov/2023 05:03:56] "GET /static/styles/main.css HTTP/1.1" 304 -
+223.139.134.175 - - [05/Nov/2023 05:03:56] "GET /favicon.ico HTTP/1.1" 404 -
+223.139.134.175 - - [05/Nov/2023 05:04:43] "GET /Schedule/BandPractice HTTP/1.1" 200 -
+223.139.134.175 - - [05/Nov/2023 05:04:44] "GET /static/styles/main.css HTTP/1.1" 304 -
+223.139.134.175 - - [05/Nov/2023 05:06:04] "GET /Schedule/BandPractice HTTP/1.1" 200 -
+223.139.134.175 - - [05/Nov/2023 05:06:05] "GET /static/styles/main.css HTTP/1.1" 200 -
+223.139.134.175 - - [05/Nov/2023 05:06:05] "GET /favicon.ico HTTP/1.1" 404 -
+223.139.134.175 - - [05/Nov/2023 05:06:39] "POST /Submit/BandPractice HTTP/1.1" 200 -
+223.139.134.175 - - [05/Nov/2023 05:06:43] "GET /Schedule/BandPractice HTTP/1.1" 200 -
+223.139.134.175 - - [05/Nov/2023 05:06:43] "GET /static/styles/main.css HTTP/1.1" 304 -
+223.139.134.175 - - [05/Nov/2023 05:06:58] "POST /Submit/BandPractice HTTP/1.1" 200 -
+223.139.134.175 - - [05/Nov/2023 05:07:03] "GET /Schedule/BandPractice HTTP/1.1" 200 -
+223.139.134.175 - - [05/Nov/2023 05:07:04] "GET /static/styles/main.css HTTP/1.1" 304 -
+111.255.79.58 - - [05/Nov/2023 05:07:51] "GET /Schedule/BandPractice HTTP/1.1" 200 -
+111.255.79.58 - - [05/Nov/2023 05:07:51] "GET /static/styles/main.css HTTP/1.1" 304 -
+111.255.79.58 - - [05/Nov/2023 05:07:51] "GET /favicon.ico HTTP/1.1" 404 -
+111.255.79.58 - - [05/Nov/2023 05:10:15] "POST /Submit/BandPractice HTTP/1.1" 200 -
+27.53.240.147 - - [05/Nov/2023 05:10:21] "GET /Schedule/BandPractice HTTP/1.1" 200 -
+27.53.240.147 - - [05/Nov/2023 05:10:21] "GET /static/styles/main.css HTTP/1.1" 200 -
+27.53.240.147 - - [05/Nov/2023 05:10:21] "GET /favicon.ico HTTP/1.1" 404 -
+111.255.79.58 - - [05/Nov/2023 05:10:30] "GET /Schedule/BandPractice HTTP/1.1" 200 -
+111.255.79.58 - - [05/Nov/2023 05:10:30] "GET /static/styles/main.css HTTP/1.1" 304 -
+111.255.79.58 - - [05/Nov/2023 05:10:30] "GET /favicon.ico HTTP/1.1" 404 -
+111.255.79.58 - - [05/Nov/2023 05:11:41] "POST /Submit/BandPractice HTTP/1.1" 200 -
+111.255.79.58 - - [05/Nov/2023 05:12:00] "GET /Schedule/BandPractice HTTP/1.1" 200 -
+111.255.79.58 - - [05/Nov/2023 05:12:00] "GET /static/styles/main.css HTTP/1.1" 304 -
+111.255.79.58 - - [05/Nov/2023 05:12:00] "GET /favicon.ico HTTP/1.1" 404 -
+223.139.134.175 - - [05/Nov/2023 05:15:41] "GET /Schedule/BandPractice HTTP/1.1" 200 -
+223.139.134.175 - - [05/Nov/2023 05:15:42] "GET /static/styles/main.css HTTP/1.1" 304 -
+223.139.134.175 - - [05/Nov/2023 05:15:42] "GET /favicon.ico HTTP/1.1" 404 -
+223.139.134.175 - - [05/Nov/2023 05:15:57] "GET /Schedule/BandPractice HTTP/1.1" 200 -
+223.139.134.175 - - [05/Nov/2023 05:15:57] "GET /static/styles/main.css HTTP/1.1" 304 -
+223.139.134.175 - - [05/Nov/2023 05:16:02] "GET /static/styles/main.css HTTP/1.1" 304 -
+223.139.134.175 - - [05/Nov/2023 05:16:57] "GET /Schedule/BandPractice HTTP/1.1" 200 -
+223.139.134.175 - - [05/Nov/2023 05:16:57] "GET /static/styles/main.css HTTP/1.1" 304 -
+ * Serving Flask app 'run'
+ * Debug mode: off
+Address already in use
+Port 80 is in use by another program. Either identify and stop that program, or start the server with a different port.
+ * Serving Flask app 'run'
+ * Debug mode: off
+WARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:80
+ * Running on http://172.31.26.153:80
+Press CTRL+C to quit
+[2023-11-05 05:18:21,425] ERROR in app: Exception on /Schedule/BandPractice [GET]
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.10/dist-packages/flask/app.py", line 1455, in wsgi_app
+    response = self.full_dispatch_request()
+  File "/usr/local/lib/python3.10/dist-packages/flask/app.py", line 869, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "/usr/local/lib/python3.10/dist-packages/flask/app.py", line 867, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "/usr/local/lib/python3.10/dist-packages/flask/app.py", line 852, in dispatch_request
+    return self.ensure_sync(self.view_functions[rule.endpoint])(**view_args)
+  File "/home/ubuntu/Web-BookingSystem/run.py", line 41, in Schedule
+    return render_template("Schedule.html", data = data, Type=Type)
+  File "/usr/local/lib/python3.10/dist-packages/flask/templating.py", line 151, in render_template
+    template = app.jinja_env.get_or_select_template(template_name_or_list)
+  File "/usr/local/lib/python3.10/dist-packages/jinja2/environment.py", line 1081, in get_or_select_template
+    return self.get_template(template_name_or_list, parent, globals)
+  File "/usr/local/lib/python3.10/dist-packages/jinja2/environment.py", line 1010, in get_template
+    return self._load_template(name, globals)
+  File "/usr/local/lib/python3.10/dist-packages/jinja2/environment.py", line 969, in _load_template
+    template = self.loader.load(self, name, self.make_globals(globals))
+  File "/usr/local/lib/python3.10/dist-packages/jinja2/loaders.py", line 126, in load
+    source, filename, uptodate = self.get_source(environment, name)
+  File "/usr/local/lib/python3.10/dist-packages/flask/templating.py", line 65, in get_source
+    return self._get_source_fast(environment, template)
+  File "/usr/local/lib/python3.10/dist-packages/flask/templating.py", line 96, in _get_source_fast
+    return loader.get_source(environment, template)
+  File "/usr/local/lib/python3.10/dist-packages/jinja2/loaders.py", line 204, in get_source
+    contents = f.read().decode(self.encoding)
+UnicodeDecodeError: 'utf-8' codec can't decode byte 0xe7 in position 73: invalid continuation byte
+223.139.134.175 - - [05/Nov/2023 05:18:21] "GET /Schedule/BandPractice HTTP/1.1" 500 -
+[2023-11-05 05:20:23,872] ERROR in app: Exception on /Schedule/BandPractice [GET]
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.10/dist-packages/flask/app.py", line 1455, in wsgi_app
+    response = self.full_dispatch_request()
+  File "/usr/local/lib/python3.10/dist-packages/flask/app.py", line 869, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "/usr/local/lib/python3.10/dist-packages/flask/app.py", line 867, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "/usr/local/lib/python3.10/dist-packages/flask/app.py", line 852, in dispatch_request
+    return self.ensure_sync(self.view_functions[rule.endpoint])(**view_args)
+  File "/home/ubuntu/Web-BookingSystem/run.py", line 41, in Schedule
+    return render_template("Schedule.html", data = data, Type=Type)
+  File "/usr/local/lib/python3.10/dist-packages/flask/templating.py", line 151, in render_template
+    template = app.jinja_env.get_or_select_template(template_name_or_list)
+  File "/usr/local/lib/python3.10/dist-packages/jinja2/environment.py", line 1081, in get_or_select_template
+    return self.get_template(template_name_or_list, parent, globals)
+  File "/usr/local/lib/python3.10/dist-packages/jinja2/environment.py", line 1010, in get_template
+    return self._load_template(name, globals)
+  File "/usr/local/lib/python3.10/dist-packages/jinja2/environment.py", line 969, in _load_template
+    template = self.loader.load(self, name, self.make_globals(globals))
+  File "/usr/local/lib/python3.10/dist-packages/jinja2/loaders.py", line 126, in load
+    source, filename, uptodate = self.get_source(environment, name)
+  File "/usr/local/lib/python3.10/dist-packages/flask/templating.py", line 65, in get_source
+    return self._get_source_fast(environment, template)
+  File "/usr/local/lib/python3.10/dist-packages/flask/templating.py", line 96, in _get_source_fast
+    return loader.get_source(environment, template)
+  File "/usr/local/lib/python3.10/dist-packages/jinja2/loaders.py", line 204, in get_source
+    contents = f.read().decode(self.encoding)
+UnicodeDecodeError: 'utf-8' codec can't decode byte 0xe7 in position 73: invalid continuation byte
+223.139.134.175 - - [05/Nov/2023 05:20:23] "GET /Schedule/BandPractice HTTP/1.1" 500 -
+ * Serving Flask app 'run'
+ * Debug mode: off
+WARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:80
+ * Running on http://172.31.26.153:80
+Press CTRL+C to quit
+[2023-11-05 05:20:50,189] ERROR in app: Exception on /Schedule/BandPractice [GET]
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.10/dist-packages/flask/app.py", line 1455, in wsgi_app
+    response = self.full_dispatch_request()
+  File "/usr/local/lib/python3.10/dist-packages/flask/app.py", line 869, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "/usr/local/lib/python3.10/dist-packages/flask/app.py", line 867, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "/usr/local/lib/python3.10/dist-packages/flask/app.py", line 852, in dispatch_request
+    return self.ensure_sync(self.view_functions[rule.endpoint])(**view_args)
+  File "/home/ubuntu/Web-BookingSystem/run.py", line 41, in Schedule
+    return render_template("Schedule.html", data = data, Type=Type)
+  File "/usr/local/lib/python3.10/dist-packages/flask/templating.py", line 151, in render_template
+    template = app.jinja_env.get_or_select_template(template_name_or_list)
+  File "/usr/local/lib/python3.10/dist-packages/jinja2/environment.py", line 1081, in get_or_select_template
+    return self.get_template(template_name_or_list, parent, globals)
+  File "/usr/local/lib/python3.10/dist-packages/jinja2/environment.py", line 1010, in get_template
+    return self._load_template(name, globals)
+  File "/usr/local/lib/python3.10/dist-packages/jinja2/environment.py", line 969, in _load_template
+    template = self.loader.load(self, name, self.make_globals(globals))
+  File "/usr/local/lib/python3.10/dist-packages/jinja2/loaders.py", line 126, in load
+    source, filename, uptodate = self.get_source(environment, name)
+  File "/usr/local/lib/python3.10/dist-packages/flask/templating.py", line 65, in get_source
+    return self._get_source_fast(environment, template)
+  File "/usr/local/lib/python3.10/dist-packages/flask/templating.py", line 96, in _get_source_fast
+    return loader.get_source(environment, template)
+  File "/usr/local/lib/python3.10/dist-packages/jinja2/loaders.py", line 204, in get_source
+    contents = f.read().decode(self.encoding)
+UnicodeDecodeError: 'utf-8' codec can't decode byte 0xe7 in position 73: invalid continuation byte
+223.139.134.175 - - [05/Nov/2023 05:20:50] "GET /Schedule/BandPractice HTTP/1.1" 500 -
+ * Serving Flask app 'run'
+ * Debug mode: off
+WARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:80
+ * Running on http://172.31.26.153:80
+Press CTRL+C to quit
+223.139.134.175 - - [05/Nov/2023 05:25:49] "GET /Schedule/BandPractice HTTP/1.1" 200 -
+223.139.134.175 - - [05/Nov/2023 05:25:49] "GET /static/styles/main.css HTTP/1.1" 304 -
+223.139.134.175 - - [05/Nov/2023 05:26:00] "GET /Schedule/GDSC HTTP/1.1" 200 -
+223.139.134.175 - - [05/Nov/2023 05:26:01] "GET /static/styles/main.css HTTP/1.1" 304 -
+223.139.134.175 - - [05/Nov/2023 05:26:57] "GET /Schedule/BandPractice HTTP/1.1" 200 -
+223.139.134.175 - - [05/Nov/2023 05:26:58] "GET /static/styles/main.css HTTP/1.1" 304 -
+45.79.172.21 - - [05/Nov/2023 05:27:34] code 400, message Bad request version ('À\x14À')
+45.79.172.21 - - [05/Nov/2023 05:27:34] "\x16\x03\x01\x00\x85\x01\x00\x00\x81\x03\x03\x10;\x99\x8d]]ÿ\x9eIÏgý;`wQÇ\x10\x09\x85\x1fpÊR`{ï\x94\x08\x0f\x7fÅ\x00\x00 À/À0À+À,Ì¨Ì©À\x13À\x09À\x14À" HTTPStatus.BAD_REQUEST -
+223.139.134.175 - - [05/Nov/2023 05:28:47] "GET /Schedule/BandPractice HTTP/1.1" 200 -
+223.139.134.175 - - [05/Nov/2023 05:28:47] "GET /static/styles/main.css HTTP/1.1" 304 -
+162.216.149.238 - - [05/Nov/2023 05:32:46] "GET / HTTP/1.1" 404 -
+18.223.113.110 - - [05/Nov/2023 05:39:42] "GET / HTTP/1.1" 404 -
+18.223.113.110 - - [05/Nov/2023 05:51:51] "GET / HTTP/1.1" 404 -
+223.139.134.175 - - [05/Nov/2023 06:00:33] "GET /Schedule/BandPractice HTTP/1.1" 200 -
+223.139.134.175 - - [05/Nov/2023 06:00:34] "GET /static/styles/main.css HTTP/1.1" 304 -
+223.139.121.24 - - [05/Nov/2023 06:01:09] "GET /Schedule/BandPractice HTTP/1.1" 200 -
+223.139.121.24 - - [05/Nov/2023 06:01:10] "GET /static/styles/main.css HTTP/1.1" 304 -
+223.139.121.24 - - [05/Nov/2023 06:01:10] "GET /favicon.ico HTTP/1.1" 404 -
+223.139.121.24 - - [05/Nov/2023 06:01:28] "GET /Schedule/BandPractice HTTP/1.1" 200 -
+223.139.121.24 - - [05/Nov/2023 06:01:28] "GET /static/styles/main.css HTTP/1.1" 304 -
+223.139.121.24 - - [05/Nov/2023 06:01:29] "GET /favicon.ico HTTP/1.1" 404 -
+198.235.24.143 - - [05/Nov/2023 06:10:01] code 400, message Bad request syntax ('\x16\x03\x01\x00î\x01\x00\x00ê\x03\x03)J8®çºS\x17\x9a\x9f\x89c\x10ù\x96SIj?+\x8c<')
+198.235.24.143 - - [05/Nov/2023 06:10:01] "\x16\x03\x01\x00î\x01\x00\x00ê\x03\x03)J8®çºS\x17\x9a\x9f\x89c\x10ù\x96SIj?+\x8c<" HTTPStatus.BAD_REQUEST -
+198.235.24.143 - - [05/Nov/2023 06:10:01] code 400, message Bad request version ('À(À$À\x14À')
+198.235.24.143 - - [05/Nov/2023 06:10:01] "\x16\x03\x01\x00Ê\x01\x00\x00Æ\x03\x03T¿#(û×j\x01­¤\x85¡Àà\x12\x1degY\x15ÔÜCIQà\x9aÉacLø\x00\x00hÌ\x14Ì\x13À/À+À0À,À\x11À\x07À'À#À\x13À\x09À(À$À\x14À" HTTPStatus.BAD_REQUEST -
+91.92.255.41 - - [05/Nov/2023 06:10:08] "GET /.git/config HTTP/1.1" 404 -
+91.92.255.41 - - [05/Nov/2023 06:10:09] "GET /.git/config HTTP/1.1" 404 -
+91.92.255.41 - - [05/Nov/2023 06:10:13] "GET /.git/config HTTP/1.1" 404 -
+91.92.255.41 - - [05/Nov/2023 06:10:14] "GET /.git/config HTTP/1.1" 404 -
+223.139.134.175 - - [05/Nov/2023 06:20:10] "GET /Schedule/BandPractice HTTP/1.1" 200 -
+223.139.134.175 - - [05/Nov/2023 06:20:11] "GET /static/styles/main.css HTTP/1.1" 304 -
+43.154.8.109 - - [05/Nov/2023 06:23:46] "HEAD /Core/Skin/Login.aspx HTTP/1.1" 404 -
+223.139.134.175 - - [05/Nov/2023 06:49:21] "GET /Schedule/BandPractice HTTP/1.1" 200 -
+223.139.134.175 - - [05/Nov/2023 06:49:21] "GET /static/styles/main.css HTTP/1.1" 200 -
+40.77.167.184 - - [05/Nov/2023 07:27:31] code 400, message Bad request version ("ì8~%f²\x81%%\x06Êû\x9b·Ì´ìp@\x8c%\x16Ôµ\x8dä{6£ô\x90b\x00(\x13\x02\x13\x01À,À+À0À/À$À#À(À'À")
+40.77.167.184 - - [05/Nov/2023 07:27:31] "\x16\x03\x01\x01C\x01\x00\x01?\x03\x03\x91_\x09H¡Ö,q\x83òL\x80G<\x1fk(\x17øT\x00"#\x92\x9b´pü"©û\x92 ì8~%f²\x81%%\x06Êû\x9b·Ì´ìp@\x8c%\x16Ôµ\x8dä{6£ô\x90b\x00(\x13\x02\x13\x01À,À+À0À/À$À#À(À'À" HTTPStatus.BAD_REQUEST -
+40.77.167.184 - - [05/Nov/2023 07:27:32] code 400, message Bad HTTP/0.9 request type ('\x16\x03\x03\x00§\x01\x00\x00£\x03\x03eGCäÇ÷¤kë')
+40.77.167.184 - - [05/Nov/2023 07:27:32] "\x16\x03\x03\x00§\x01\x00\x00£\x03\x03eGCäÇ÷¤kë\x1f|¯\x1b\x89SAt\x94@­}\x13&ä{å{ä\x8açíB\x00\x00$À,À+À0À/À$À#À(À'À" HTTPStatus.BAD_REQUEST -
+40.77.167.184 - - [05/Nov/2023 07:27:32] code 400, message Bad HTTP/0.9 request type ('\x16\x03\x03\x00§\x01\x00\x00£\x03\x03eGCäÑ\x97ª\x16<û¾Òç')
+40.77.167.184 - - [05/Nov/2023 07:27:32] "\x16\x03\x03\x00§\x01\x00\x00£\x03\x03eGCäÑ\x97ª\x16<û¾Òç\x85ª´\x99Û\x0e;¥\x8d\x89\x83\x92[\x97;£ñþª\x00\x00$À,À+À0À/À$À#À(À'À" HTTPStatus.BAD_REQUEST -
+40.77.167.184 - - [05/Nov/2023 07:27:33] code 400, message Bad request version ('\x00\x1a\x00\x18\x08\x04\x08\x05\x08\x06\x04\x01\x05\x01\x02\x01\x04\x03\x05\x03\x02\x03\x02\x02\x06\x01\x06\x03\x00#\x00\x00\x00')
+40.77.167.184 - - [05/Nov/2023 07:27:33] "\x16\x03\x01\x01\x1d\x01\x00\x01\x19\x03\x034\x99­\x03ZpÓÅ1\x81K):\x08âzù¢þ\x95Ç\x82Qÿ\x84qÙöß\x0f\x16ý Ixoû\x98ö¬Oªrñ6:\x1f3\x07é\x17úOÑ³Éç\x19\x8a\x01ë\x05¤2+\x00\x04\x13\x02\x13\x01\x01\x00\x00Ì\x00\x05\x00\x05\x01\x00\x00\x00\x00\x00+\x00\x03\x02\x03\x04\x00\x0d\x00\x1a\x00\x18\x08\x04\x08\x05\x08\x06\x04\x01\x05\x01\x02\x01\x04\x03\x05\x03\x02\x03\x02\x02\x06\x01\x06\x03\x00#\x00\x00\x00" HTTPStatus.BAD_REQUEST -
+40.77.167.43 - - [05/Nov/2023 07:27:39] code 400, message Bad request version ("f\x95\x00,\x13\x02\x13\x01À,À+À0À/\x00\x9f\x00\x9eÀ$À#À(À'À")
+40.77.167.43 - - [05/Nov/2023 07:27:39] "\x16\x03\x01\x01>\x01\x00\x01:\x03\x03^«#À\x10\x94\x97ËnÏ5Õ\x17ÄfxÜÙ÷yÙæ-ñvrÅó¾3¬z ¢-%\x87§b«¯}\x9cñÈPOW»#p@d>­z\x82D\x86\x91UÈ\x0bf\x95\x00,\x13\x02\x13\x01À,À+À0À/\x00\x9f\x00\x9eÀ$À#À(À'À" HTTPStatus.BAD_REQUEST -
+43.154.8.109 - - [05/Nov/2023 07:56:58] "HEAD /Core/Skin/Login.aspx HTTP/1.1" 404 -
+139.162.84.205 - - [05/Nov/2023 08:44:24] "GET / HTTP/1.0" 404 -
+180.217.158.232 - - [05/Nov/2023 08:51:20] "GET /Schedule/BandPractice HTTP/1.1" 200 -
+180.217.158.232 - - [05/Nov/2023 08:51:20] "GET /static/styles/main.css HTTP/1.1" 304 -
+180.217.158.232 - - [05/Nov/2023 08:51:29] "POST /Submit/BandPractice HTTP/1.1" 200 -
+180.217.158.232 - - [05/Nov/2023 08:51:36] "GET /Submit/BandPractice HTTP/1.1" 200 -
+180.217.158.232 - - [05/Nov/2023 08:51:36] "GET /favicon.ico HTTP/1.1" 404 -
+180.217.158.232 - - [05/Nov/2023 08:51:40] "GET /favicon.ico HTTP/1.1" 404 -
+180.217.158.232 - - [05/Nov/2023 08:51:43] "GET /Schedule/BandPractice HTTP/1.1" 200 -
+180.217.158.232 - - [05/Nov/2023 08:51:43] "GET /static/styles/main.css HTTP/1.1" 304 -
+180.217.158.232 - - [05/Nov/2023 08:52:17] "GET /Schedule/BandPractice HTTP/1.1" 200 -
+180.217.158.232 - - [05/Nov/2023 08:52:18] "GET /static/styles/main.css HTTP/1.1" 304 -
+180.217.158.232 - - [05/Nov/2023 08:52:31] "POST /Submit/BandPractice HTTP/1.1" 200 -
+180.217.158.232 - - [05/Nov/2023 08:52:49] "GET /Schedule/BandPractice HTTP/1.1" 200 -
+180.217.158.232 - - [05/Nov/2023 08:52:50] "GET /static/styles/main.css HTTP/1.1" 304 -
+180.217.158.232 - - [05/Nov/2023 08:53:07] "POST /Submit/BandPractice HTTP/1.1" 200 -
+180.217.158.232 - - [05/Nov/2023 08:53:11] "GET /favicon.ico HTTP/1.1" 404 -
+185.254.196.173 - - [05/Nov/2023 08:55:07] "GET /.env HTTP/1.1" 404 -
+185.254.196.173 - - [05/Nov/2023 08:55:08] "POST / HTTP/1.1" 404 -
+118.233.215.186 - - [05/Nov/2023 09:21:27] "GET /Submit/BandPractice HTTP/1.1" 200 -
+118.233.215.186 - - [05/Nov/2023 09:21:27] "GET /favicon.ico HTTP/1.1" 404 -
+198.235.24.23 - - [05/Nov/2023 09:23:17] "GET / HTTP/1.0" 404 -
+128.14.133.50 - - [05/Nov/2023 09:29:06] "GET / HTTP/1.1" 404 -
+174.65.227.71 - - [05/Nov/2023 09:30:03] "GET / HTTP/1.1" 404 -
+43.154.8.109 - - [05/Nov/2023 09:30:07] "HEAD /Core/Skin/Login.aspx HTTP/1.1" 404 -
+223.139.121.24 - - [05/Nov/2023 09:41:16] "GET /Schedule/BandPractice HTTP/1.1" 200 -
+223.139.121.24 - - [05/Nov/2023 09:41:16] "GET /static/styles/main.css HTTP/1.1" 304 -
+223.139.121.24 - - [05/Nov/2023 09:41:17] "GET /favicon.ico HTTP/1.1" 404 -
+223.139.121.24 - - [05/Nov/2023 09:41:27] "GET /Schedule/BandPractice HTTP/1.1" 200 -
+223.139.121.24 - - [05/Nov/2023 09:41:27] "GET /static/styles/main.css HTTP/1.1" 304 -
+223.139.121.24 - - [05/Nov/2023 09:41:27] "GET /favicon.ico HTTP/1.1" 404 -
+223.139.121.24 - - [05/Nov/2023 09:42:24] "POST /Submit/BandPractice HTTP/1.1" 200 -
+195.170.172.128 - - [05/Nov/2023 10:07:14] code 400, message Bad request version ("o\x8e\x00>\x13\x02\x13\x03\x13\x01À,À0\x00\x9fÌ©Ì¨ÌªÀ+À/\x00\x9eÀ$À(\x00kÀ#À'\x00gÀ")
+195.170.172.128 - - [05/Nov/2023 10:07:14] "\x16\x03\x01\x02\x00\x01\x00\x01ü\x03\x03fá\x81/9J§É4m\x0cwÔzëòÑÊ\x94_¬C\x00\x85­³ÞqGéø` ;!\x90g\x8cAéëÙ\x08L,ª LT\x13\x0d\x8c\x18,NÞ\x01,¼\x06\x8e»\x85o\x8e\x00>\x13\x02\x13\x03\x13\x01À,À0\x00\x9fÌ©Ì¨ÌªÀ+À/\x00\x9eÀ$À(\x00kÀ#À'\x00gÀ" HTTPStatus.BAD_REQUEST -
+195.170.172.128 - - [05/Nov/2023 10:07:17] code 400, message Bad request version ('["cpuminer/2.5.1"]}')
+195.170.172.128 - - [05/Nov/2023 10:07:17] "{"id": 1, "method": "mining.subscribe", "params": ["cpuminer/2.5.1"]}" HTTPStatus.BAD_REQUEST -
+195.170.172.128 - - [05/Nov/2023 10:07:19] code 400, message Bad request version ('"EthereumStratum/1.0.0"]}')
+195.170.172.128 - - [05/Nov/2023 10:07:19] "{"id": 1, "method": "mining.subscribe", "params": ["MinerName/1.0.0", "EthereumStratum/1.0.0"]}" HTTPStatus.BAD_REQUEST -
+195.170.172.128 - - [05/Nov/2023 10:07:21] code 400, message Bad request syntax ('{"id":1,"method":"eth_submitLogin","worker":"igwrcvap","params":["0x2b07536b585da4a4429226962a51cda6512d6e80","x"],"jsonrpc":"2.0"}')
+195.170.172.128 - - [05/Nov/2023 10:07:21] "{"id":1,"method":"eth_submitLogin","worker":"igwrcvap","params":["0x2b07536b585da4a4429226962a51cda6512d6e80","x"],"jsonrpc":"2.0"}" HTTPStatus.BAD_REQUEST -
+195.170.172.128 - - [05/Nov/2023 10:07:23] code 400, message Bad request version ('msvc/2019","algo":["cn/1","cn/2","cn/r","cn/fast","cn/half","cn/xao","cn/rto","cn/rwz","cn/zls","cn/double","cn/ccx","cn-lite/1","cn-heavy/0","cn-heavy/tube","cn-heavy/xhv","cn-pico","cn-pico/tlo","cn/upx2","rx/0","rx/wow","rx/arq","rx/graft","rx/sfx","rx/keva","argon2/chukwa","argon2/chukwav2","argon2/ninja","astrobwt"]}}')
+195.170.172.128 - - [05/Nov/2023 10:07:23] "{"id":1,"jsonrpc":"2.0","method":"login","params":{"login":"426syQmPtwj2PWM72s1AcY7WQ3W9YMcYhCLhKqhHbH8J4Jg4gsz185bf3nGGDSkTNGPJzmTrKdX7fbUuQEwEdy712foHF6y","pass":"x","agent":"XMRig/6.15.3 (Windows NT 10.0; Win64; x64) libuv/1.42.0 msvc/2019","algo":["cn/1","cn/2","cn/r","cn/fast","cn/half","cn/xao","cn/rto","cn/rwz","cn/zls","cn/double","cn/ccx","cn-lite/1","cn-heavy/0","cn-heavy/tube","cn-heavy/xhv","cn-pico","cn-pico/tlo","cn/upx2","rx/0","rx/wow","rx/arq","rx/graft","rx/sfx","rx/keva","argon2/chukwa","argon2/chukwav2","argon2/ninja","astrobwt"]}}" HTTPStatus.BAD_REQUEST -
+195.170.172.128 - - [05/Nov/2023 10:07:24] "GET / HTTP/1.1" 404 -
+195.170.172.128 - - [05/Nov/2023 10:07:25] "POST / HTTP/1.1" 404 -
+195.170.172.128 - - [05/Nov/2023 10:07:27] "POST / HTTP/1.1" 404 -
+195.170.172.128 - - [05/Nov/2023 10:07:28] "GET /WuEL HTTP/1.1" 404 -
+195.170.172.128 - - [05/Nov/2023 10:07:31] "GET stager64 HTTP/1.1" 404 -
+195.170.172.128 - - [05/Nov/2023 10:07:33] "GET /a HTTP/1.1" 404 -
+195.170.172.128 - - [05/Nov/2023 10:07:35] "GET /download/file.ext HTTP/1.1" 404 -
+195.170.172.128 - - [05/Nov/2023 10:07:38] "GET /SiteLoader HTTP/1.1" 404 -
+195.170.172.128 - - [05/Nov/2023 10:07:40] "GET /mPlayer HTTP/1.1" 404 -
+195.170.172.128 - - [05/Nov/2023 10:07:42] "POST / HTTP/1.1" 404 -
+111.82.3.209 - - [05/Nov/2023 10:13:20] "GET /Schedule/GDSC HTTP/1.1" 200 -
+111.82.3.209 - - [05/Nov/2023 10:13:20] "GET /static/styles/main.css HTTP/1.1" 200 -
+111.82.3.209 - - [05/Nov/2023 10:13:21] "GET /favicon.ico HTTP/1.1" 404 -
+64.62.197.140 - - [05/Nov/2023 10:39:21] "GET / HTTP/1.1" 404 -
+64.62.197.149 - - [05/Nov/2023 10:41:00] "GET /favicon.ico HTTP/1.1" 404 -
+64.62.197.140 - - [05/Nov/2023 10:41:37] "GET /geoserver/web/ HTTP/1.1" 404 -
+15.188.79.84 - - [05/Nov/2023 11:01:22] "GET / HTTP/1.1" 404 -
+43.154.8.109 - - [05/Nov/2023 11:03:14] "HEAD /Core/Skin/Login.aspx HTTP/1.1" 404 -
+167.248.133.188 - - [05/Nov/2023 11:15:10] "GET / HTTP/1.1" 404 -
+167.248.133.188 - - [05/Nov/2023 11:15:11] "GET / HTTP/1.1" 404 -
+167.248.133.188 - - [05/Nov/2023 11:15:12] code 505, message Invalid HTTP version (2.0)
+167.248.133.188 - - [05/Nov/2023 11:15:12] "PRI * HTTP/2.0" HTTPStatus.HTTP_VERSION_NOT_SUPPORTED -
+185.254.196.173 - - [05/Nov/2023 11:43:02] "GET /.env HTTP/1.1" 404 -
+185.254.196.173 - - [05/Nov/2023 11:43:04] "POST / HTTP/1.1" 404 -
+45.79.181.223 - - [05/Nov/2023 11:47:22] code 400, message Bad request version ('À\x14À')
+45.79.181.223 - - [05/Nov/2023 11:47:22] "\x16\x03\x01\x00\x85\x01\x00\x00\x81\x03\x03\x98ÞÏÒ\x1cß¥\x1dy\x03\x97\x06yq8È\x1eso\x886P\x90oVíÇN¶¸\x8d\x8a\x00\x00 À/À0À+À,Ì¨Ì©À\x13À\x09À\x14À" HTTPStatus.BAD_REQUEST -
+89.248.168.235 - - [05/Nov/2023 11:57:09] "GET / HTTP/1.0" 404 -
+1.200.138.11 - - [05/Nov/2023 12:22:23] "GET /Schedule/BandPractice HTTP/1.1" 200 -
+1.200.138.11 - - [05/Nov/2023 12:22:24] "GET /static/styles/main.css HTTP/1.1" 304 -
+1.200.138.11 - - [05/Nov/2023 12:22:44] "POST /Submit/BandPractice HTTP/1.1" 200 -
+1.200.138.11 - - [05/Nov/2023 12:22:51] "GET /Schedule/BandPractice HTTP/1.1" 200 -
+1.200.138.11 - - [05/Nov/2023 12:22:51] "GET /static/styles/main.css HTTP/1.1" 304 -
+1.200.138.11 - - [05/Nov/2023 12:22:54] "GET /Schedule/BandPractice HTTP/1.1" 200 -
+1.200.138.11 - - [05/Nov/2023 12:22:55] "GET /static/styles/main.css HTTP/1.1" 200 -
+1.200.138.11 - - [05/Nov/2023 12:22:55] "GET /favicon.ico HTTP/1.1" 404 -
+1.200.138.11 - - [05/Nov/2023 12:23:00] "POST /Submit/BandPractice HTTP/1.1" 200 -
+1.200.138.11 - - [05/Nov/2023 12:23:29] "POST /Submit/BandPractice HTTP/1.1" 200 -
+1.200.138.11 - - [05/Nov/2023 12:23:47] "POST /Submit/BandPractice HTTP/1.1" 200 -
+147.92.179.106 - - [05/Nov/2023 12:36:06] "GET / HTTP/1.1" 404 -
+147.92.179.113 - - [05/Nov/2023 12:36:07] "GET /Schedule/GDSC HTTP/1.1" 200 -
+43.154.8.109 - - [05/Nov/2023 12:36:39] "HEAD /Core/Skin/Login.aspx HTTP/1.1" 404 -
+140.117.183.234 - - [05/Nov/2023 12:36:56] "GET / HTTP/1.1" 404 -
+139.162.84.205 - - [05/Nov/2023 12:38:00] "GET / HTTP/1.0" 404 -
+140.117.183.232 - - [05/Nov/2023 12:41:44] "GET /Schedule/BandPractice HTTP/1.1" 200 -
+140.117.183.231 - - [05/Nov/2023 12:41:44] "GET /static/styles/main.css HTTP/1.1" 200 -
+140.117.183.233 - - [05/Nov/2023 12:41:44] "GET /favicon.ico HTTP/1.1" 404 -
+1.200.138.11 - - [05/Nov/2023 12:50:38] "POST /Submit/BandPractice HTTP/1.1" 200 -
+1.200.138.11 - - [05/Nov/2023 12:50:38] "GET /favicon.ico HTTP/1.1" 404 -
+140.117.183.232 - - [05/Nov/2023 13:02:18] "GET /Schedule/GDSC HTTP/1.1" 200 -
+140.117.183.232 - - [05/Nov/2023 13:02:18] "GET /static/styles/main.css HTTP/1.1" 200 -
+140.117.183.231 - - [05/Nov/2023 13:02:26] "GET /Schedule/GDSC HTTP/1.1" 200 -
+140.117.183.231 - - [05/Nov/2023 13:02:26] "GET /static/styles/main.css HTTP/1.1" 304 -
+140.117.183.233 - - [05/Nov/2023 13:06:18] "GET /Schedule/GDSC HTTP/1.1" 200 -
+140.117.183.232 - - [05/Nov/2023 13:06:18] "GET /static/styles/main.css HTTP/1.1" 304 -
+223.139.121.24 - - [05/Nov/2023 13:06:24] "GET /Schedule/BandPractice HTTP/1.1" 200 -
+223.139.121.24 - - [05/Nov/2023 13:06:24] "GET /static/styles/main.css HTTP/1.1" 304 -
+223.139.121.24 - - [05/Nov/2023 13:06:25] "GET /favicon.ico HTTP/1.1" 404 -
+185.254.196.173 - - [05/Nov/2023 13:07:39] "GET /.env HTTP/1.1" 404 -
+185.254.196.173 - - [05/Nov/2023 13:07:42] "POST / HTTP/1.1" 404 -
+43.154.8.109 - - [05/Nov/2023 14:10:11] "HEAD /Core/Skin/Login.aspx HTTP/1.1" 404 -
+192.241.214.16 - - [05/Nov/2023 14:17:48] "GET / HTTP/1.1" 404 -
+78.153.140.221 - - [05/Nov/2023 14:18:10] "GET /.env HTTP/1.1" 404 -
+78.153.140.221 - - [05/Nov/2023 14:18:10] code 400, message Bad request version ("O>{ý\x8f/äËÍ®;\x05V'Jc\x80:\x92nA.\x82%\x0f\x00b\x13\x02\x13\x03\x13\x01À,À0À+À/Ì©Ì¨\x00£\x00\x9f\x00¢\x00\x9eÌªÀ¯À\xadÀ$À(À")
+78.153.140.221 - - [05/Nov/2023 14:18:10] "\x16\x03\x01\x01H\x01\x00\x01D\x03\x03ñ:}S÷¤më|Ø |EgØá;á\x06­úêÃç~£ì+\x7f\x193¿ \x08\x95»L\x85Û\x1eO>{ý\x8f/äËÍ®;\x05V'Jc\x80:\x92nA.\x82%\x0f\x00b\x13\x02\x13\x03\x13\x01À,À0À+À/Ì©Ì¨\x00£\x00\x9f\x00¢\x00\x9eÌªÀ¯À­À$À(À" HTTPStatus.BAD_REQUEST -
+20.40.103.45 - - [05/Nov/2023 14:46:49] "GET /_profiler/phpinfo HTTP/1.1" 404 -
+20.40.103.45 - - [05/Nov/2023 14:46:54] "GET /yuuki?pp=env HTTP/1.1" 404 -
+20.40.103.45 - - [05/Nov/2023 14:46:56] "GET /.env HTTP/1.1" 404 -
+20.40.103.45 - - [05/Nov/2023 14:46:59] "POST / HTTP/1.1" 404 -
+185.254.196.173 - - [05/Nov/2023 14:57:45] "GET /.env HTTP/1.1" 404 -
+185.254.196.173 - - [05/Nov/2023 14:57:46] "POST / HTTP/1.1" 404 -
+192.241.195.64 - - [05/Nov/2023 14:58:31] "GET / HTTP/1.1" 404 -
+135.125.246.189 - - [05/Nov/2023 15:06:57] "GET /.env HTTP/1.1" 404 -
+135.125.246.189 - - [05/Nov/2023 15:06:58] "POST / HTTP/1.1" 404 -
+135.125.246.189 - - [05/Nov/2023 15:41:25] "GET /.env HTTP/1.1" 404 -
+135.125.246.189 - - [05/Nov/2023 15:41:25] "POST / HTTP/1.1" 404 -
+43.154.8.109 - - [05/Nov/2023 15:45:52] "HEAD /Core/Skin/Login.aspx HTTP/1.1" 404 -
+140.117.248.1 - - [05/Nov/2023 16:03:49] "GET /Schedule/BandPractice HTTP/1.1" 200 -
+140.117.248.1 - - [05/Nov/2023 16:03:50] "GET /static/styles/main.css HTTP/1.1" 200 -
+140.117.248.1 - - [05/Nov/2023 16:03:50] "GET /favicon.ico HTTP/1.1" 404 -
+54.243.246.120 - - [05/Nov/2023 16:17:15] "GET / HTTP/1.1" 404 -
+54.243.246.120 - - [05/Nov/2023 16:17:16] code 400, message Bad request version ('À\x13À')
+54.243.246.120 - - [05/Nov/2023 16:17:16] "\x16\x03\x01\x00ê\x01\x00\x00æ\x03\x034WÛÁ_ä\x120»Ü¶\x91Æ¸Äs´ðFË\x91÷\x15Í¸Û÷²Ãg¸  Y®$ÃpÚs^Ä¹\x87ø´]ïì\x06\x89m Çz\x140B(t3ï«­\x16\x00&À+À/À,À0Ì©Ì¨À\x09À\x13À" HTTPStatus.BAD_REQUEST -
+3.223.72.184 - - [05/Nov/2023 16:22:33] "GET / HTTP/1.1" 404 -
+3.223.72.184 - - [05/Nov/2023 16:22:44] "GET / HTTP/1.1" 404 -
+3.223.72.184 - - [05/Nov/2023 16:30:05] "GET / HTTP/1.1" 404 -
+3.223.72.184 - - [05/Nov/2023 16:30:06] code 400, message Bad request version ('À\x13À')
+3.223.72.184 - - [05/Nov/2023 16:30:06] "\x16\x03\x01\x00ê\x01\x00\x00æ\x03\x03Ó\x9bOÇ\x8dDË Kò\x0b\x9aO-\x1fï\x19Ã\x9b\x03Ølíã.Uî.Qàð0 é½\x17®g\x00WoMå½\x1e¢\x96-\x95ß²\x8cÁ½\x91"ÐF4Ç\x1e\x18AÇ\x96\x00&À+À/À,À0Ì©Ì¨À\x09À\x13À" HTTPStatus.BAD_REQUEST -
+3.223.72.184 - - [05/Nov/2023 16:30:13] "GET / HTTP/1.1" 404 -
+3.223.72.184 - - [05/Nov/2023 16:30:17] code 400, message Bad request version ('3ß"å*')
+3.223.72.184 - - [05/Nov/2023 16:30:17] "\x16\x03\x01\x00ê\x01\x00\x00æ\x03\x03üð\x18ÛäË\x17¾döó\x91¯·­4\x87b¢é¤6VÝè{HÜ7\x88\x03\x00 \x18ã\x93\x0c3ß"å*" HTTPStatus.BAD_REQUEST -
+54.243.246.120 - - [05/Nov/2023 16:34:54] "GET / HTTP/1.1" 404 -
+54.243.246.120 - - [05/Nov/2023 16:34:58] code 400, message Bad request version ('À\x13À')
+54.243.246.120 - - [05/Nov/2023 16:34:58] "\x16\x03\x01\x00ê\x01\x00\x00æ\x03\x03"ø¡\x0f±!\x1b«À\x1fBf\x02;8\x0dxª\x8dj5^W):F¡z|\x13+µ å7¬\x7ff¼\x07óÐ\x01yÓ\x12ÖØU@#óËÑ#eb\x8a\x93\x80þì­ùø\x00&À+À/À,À0Ì©Ì¨À\x09À\x13À" HTTPStatus.BAD_REQUEST -
+54.243.246.120 - - [05/Nov/2023 16:34:59] "GET / HTTP/1.1" 404 -
+54.243.246.120 - - [05/Nov/2023 16:34:59] code 400, message Bad request version ('À\x13À')
+54.243.246.120 - - [05/Nov/2023 16:34:59] "\x16\x03\x01\x00ê\x01\x00\x00æ\x03\x03À\x8b~3¤\x8fWÖ\x86=Né\x9d\x1aáÛ8{B\x02\x17]\x98\x9be"\x0fµýa\x08\x0b Á\x91\x187î±ý¥mÄ:$àSÄ\x8do¸A}\x94ôS18\x93 \\¢¾\x81\x0d\x00&À+À/À,À0Ì©Ì¨À\x09À\x13À" HTTPStatus.BAD_REQUEST -
+44.208.85.154 - - [05/Nov/2023 16:37:09] "GET / HTTP/1.1" 404 -
+44.208.85.154 - - [05/Nov/2023 16:37:13] code 400, message Bad request syntax ('\x16\x03\x01\x00ê\x01\x00\x00æ\x03\x03Á^[bGÁò7¶²ÆH6¥\x93\x8dE')
+44.208.85.154 - - [05/Nov/2023 16:37:13] "\x16\x03\x01\x00ê\x01\x00\x00æ\x03\x03Á^[bGÁò7¶²ÆH6¥\x93\x8dE" HTTPStatus.BAD_REQUEST -
+44.208.85.154 - - [05/Nov/2023 16:37:19] "GET / HTTP/1.1" 404 -
+44.208.85.154 - - [05/Nov/2023 16:37:20] code 400, message Bad request version ('À\x13À')
+44.208.85.154 - - [05/Nov/2023 16:37:20] "\x16\x03\x01\x00ê\x01\x00\x00æ\x03\x03?\\\x9eGC\x8a\x9d\\÷BrÆûgw¤¾g$½KK£\x9aó2y°\x1aE\x87L \x80\x1f(õ\x13[ª¸¦Ö\x86\x8aÝ\x03\x1c\x99E¯\x8d¥\x83nOZ\x1bî¾sôýcó\x00&À+À/À,À0Ì©Ì¨À\x09À\x13À" HTTPStatus.BAD_REQUEST -
+3.223.72.184 - - [05/Nov/2023 16:40:00] code 400, message Bad request version ('À\x13À')
+3.223.72.184 - - [05/Nov/2023 16:40:00] "\x16\x03\x01\x01\x07\x01\x00\x01\x03\x03\x03\x9a\x86Nÿ\x1f]<@RhJ\x97ó¶q-\x97\x91Æ²ë=<e¨ßþ\x9c\x1c\x94M\x90 , ç\x97\x1d\x0fàËrÑóy¾\x88Ã´\x9cóÂ\x18(\x0fà½\x85Å\x8cQ\x11é\x08ß\x00&À+À/À,À0Ì©Ì¨À\x09À\x13À" HTTPStatus.BAD_REQUEST -
+3.223.72.184 - - [05/Nov/2023 16:41:05] "GET /cdn-cgi/trace HTTP/1.1" 404 -
+44.208.85.154 - - [05/Nov/2023 16:43:10] code 400, message Bad request version ('À\x13À')
+44.208.85.154 - - [05/Nov/2023 16:43:10] "\x16\x03\x01\x01\x07\x01\x00\x01\x03\x03\x03Ì\x94\x88øNØ\x18NÄ\x96ª¼ªNUÜ\x98\x1f\x8dÛ\x8cÙdß\x95\x1a\x197¡Ó­ü \x08÷çPÂ];ª99¤\x9d\x18\x96\x94\x9bäR#vìò¥ìâ]nÄ¡6rª\x00&À+À/À,À0Ì©Ì¨À\x09À\x13À" HTTPStatus.BAD_REQUEST -
+139.162.84.205 - - [05/Nov/2023 16:43:19] "GET / HTTP/1.0" 404 -
+44.208.85.154 - - [05/Nov/2023 16:44:12] "GET /cdn-cgi/trace HTTP/1.1" 404 -
+3.223.72.184 - - [05/Nov/2023 16:45:28] code 400, message Bad request version ('À\x13À')
+3.223.72.184 - - [05/Nov/2023 16:45:28] "\x16\x03\x01\x01\x07\x01\x00\x01\x03\x03\x03\x04\x02ÇÝq\x8cûç#Ê\x96U\x9càt\x81ãþ}Fyô\x1a\x03 j¹ ë\x89³V éH¹\x97¬\x967Ð\x06\x977\x9fêøX\x93×ß\x95\x8e\x94çMqBÔrÔP²\x97 \x00&À+À/À,À0Ì©Ì¨À\x09À\x13À" HTTPStatus.BAD_REQUEST -
+3.223.72.184 - - [05/Nov/2023 16:46:29] "GET /cdn-cgi/trace HTTP/1.1" 404 -
+157.254.223.53 - - [05/Nov/2023 16:53:52] "GET / HTTP/1.1" 404 -
+157.254.223.53 - - [05/Nov/2023 16:53:52] "POST /vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php HTTP/1.1" 404 -
+157.254.223.53 - - [05/Nov/2023 16:53:53] "POST /vendor/phpunit/phpunit/Util/PHP/eval-stdin.php HTTP/1.1" 404 -
+157.254.223.53 - - [05/Nov/2023 16:53:53] "POST /vendor/phpunit/src/Util/PHP/eval-stdin.php HTTP/1.1" 404 -
+157.254.223.53 - - [05/Nov/2023 16:53:54] "POST /vendor/phpunit/Util/PHP/eval-stdin.php HTTP/1.1" 404 -
+157.254.223.53 - - [05/Nov/2023 16:53:54] "POST /phpunit/phpunit/src/Util/PHP/eval-stdin.php HTTP/1.1" 404 -
+157.254.223.53 - - [05/Nov/2023 16:53:55] "POST /phpunit/phpunit/Util/PHP/eval-stdin.php HTTP/1.1" 404 -
+157.254.223.53 - - [05/Nov/2023 16:53:55] "POST /phpunit/src/Util/PHP/eval-stdin.php HTTP/1.1" 404 -
+157.254.223.53 - - [05/Nov/2023 16:53:56] "POST /phpunit/Util/PHP/eval-stdin.php HTTP/1.1" 404 -
+157.254.223.53 - - [05/Nov/2023 16:53:56] "POST /lib/phpunit/phpunit/src/Util/PHP/eval-stdin.php HTTP/1.1" 404 -
+157.254.223.53 - - [05/Nov/2023 16:53:57] "POST /lib/phpunit/phpunit/Util/PHP/eval-stdin.php HTTP/1.1" 404 -
+157.254.223.53 - - [05/Nov/2023 16:53:58] "POST /lib/phpunit/src/Util/PHP/eval-stdin.php HTTP/1.1" 404 -
+157.254.223.53 - - [05/Nov/2023 16:53:58] "POST /lib/phpunit/Util/PHP/eval-stdin.php HTTP/1.1" 404 -
+157.254.223.53 - - [05/Nov/2023 16:53:59] "POST /admin/ckeditor/plugins/ajaxplorer/phpunit/src/Util/PHP/eval-stdin.php HTTP/1.1" 404 -
+157.254.223.53 - - [05/Nov/2023 16:53:59] "POST /admin/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php HTTP/1.1" 404 -
+157.254.223.53 - - [05/Nov/2023 16:54:00] "POST /api/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php HTTP/1.1" 404 -
+157.254.223.53 - - [05/Nov/2023 16:54:00] "POST /api/vendor/phpunit/phpunit/src/Util/PHP/Template/eval-stdin.php HTTP/1.1" 404 -
+157.254.223.53 - - [05/Nov/2023 16:54:01] "POST /lab/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php HTTP/1.1" 404 -
+157.254.223.53 - - [05/Nov/2023 16:54:01] "POST /laravel_web/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php HTTP/1.1" 404 -
+157.254.223.53 - - [05/Nov/2023 16:54:02] "POST /laravel/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php HTTP/1.1" 404 -
+157.254.223.53 - - [05/Nov/2023 16:54:02] "POST /laravelao/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php HTTP/1.1" 404 -
+157.254.223.53 - - [05/Nov/2023 16:54:03] "POST /lib/phpunit/phpunit/src/Util/PHP/eval-stdin.php HTTP/1.1" 404 -
+157.254.223.53 - - [05/Nov/2023 16:54:04] "POST /lib/phpunit/phpunit/Util/PHP/eval-stdin.php HTTP/1.1" 404 -
+157.254.223.53 - - [05/Nov/2023 16:54:05] "POST /lib/phpunit/src/Util/PHP/eval-stdin.php HTTP/1.1" 404 -
+157.254.223.53 - - [05/Nov/2023 16:54:05] "POST /lib/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php HTTP/1.1" 404 -
+157.254.223.53 - - [05/Nov/2023 16:54:06] "POST /libraries/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php HTTP/1.1" 404 -
+157.254.223.53 - - [05/Nov/2023 16:54:06] "GET /.git/config HTTP/1.1" 404 -
+157.254.223.53 - - [05/Nov/2023 16:54:07] "GET / HTTP/1.1" 404 -
+157.254.223.53 - - [05/Nov/2023 16:54:07] "GET /.DS_Store HTTP/1.1" 404 -
+157.254.223.53 - - [05/Nov/2023 16:54:07] "GET /.env HTTP/1.1" 404 -
+157.254.223.53 - - [05/Nov/2023 16:54:08] "POST /.env HTTP/1.1" 404 -
+157.254.223.53 - - [05/Nov/2023 16:54:08] "GET /.env.save HTTP/1.1" 404 -
+157.254.223.53 - - [05/Nov/2023 16:54:09] "POST /.env.save HTTP/1.1" 404 -
+157.254.223.53 - - [05/Nov/2023 16:54:10] "GET /.env.old HTTP/1.1" 404 -
+157.254.223.53 - - [05/Nov/2023 16:54:10] "POST /.env.old HTTP/1.1" 404 -
+157.254.223.53 - - [05/Nov/2023 16:54:11] "GET /.env.prod HTTP/1.1" 404 -
+157.254.223.53 - - [05/Nov/2023 16:54:11] "POST /.env.prod HTTP/1.1" 404 -
+157.254.223.53 - - [05/Nov/2023 16:54:12] "GET /.env.production HTTP/1.1" 404 -
+157.254.223.53 - - [05/Nov/2023 16:54:12] "POST /.env.production HTTP/1.1" 404 -
+157.254.223.53 - - [05/Nov/2023 16:54:13] "GET /.env.development HTTP/1.1" 404 -
+157.254.223.53 - - [05/Nov/2023 16:54:13] "POST /.env.development HTTP/1.1" 404 -
+157.254.223.53 - - [05/Nov/2023 16:54:14] "GET /laravel/.env HTTP/1.1" 404 -
+157.254.223.53 - - [05/Nov/2023 16:54:14] "POST /laravel/.env HTTP/1.1" 404 -
+157.254.223.53 - - [05/Nov/2023 16:54:15] "GET /admin-app/.env HTTP/1.1" 404 -
+157.254.223.53 - - [05/Nov/2023 16:54:15] "POST /admin-app/.env HTTP/1.1" 404 -
+157.254.223.53 - - [05/Nov/2023 16:54:16] "GET /api/.env HTTP/1.1" 404 -
+157.254.223.53 - - [05/Nov/2023 16:54:16] "POST /api/.env HTTP/1.1" 404 -
+157.254.223.53 - - [05/Nov/2023 16:54:16] "GET /app/.env HTTP/1.1" 404 -
+157.254.223.53 - - [05/Nov/2023 16:54:17] "POST /app/.env HTTP/1.1" 404 -
+157.254.223.53 - - [05/Nov/2023 16:54:18] "GET /development/.env HTTP/1.1" 404 -
+157.254.223.53 - - [05/Nov/2023 16:54:18] "POST /development/.env HTTP/1.1" 404 -
+157.254.223.53 - - [05/Nov/2023 16:54:19] "GET /apps/.env HTTP/1.1" 404 -
+157.254.223.53 - - [05/Nov/2023 16:54:19] "POST /apps/.env HTTP/1.1" 404 -
+157.254.223.53 - - [05/Nov/2023 16:54:20] "GET /cp/.env HTTP/1.1" 404 -
+157.254.223.53 - - [05/Nov/2023 16:54:20] "POST /cp/.env HTTP/1.1" 404 -
+157.254.223.53 - - [05/Nov/2023 16:54:20] "GET /private/.env HTTP/1.1" 404 -
+157.254.223.53 - - [05/Nov/2023 16:54:21] "POST /private/.env HTTP/1.1" 404 -
+157.254.223.53 - - [05/Nov/2023 16:54:21] "GET /system/.env HTTP/1.1" 404 -
+157.254.223.53 - - [05/Nov/2023 16:54:22] "POST /system/.env HTTP/1.1" 404 -
+157.254.223.53 - - [05/Nov/2023 16:54:22] "GET /docker/.env HTTP/1.1" 404 -
+157.254.223.53 - - [05/Nov/2023 16:54:23] "POST /docker/.env HTTP/1.1" 404 -
+157.254.223.53 - - [05/Nov/2023 16:54:23] "GET /cms/.env HTTP/1.1" 404 -
+157.254.223.53 - - [05/Nov/2023 16:54:24] "POST /cms/.env HTTP/1.1" 404 -
+157.254.223.53 - - [05/Nov/2023 16:54:24] "GET /script/.env HTTP/1.1" 404 -
+157.254.223.53 - - [05/Nov/2023 16:54:24] "POST /script/.env HTTP/1.1" 404 -
+157.254.223.53 - - [05/Nov/2023 16:54:25] "GET /live_env HTTP/1.1" 404 -
+157.254.223.53 - - [05/Nov/2023 16:54:25] "POST /live_env HTTP/1.1" 404 -
+157.254.223.53 - - [05/Nov/2023 16:54:26] "GET /application/.env HTTP/1.1" 404 -
+157.254.223.53 - - [05/Nov/2023 16:54:26] "POST /application/.env HTTP/1.1" 404 -
+157.254.223.53 - - [05/Nov/2023 16:54:27] "GET /.env.project HTTP/1.1" 404 -
+157.254.223.53 - - [05/Nov/2023 16:54:28] "POST /.env.project HTTP/1.1" 404 -
+157.254.223.53 - - [05/Nov/2023 16:54:28] "GET /.env.dist HTTP/1.1" 404 -
+157.254.223.53 - - [05/Nov/2023 16:54:29] "POST /.env.dist HTTP/1.1" 404 -
+157.254.223.53 - - [05/Nov/2023 16:54:29] "GET /back/.env HTTP/1.1" 404 -
+157.254.223.53 - - [05/Nov/2023 16:54:30] "POST /back/.env HTTP/1.1" 404 -
+157.254.223.53 - - [05/Nov/2023 16:54:30] "GET /core/.env HTTP/1.1" 404 -
+157.254.223.53 - - [05/Nov/2023 16:54:31] "POST /core/.env HTTP/1.1" 404 -
+157.254.223.53 - - [05/Nov/2023 16:54:31] "GET /docker/.env HTTP/1.1" 404 -
+157.254.223.53 - - [05/Nov/2023 16:54:31] "POST /docker/.env HTTP/1.1" 404 -
+157.254.223.53 - - [05/Nov/2023 16:54:32] "GET /fedex/.env HTTP/1.1" 404 -
+157.254.223.53 - - [05/Nov/2023 16:54:32] "POST /fedex/.env HTTP/1.1" 404 -
+157.254.223.53 - - [05/Nov/2023 16:54:33] "GET /local/.env HTTP/1.1" 404 -
+157.254.223.53 - - [05/Nov/2023 16:54:33] "POST /local/.env HTTP/1.1" 404 -
+157.254.223.53 - - [05/Nov/2023 16:54:34] "GET /rest/.env HTTP/1.1" 404 -
+157.254.223.53 - - [05/Nov/2023 16:54:34] "POST /rest/.env HTTP/1.1" 404 -
+157.254.223.53 - - [05/Nov/2023 16:54:35] "GET /shared/.env HTTP/1.1" 404 -
+157.254.223.53 - - [05/Nov/2023 16:54:35] "POST /shared/.env HTTP/1.1" 404 -
+157.254.223.53 - - [05/Nov/2023 16:54:36] "GET /sources/.env HTTP/1.1" 404 -
+157.254.223.53 - - [05/Nov/2023 16:54:37] "POST /sources/.env HTTP/1.1" 404 -
+157.254.223.53 - - [05/Nov/2023 16:54:37] "GET /enviroments/.env.production HTTP/1.1" 404 -
+157.254.223.53 - - [05/Nov/2023 16:54:38] "POST /enviroments/.env.production HTTP/1.1" 404 -
+157.254.223.53 - - [05/Nov/2023 16:54:38] "GET /enviroments/.env HTTP/1.1" 404 -
+157.254.223.53 - - [05/Nov/2023 16:54:39] "POST /enviroments/.env HTTP/1.1" 404 -
+157.254.223.53 - - [05/Nov/2023 16:54:39] "GET / HTTP/1.1" 404 -
+157.254.223.53 - - [05/Nov/2023 16:54:40] "POST / HTTP/1.1" 404 -
+157.254.223.53 - - [05/Nov/2023 16:54:40] "GET /frontend_dev.php/$ HTTP/1.1" 404 -
+157.254.223.53 - - [05/Nov/2023 16:54:41] "GET /debug/default/view?panel=config/frontend_dev.php HTTP/1.1" 404 -
+157.254.223.53 - - [05/Nov/2023 16:54:41] "GET /debug/default/view?panel=config HTTP/1.1" 404 -
+157.254.223.53 - - [05/Nov/2023 16:54:41] "GET /debug/default/view.html HTTP/1.1" 404 -
+157.254.223.53 - - [05/Nov/2023 16:54:42] "GET /debug/default/view HTTP/1.1" 404 -
+157.254.223.53 - - [05/Nov/2023 16:54:42] "GET /frontend/web/debug/default/view HTTP/1.1" 404 -
+157.254.223.53 - - [05/Nov/2023 16:54:43] "GET /web/debug/default/view HTTP/1.1" 404 -
+157.254.223.53 - - [05/Nov/2023 16:54:43] "GET /sapi/debug/default/view HTTP/1.1" 404 -
+157.254.223.53 - - [05/Nov/2023 16:54:44] "GET /config.json HTTP/1.1" 404 -
+157.254.223.53 - - [05/Nov/2023 16:54:44] "GET /AwsConfig.json HTTP/1.1" 404 -
+157.254.223.53 - - [05/Nov/2023 16:54:45] "GET /awsconfig.json HTTP/1.1" 404 -
+157.254.223.53 - - [05/Nov/2023 16:54:45] "GET /aws.json HTTP/1.1" 404 -
+157.254.223.53 - - [05/Nov/2023 16:54:45] "GET /conf.json HTTP/1.1" 404 -
+157.254.223.53 - - [05/Nov/2023 16:54:46] "GET /env.json HTTP/1.1" 404 -
+157.254.223.53 - - [05/Nov/2023 16:54:46] "GET /.vscode/sftp.json HTTP/1.1" 404 -
+157.254.223.53 - - [05/Nov/2023 16:54:47] "GET /.json HTTP/1.1" 404 -
+157.254.223.53 - - [05/Nov/2023 16:54:47] "GET /smtp.json HTTP/1.1" 404 -
+157.254.223.53 - - [05/Nov/2023 16:54:48] "GET /db.json HTTP/1.1" 404 -
+157.254.223.53 - - [05/Nov/2023 16:54:48] "GET /sendgrid.json HTTP/1.1" 404 -
+157.254.223.53 - - [05/Nov/2023 16:54:48] "GET /ws-config.json HTTP/1.1" 404 -
+157.254.223.53 - - [05/Nov/2023 16:54:49] "GET /_wpeprivate/config.json HTTP/1.1" 404 -
+157.254.223.53 - - [05/Nov/2023 16:54:49] "GET /deployment-config.json HTTP/1.1" 404 -
+157.254.223.53 - - [05/Nov/2023 16:54:50] "GET /sftp-config.json HTTP/1.1" 404 -
+157.254.223.53 - - [05/Nov/2023 16:54:50] "GET /db/robomongo.json HTTP/1.1" 404 -
+157.254.223.53 - - [05/Nov/2023 16:54:51] "GET /robomongo.json HTTP/1.1" 404 -
+157.254.223.53 - - [05/Nov/2023 16:54:51] "GET /client_secrets.json HTTP/1.1" 404 -
+157.254.223.53 - - [05/Nov/2023 16:54:51] "GET /user-config.json HTTP/1.1" 404 -
+157.254.223.53 - - [05/Nov/2023 16:54:52] "GET /ssh-config.json HTTP/1.1" 404 -
+157.254.223.53 - - [05/Nov/2023 16:54:52] "GET /database-config.json HTTP/1.1" 404 -
+157.254.223.53 - - [05/Nov/2023 16:54:53] "GET /config/default.json HTTP/1.1" 404 -
+157.254.223.53 - - [05/Nov/2023 16:54:53] "GET /config/config.json HTTP/1.1" 404 -
+157.254.223.53 - - [05/Nov/2023 16:54:54] "GET /credentials/config.json HTTP/1.1" 404 -
+157.254.223.53 - - [05/Nov/2023 16:54:54] "GET / HTTP/1.1" 404 -
+157.254.223.53 - - [05/Nov/2023 16:54:54] "GET /.aws/credentials HTTP/1.1" 404 -
+157.254.223.53 - - [05/Nov/2023 16:54:55] "GET /app_dev.php/_profiler/open?file=app/config/parameters.yml HTTP/1.1" 404 -
+157.254.223.53 - - [05/Nov/2023 16:54:55] "GET /_profiler/open?file=app/config/parameters.yml HTTP/1.1" 404 -
+157.254.223.53 - - [05/Nov/2023 16:54:56] "GET /app/config/parameters.yml HTTP/1.1" 404 -
+157.254.223.53 - - [05/Nov/2023 16:54:56] "GET /config/parameters.yml HTTP/1.1" 404 -
+157.254.223.53 - - [05/Nov/2023 16:54:57] "GET /parameters.yml HTTP/1.1" 404 -
+157.254.223.53 - - [05/Nov/2023 16:54:57] "GET /_profiler/phpinfo HTTP/1.1" 404 -
+157.254.223.53 - - [05/Nov/2023 16:54:57] "GET /app_dev.php/_profiler/phpinfo HTTP/1.1" 404 -
+157.254.223.53 - - [05/Nov/2023 16:54:58] "GET /phpinfo.php HTTP/1.1" 404 -
+157.254.223.53 - - [05/Nov/2023 16:54:58] "GET /info.php HTTP/1.1" 404 -
+157.254.223.53 - - [05/Nov/2023 16:54:59] "GET /?phpinfo=1 HTTP/1.1" 404 -
+157.254.223.53 - - [05/Nov/2023 16:54:59] "GET /tool/view/phpinfo.view.php HTTP/1.1" 404 -
+157.254.223.53 - - [05/Nov/2023 16:55:00] "GET /phpinfo HTTP/1.1" 404 -
+157.254.223.53 - - [05/Nov/2023 16:55:00] "GET /symfony/public/_profiler/phpinfo HTTP/1.1" 404 -
+157.254.223.53 - - [05/Nov/2023 16:55:00] "GET /html/phpinfo.php HTTP/1.1" 404 -
+157.254.223.53 - - [05/Nov/2023 16:55:01] "GET /?phpinfo=-1 HTTP/1.1" 404 -
+157.254.223.53 - - [05/Nov/2023 16:55:01] "GET /__info.php HTTP/1.1" 404 -
+157.254.223.53 - - [05/Nov/2023 16:55:02] "GET /_info-backoffice.php HTTP/1.1" 404 -
+157.254.223.53 - - [05/Nov/2023 16:55:02] "GET /_info.php HTTP/1.1" 404 -
+157.254.223.53 - - [05/Nov/2023 16:55:03] "GET /_phpinf.php HTTP/1.1" 404 -
+157.254.223.53 - - [05/Nov/2023 16:55:03] "GET /_phpinfo.php HTTP/1.1" 404 -
+157.254.223.53 - - [05/Nov/2023 16:55:03] "GET /_poopinfo.php HTTP/1.1" 404 -
+157.254.223.53 - - [05/Nov/2023 16:55:04] "GET /.__info.php HTTP/1.1" 404 -
+157.254.223.53 - - [05/Nov/2023 16:55:04] "GET /.info.php HTTP/1.1" 404 -
+157.254.223.53 - - [05/Nov/2023 16:55:05] "GET /0.0_phpinfo.php HTTP/1.1" 404 -
+157.254.223.53 - - [05/Nov/2023 16:55:05] "GET /00_server_info.php HTTP/1.1" 404 -
+157.254.223.53 - - [05/Nov/2023 16:55:06] "GET /02-info.php HTTP/1.1" 404 -
+157.254.223.53 - - [05/Nov/2023 16:55:06] "GET /1_1_PhpInfo.php HTTP/1.1" 404 -
+157.254.223.53 - - [05/Nov/2023 16:55:06] "GET /5info.php HTTP/1.1" 404 -
+157.254.223.53 - - [05/Nov/2023 16:55:07] "GET / HTTP/1.1" 404 -
+157.254.223.53 - - [05/Nov/2023 16:55:07] "GET /api/index.php/v1/config/application?public=true HTTP/1.1" 404 -
+54.243.246.120 - - [05/Nov/2023 16:56:11] code 400, message Bad request version ('À\x13À')
+54.243.246.120 - - [05/Nov/2023 16:56:11] "\x16\x03\x01\x01\x07\x01\x00\x01\x03\x03\x03Þ\x1c\x98¡D\x86r\x0c=\x17rH\x96§ZruÊ\x83=\x14XúÈZ\x04ï%I\x05\x1a\x9a \x14\x9f{H\x07\x11[µ@K°\x15\x8b.·%Úc\x7f\x09¦\x19åÞ6%Ã\x0b\x85\x82ü{\x00&À+À/À,À0Ì©Ì¨À\x09À\x13À" HTTPStatus.BAD_REQUEST -
+54.243.246.120 - - [05/Nov/2023 16:57:15] "GET /cdn-cgi/trace HTTP/1.1" 404 -
+54.243.246.120 - - [05/Nov/2023 16:57:51] code 400, message Bad request version ('À\x13À')
+54.243.246.120 - - [05/Nov/2023 16:57:51] "\x16\x03\x01\x01\x07\x01\x00\x01\x03\x03\x03°S[\x0f­%\x1f\x1fu\x83ÝÂ½\x12\x89b\x00¾\x08ë\x86§¶×æÊ]4\x0cV\x1f¶ /}LRò\x11\x05±\x82í\x9e$íç¥J³Ä\x11Yo2\x00Ü\x1f:c$ù=]¶\x00&À+À/À,À0Ì©Ì¨À\x09À\x13À" HTTPStatus.BAD_REQUEST -
+135.125.246.189 - - [05/Nov/2023 16:58:51] "GET /.env HTTP/1.1" 404 -
+135.125.246.189 - - [05/Nov/2023 16:58:51] "POST / HTTP/1.1" 404 -
+54.243.246.120 - - [05/Nov/2023 16:59:14] "GET /cdn-cgi/trace HTTP/1.1" 404 -
+192.241.216.16 - - [05/Nov/2023 17:17:58] code 400, message Bad request syntax ('MGLNDD_3.26.117.18_80')
+192.241.216.16 - - [05/Nov/2023 17:17:58] "MGLNDD_3.26.117.18_80" HTTPStatus.BAD_REQUEST -
+43.154.8.109 - - [05/Nov/2023 17:19:20] "HEAD /Core/Skin/Login.aspx HTTP/1.1" 404 -
+165.232.92.15 - - [05/Nov/2023 17:37:30] code 400, message Bad request version ('À\x14À')
+165.232.92.15 - - [05/Nov/2023 17:37:30] "\x16\x03\x01\x00{\x01\x00\x00w\x03\x03\x04\x9a­\x94\x95\x1c¿h\x15ôCa\\§Íâ\x9a\x12¯Ä"º¨"¸Íêå\x92\x81>\x99\x00\x00\x1aÀ/À+À\x11À\x07À\x13À\x09À\x14À" HTTPStatus.BAD_REQUEST -
+165.232.92.15 - - [05/Nov/2023 17:37:31] code 400, message Bad request version ('À\x14À')
+165.232.92.15 - - [05/Nov/2023 17:37:31] "\x16\x03\x01\x00{\x01\x00\x00w\x03\x03\x80Ñ\\]¶ß0 Ñ\x07Ó(î÷Û÷¼\x9avbR¢Çf-ûFÔ&¦Sù\x00\x00\x1aÀ/À+À\x11À\x07À\x13À\x09À\x14À" HTTPStatus.BAD_REQUEST -
+165.232.92.15 - - [05/Nov/2023 17:37:32] "GET / HTTP/1.1" 404 -
+165.232.92.15 - - [05/Nov/2023 17:37:32] "GET /form.html HTTP/1.1" 404 -
+165.232.92.15 - - [05/Nov/2023 17:37:33] "GET /upl.php HTTP/1.1" 404 -
+165.232.92.15 - - [05/Nov/2023 17:37:33] code 400, message Bad request version ('À\x14À')
+165.232.92.15 - - [05/Nov/2023 17:37:33] "\x16\x03\x01\x00{\x01\x00\x00w\x03\x03®í\x97©A\x86Änµ,Ù\x0c=iqØÖ\x1e¡·ÑèËZ¢b\x83·æN\x81v\x00\x00\x1aÀ/À+À\x11À\x07À\x13À\x09À\x14À" HTTPStatus.BAD_REQUEST -
+165.232.92.15 - - [05/Nov/2023 17:37:34] "GET /geoip/ HTTP/1.1" 404 -
+165.232.92.15 - - [05/Nov/2023 17:37:35] "GET / HTTP/1.1" 404 -
+165.232.92.15 - - [05/Nov/2023 17:37:35] "GET /favicon.ico HTTP/1.1" 404 -
+165.232.92.15 - - [05/Nov/2023 17:37:36] "GET /1.php HTTP/1.1" 404 -
+165.232.92.15 - - [05/Nov/2023 17:37:36] "GET /bundle.js HTTP/1.1" 404 -
+165.232.92.15 - - [05/Nov/2023 17:37:37] "GET /files/ HTTP/1.1" 404 -
+165.232.92.15 - - [05/Nov/2023 17:37:37] "GET /systembc/password.php HTTP/1.1" 404 -
+165.232.92.15 - - [05/Nov/2023 17:37:38] "GET /password.php HTTP/1.1" 404 -
+165.232.92.15 - - [05/Nov/2023 17:37:39] "GET /info.php HTTP/1.1" 404 -
+45.95.146.97 - - [05/Nov/2023 18:05:20] "POST /boaform/admin/formLogin HTTP/1.1" 404 -
+43.154.8.109 - - [05/Nov/2023 18:52:26] "HEAD /Core/Skin/Login.aspx HTTP/1.1" 404 -
+135.125.246.189 - - [05/Nov/2023 19:45:31] "GET /.env HTTP/1.1" 404 -
+135.125.246.189 - - [05/Nov/2023 19:45:32] "POST / HTTP/1.1" 404 -
+43.154.8.109 - - [05/Nov/2023 20:26:26] "HEAD /Core/Skin/Login.aspx HTTP/1.1" 404 -
+104.131.144.8 - - [05/Nov/2023 20:28:53] "GET /druid/index.html HTTP/1.1" 404 -
+198.235.24.181 - - [05/Nov/2023 20:35:55] "GET / HTTP/1.0" 404 -
+139.162.84.205 - - [05/Nov/2023 20:38:10] "GET / HTTP/1.0" 404 -
+135.125.246.189 - - [05/Nov/2023 20:58:01] "GET /.env HTTP/1.1" 404 -
+135.125.246.189 - - [05/Nov/2023 20:58:01] "POST / HTTP/1.1" 404 -
+45.79.172.21 - - [05/Nov/2023 21:48:09] code 400, message Bad request version ('À\x14À')
+45.79.172.21 - - [05/Nov/2023 21:48:09] "\x16\x03\x01\x00\x85\x01\x00\x00\x81\x03\x03·;"Ô\x9bê'\x7f#\x00uIQ,ß\x170\x83Ãá¦h«ÑY¹2\x96ø"ªw\x00\x00 À/À0À+À,Ì¨Ì©À\x13À\x09À\x14À" HTTPStatus.BAD_REQUEST -
+43.154.8.109 - - [05/Nov/2023 22:00:00] "HEAD /Core/Skin/Login.aspx HTTP/1.1" 404 -
+185.254.196.173 - - [05/Nov/2023 22:25:14] "GET /.env HTTP/1.1" 404 -
+185.254.196.173 - - [05/Nov/2023 22:25:15] "POST / HTTP/1.1" 404 -
+198.235.24.21 - - [05/Nov/2023 22:46:08] code 400, message Bad request version ('ëµ/ì=\x08¯åÁëÀ\x9bvçwHåº!û"DY\x0ex\x01àÝçY')
+198.235.24.21 - - [05/Nov/2023 22:46:08] "\x16\x03\x01\x00î\x01\x00\x00ê\x03\x03±X¼\x1aµP«Dò´_Ráò%\x09j±Ò\x9aû8\x1a\x06Ð|ì¾¤\x15\x8dC ëµ/ì=\x08¯åÁëÀ\x9bvçwHåº!û"DY\x0ex\x01àÝçY " HTTPStatus.BAD_REQUEST -
+198.235.24.21 - - [05/Nov/2023 22:46:09] code 400, message Bad request syntax ('\x16\x03\x01\x00Ê\x01\x00\x00Æ\x03\x03¸°ª×k\x06ÆÍØÅMñ\x91³\x7f¨ßÊ×¤Z\x0e')
+198.235.24.21 - - [05/Nov/2023 22:46:09] "\x16\x03\x01\x00Ê\x01\x00\x00Æ\x03\x03¸°ª×k\x06ÆÍØÅMñ\x91³\x7f¨ßÊ×¤Z\x0e" HTTPStatus.BAD_REQUEST -
+135.125.246.189 - - [05/Nov/2023 22:50:54] "GET /.env HTTP/1.1" 404 -
+135.125.246.189 - - [05/Nov/2023 22:50:54] "POST / HTTP/1.1" 404 -
+162.243.131.34 - - [05/Nov/2023 23:08:57] "GET /actuator/health HTTP/1.1" 404 -
+43.154.8.109 - - [05/Nov/2023 23:33:24] "HEAD /Core/Skin/Login.aspx HTTP/1.1" 404 -
+185.254.196.173 - - [05/Nov/2023 23:45:06] "GET /.env HTTP/1.1" 404 -
+185.254.196.173 - - [05/Nov/2023 23:45:08] "POST / HTTP/1.1" 404 -
+135.125.246.189 - - [06/Nov/2023 00:37:44] "GET /.env HTTP/1.1" 404 -
+135.125.246.189 - - [06/Nov/2023 00:37:44] "POST / HTTP/1.1" 404 -
+139.162.84.205 - - [06/Nov/2023 00:44:57] "GET / HTTP/1.0" 404 -
+43.154.8.109 - - [06/Nov/2023 01:07:03] "HEAD /Core/Skin/Login.aspx HTTP/1.1" 404 -
+198.235.24.199 - - [06/Nov/2023 01:35:50] code 400, message Bad request version ('À\x13À')
+198.235.24.199 - - [06/Nov/2023 01:35:50] "\x16\x03\x01\x00î\x01\x00\x00ê\x03\x03ÙçMa\x81\x0b¯õpÕpSÿÑñÔÅk7w­öÜ,\x84Ñ>\x8e\x80°î­ £§¸>¤º\x94ªc\x05Pô\x19­\x13\x80&¬ÍåÝJJ1\x94o#þ´9\x0c#\x00&À+À/À,À0Ì©Ì¨À\x09À\x13À" HTTPStatus.BAD_REQUEST -
+198.235.24.199 - - [06/Nov/2023 01:35:51] code 400, message Bad request version ('À(À$À\x14À')
+198.235.24.199 - - [06/Nov/2023 01:35:51] "\x16\x03\x01\x00Ê\x01\x00\x00Æ\x03\x03\x0chÞ\x1cCû°a2ÒªúsÝÜ½ØH\x01×\x10.\x0b¸mïê\x07Ú7Ut\x00\x00hÌ\x14Ì\x13À/À+À0À,À\x11À\x07À'À#À\x13À\x09À(À$À\x14À" HTTPStatus.BAD_REQUEST -
+45.95.146.97 - - [06/Nov/2023 01:37:56] "POST /boaform/admin/formLogin HTTP/1.1" 404 -
+198.235.24.159 - - [06/Nov/2023 01:50:23] "GET / HTTP/1.1" 404 -
+2.57.122.233 - - [06/Nov/2023 02:03:18] "GET /exactarget/ HTTP/1.1" 404 -
+162.216.150.169 - - [06/Nov/2023 02:15:51] "GET / HTTP/1.1" 404 -
+43.154.8.109 - - [06/Nov/2023 02:40:21] "HEAD /Core/Skin/Login.aspx HTTP/1.1" 404 -
+64.62.197.196 - - [06/Nov/2023 02:40:56] "GET / HTTP/1.1" 404 -
+64.62.197.184 - - [06/Nov/2023 02:42:41] "GET /favicon.ico HTTP/1.1" 404 -
+64.62.197.190 - - [06/Nov/2023 02:43:13] "GET /geoserver/web/ HTTP/1.1" 404 -
+94.156.69.66 - - [06/Nov/2023 02:59:34] "HEAD / HTTP/1.1" 404 -
+43.154.8.109 - - [06/Nov/2023 04:13:58] "HEAD /Core/Skin/Login.aspx HTTP/1.1" 404 -
+185.254.196.186 - - [06/Nov/2023 04:18:13] "GET /.env HTTP/1.1" 404 -
+185.254.196.186 - - [06/Nov/2023 04:18:15] "POST / HTTP/1.1" 404 -
+34.77.127.183 - - [06/Nov/2023 04:27:32] "GET / HTTP/1.1" 404 -
+140.117.248.4 - - [06/Nov/2023 04:36:17] "GET /Schedule/BandPractice HTTP/1.1" 200 -
+140.117.248.4 - - [06/Nov/2023 04:36:17] "GET /static/styles/main.css HTTP/1.1" 304 -
+139.162.84.205 - - [06/Nov/2023 04:44:40] "GET / HTTP/1.0" 404 -
+35.203.211.21 - - [06/Nov/2023 05:23:32] "GET / HTTP/1.1" 404 -
+198.235.24.133 - - [06/Nov/2023 05:35:16] "GET / HTTP/1.0" 404 -
+43.154.8.109 - - [06/Nov/2023 05:47:30] "HEAD /Core/Skin/Login.aspx HTTP/1.1" 404 -
+223.138.69.40 - - [06/Nov/2023 07:02:38] "GET / HTTP/1.1" 404 -
+223.138.69.40 - - [06/Nov/2023 07:02:42] "GET /Submit/GDSC HTTP/1.1" 200 -
+223.138.69.40 - - [06/Nov/2023 07:02:54] "GET / HTTP/1.1" 404 -
+223.138.69.40 - - [06/Nov/2023 07:03:34] "GET / HTTP/1.1" 404 -
+223.138.69.40 - - [06/Nov/2023 07:03:42] "GET / HTTP/1.1" 404 -
+223.138.69.40 - - [06/Nov/2023 07:03:44] "GET /Schedule/BandPractice HTTP/1.1" 200 -
+223.138.69.40 - - [06/Nov/2023 07:03:44] "GET /static/styles/main.css HTTP/1.1" 200 -
+31.13.127.13 - - [06/Nov/2023 07:03:50] "GET /Schedule/BandPractice HTTP/1.1" 200 -
+134.208.56.212 - - [06/Nov/2023 07:04:00] "GET /Schedule/BandPractice HTTP/1.1" 200 -
+134.208.56.212 - - [06/Nov/2023 07:04:00] "GET /static/styles/main.css HTTP/1.1" 200 -
+167.94.138.36 - - [06/Nov/2023 07:11:34] "GET / HTTP/1.1" 404 -
+167.94.138.36 - - [06/Nov/2023 07:11:34] "GET / HTTP/1.1" 404 -
+167.94.138.36 - - [06/Nov/2023 07:11:35] code 505, message Invalid HTTP version (2.0)
+167.94.138.36 - - [06/Nov/2023 07:11:35] "PRI * HTTP/2.0" HTTPStatus.HTTP_VERSION_NOT_SUPPORTED -
+185.254.196.173 - - [06/Nov/2023 07:12:16] "GET /.env HTTP/1.1" 404 -
+185.254.196.173 - - [06/Nov/2023 07:12:17] "POST / HTTP/1.1" 404 -
+43.154.8.109 - - [06/Nov/2023 07:21:02] "HEAD /Core/Skin/Login.aspx HTTP/1.1" 404 -
+40.77.167.184 - - [06/Nov/2023 07:27:53] code 400, message Bad request version ('¼ÀÝØF"ï\x98ègzdÆ\x00(\x13\x02\x13\x01À,À+À0À/À$À#À(À\'À')
+40.77.167.184 - - [06/Nov/2023 07:27:53] "\x16\x03\x01\x01C\x01\x00\x01?\x03\x03\x06\x0613k;TD:8h\\U{acm\x81)_±\x00Ù§^ÒT¢éz'Û ±¯\x81Û¯C)i~f¬\x8dúì"xÍ\x84 ¼ÀÝØF"ï\x98ègzdÆ\x00(\x13\x02\x13\x01À,À+À0À/À$À#À(À'À" HTTPStatus.BAD_REQUEST -
+40.77.167.184 - - [06/Nov/2023 07:27:54] code 400, message Bad HTTP/0.9 request type ('\x16\x03\x03\x00§\x01\x00\x00£\x03\x03eH\x95z9\x89\x91F½Ô')
+40.77.167.184 - - [06/Nov/2023 07:27:54] "\x16\x03\x03\x00§\x01\x00\x00£\x03\x03eH\x95z9\x89\x91F½Ô\x1f!ãÑñu" HTTPStatus.BAD_REQUEST -
+40.77.167.184 - - [06/Nov/2023 07:27:54] code 400, message Bad HTTP/0.9 request type ('\x16\x03\x03\x00§\x01\x00\x00£\x03\x03eH\x95z\x03Úc\x89\x10')
+40.77.167.184 - - [06/Nov/2023 07:27:54] "\x16\x03\x03\x00§\x01\x00\x00£\x03\x03eH\x95z\x03Úc\x89\x10 %!rÔ\x8dVµÏÉ\x86òS¥ÀÝU*jX\x97\x19û\x00\x00$À,À+À0À/À$À#À(À'À" HTTPStatus.BAD_REQUEST -
+40.77.167.184 - - [06/Nov/2023 07:27:55] code 400, message Bad request version ('\x00\x1a\x00\x18\x08\x04\x08\x05\x08\x06\x04\x01\x05\x01\x02\x01\x04\x03\x05\x03\x02\x03\x02\x02\x06\x01\x06\x03\x00#\x00\x00\x00')
+40.77.167.184 - - [06/Nov/2023 07:27:55] "\x16\x03\x01\x01\x1d\x01\x00\x01\x19\x03\x03=%¼o\x13Ë\x8co¶Ã\x07^\x89ñ\x12S}\x9bØ^7\x0cîhæ\x82N\x1bö!\x0c¶ \x88\x98¶Ng)øØÏµ³3\x1bE3\x15îs\x16]æì½3¯zÈ×½^Ð\x01\x00\x04\x13\x02\x13\x01\x01\x00\x00Ì\x00\x05\x00\x05\x01\x00\x00\x00\x00\x00+\x00\x03\x02\x03\x04\x00\x0d\x00\x1a\x00\x18\x08\x04\x08\x05\x08\x06\x04\x01\x05\x01\x02\x01\x04\x03\x05\x03\x02\x03\x02\x02\x06\x01\x06\x03\x00#\x00\x00\x00" HTTPStatus.BAD_REQUEST -
+40.77.167.47 - - [06/Nov/2023 07:28:02] code 400, message Bad request version ("ÄZÛî:\x00,\x13\x02\x13\x01À,À+À0À/\x00\x9f\x00\x9eÀ$À#À(À'À")
+40.77.167.47 - - [06/Nov/2023 07:28:02] "\x16\x03\x01\x01>\x01\x00\x01:\x03\x03í\x90°|\x98v\x9dX5¹\x19ô\x1e¤\x9e,~\x1az\x0f.\x0d%\x9e, \x08¸§_âÚ +X\x1dd\x887ð\x87j2Óù%ß¬\x1eëÅaqÜ;t[«4\x1fÄZÛî:\x00,\x13\x02\x13\x01À,À+À0À/\x00\x9f\x00\x9eÀ$À#À(À'À" HTTPStatus.BAD_REQUEST -
+198.23.200.26 - - [06/Nov/2023 07:36:49] "GET /.env HTTP/1.1" 404 -
+198.23.200.26 - - [06/Nov/2023 07:36:49] "POST / HTTP/1.1" 404 -
+89.190.156.174 - - [06/Nov/2023 07:38:56] "GET /cgi/conf.bin HTTP/1.1" 404 -
+64.62.197.112 - - [06/Nov/2023 07:48:28] code 400, message Bad HTTP/0.9 request type ('\x16\x03\x01\x00{\x01\x00\x00w\x03\x03×6^\\\x80}\x95óOÂg!\x9ars°>\x96_(\\Ïbm¶°qaª\x82.¡\x00\x00\x1aÀ/À+À\x11À\x07À\x13À')
+64.62.197.112 - - [06/Nov/2023 07:48:28] "\x16\x03\x01\x00{\x01\x00\x00w\x03\x03×6^\\\x80}\x95óOÂg!\x9ars°>\x96_(\\Ïbm¶°qaª\x82.¡\x00\x00\x1aÀ/À+À\x11À\x07À\x13À\x09À\x14À" HTTPStatus.BAD_REQUEST -
+172.104.11.46 - - [06/Nov/2023 08:24:49] code 400, message Bad request version ('À\x14À')
+172.104.11.46 - - [06/Nov/2023 08:24:49] "\x16\x03\x01\x00\x85\x01\x00\x00\x81\x03\x03A\x80Òsu+Ë\x12­$üU¯Í\x11 eéÙ\x8b\x90l\x0b\x87\x9e\x1e\x02#\x91¶rÁ\x00\x00 À/À0À+À,Ì¨Ì©À\x13À\x09À\x14À" HTTPStatus.BAD_REQUEST -
+45.79.128.205 - - [06/Nov/2023 08:37:03] "GET / HTTP/1.1" 404 -
+35.197.121.58 - - [06/Nov/2023 08:41:36] code 400, message Bad request version ('FlØ\x18(')
+35.197.121.58 - - [06/Nov/2023 08:41:36] "\x16\x03\x01\x00M\x01\x00\x00I\x03\x03Ê´'\x158ð7¬?þ z\x92\x00«Ôñ§w\x09_¨§ Ümã\x12­\x8fK± FlØ\x18(" HTTPStatus.BAD_REQUEST -
+35.197.121.58 - - [06/Nov/2023 08:41:37] "OPTIONS / HTTP/1.0" 404 -
+139.162.84.205 - - [06/Nov/2023 08:44:17] "GET / HTTP/1.0" 404 -
+43.154.8.109 - - [06/Nov/2023 08:55:03] "HEAD /Core/Skin/Login.aspx HTTP/1.1" 404 -
+71.6.232.22 - - [06/Nov/2023 09:44:32] "GET / HTTP/1.1" 404 -
+172.104.242.173 - - [06/Nov/2023 09:50:08] code 400, message Bad request version ('¯+\xadKkÅà\\s\x9c½Ë')
+172.104.242.173 - - [06/Nov/2023 09:50:08] "º«d¡EZCÛM\x87î^ý¿\x159 XÔ>\x12\x98Ä<à\x13Ï\x00¬ 9×\x90#8~\x8cÞ\x9dReF¿%1Qà\x9d\x06&g»\x82\x95\x19í\x07\x14\x19ZP\x80+\x94eÃæ\x85\x06¤\x99\x8b\x19l\x01ê\x88Y\x91\x16\x95ÄÈ\x0eH\x02Ç\x93gÁ4FW\x05|ûóT¸ýË»)ãÎÝÍ7\x9eïP\x8c¤[Vý\x98Él\x82õäÁd\x87X÷\x9b¿èq\x12\x99&Û,õ\x87×¨\x97j;ãê§´°\x02­\x8dE\x9bªB\x80\x0e)©é¯}\x18\x8e¸\x1e\x99\x04ï¨\x8cè\x04âÓí)1\x91Á\x8f\x88\x8c\x81ðÛ¥\x88\x95H\x9bZ«Î¿ôE%P*\x88KFY6\x9eç::jÔ\x8a¨V\x9aª«¯Ã&.í[\x04Åe\x7f\x08¾\x8ar§°\x99F÷\x11åÖ\x96\x8cIm+w\x1cýuU\x14\x0f!x¬èMPyÃ\x19!2 íÀ}!Rw\x14\x8e\x1bÄá ¯+­KkÅà\\s\x9c½Ë" HTTPStatus.BAD_REQUEST -
+162.243.132.48 - - [06/Nov/2023 10:03:59] "GET /portal/redlion HTTP/1.1" 404 -
+185.254.196.186 - - [06/Nov/2023 10:16:29] "GET /.env HTTP/1.1" 404 -
+185.254.196.186 - - [06/Nov/2023 10:16:30] "POST / HTTP/1.1" 404 -
+43.154.8.109 - - [06/Nov/2023 10:28:41] "HEAD /Core/Skin/Login.aspx HTTP/1.1" 404 -
+66.240.205.34 - - [06/Nov/2023 10:38:36] code 400, message Bad request version ("x64|'|'|No|'|'|0.7d|'|'|..|'|'|AA==|'|'|112.inf|'|'|SGFjS2VkDQoxOTIuMTY4LjkyLjIyMjo1NTUyDQpEZXNrdG9wDQpjbGllbnRhLmV4ZQ0KRmFsc2UNCkZhbHNlDQpUcnVlDQpGYWxzZQ==12.act|'|'|AA==")
+66.240.205.34 - - [06/Nov/2023 10:38:36] "145.ll|'|'|SGFjS2VkX0Q0OTkwNjI3|'|'|WIN-JNAPIER0859|'|'|JNapier|'|'|19-02-01|'|'||'|'|Win 7 Professional SP1 x64|'|'|No|'|'|0.7d|'|'|..|'|'|AA==|'|'|112.inf|'|'|SGFjS2VkDQoxOTIuMTY4LjkyLjIyMjo1NTUyDQpEZXNrdG9wDQpjbGllbnRhLmV4ZQ0KRmFsc2UNCkZhbHNlDQpUcnVlDQpGYWxzZQ==12.act|'|'|AA==" HTTPStatus.BAD_REQUEST -
+66.240.236.119 - - [06/Nov/2023 10:53:24] "GET / HTTP/1.1" 404 -
+66.240.236.119 - - [06/Nov/2023 10:53:28] "GET /robots.txt HTTP/1.1" 404 -
+66.240.236.119 - - [06/Nov/2023 10:53:29] "GET /sitemap.xml HTTP/1.1" 404 -
+66.240.236.119 - - [06/Nov/2023 10:53:30] "GET /.well-known/security.txt HTTP/1.1" 404 -
+66.240.236.119 - - [06/Nov/2023 10:53:31] "GET /favicon.ico HTTP/1.1" 404 -
+194.165.17.11 - - [06/Nov/2023 11:18:43] code 400, message Bad HTTP/0.9 request type ('\x03\x00\x00/*à\x00\x00\x00\x00\x00Cookie:')
+194.165.17.11 - - [06/Nov/2023 11:18:43] "\x03\x00\x00/*à\x00\x00\x00\x00\x00Cookie: mstshash=Administr" HTTPStatus.BAD_REQUEST -
+43.154.8.109 - - [06/Nov/2023 12:02:24] "HEAD /Core/Skin/Login.aspx HTTP/1.1" 404 -
+192.241.212.23 - - [06/Nov/2023 12:31:11] "GET /ReportServer HTTP/1.1" 404 -
+103.53.228.114 - - [06/Nov/2023 12:35:18] "GET /.env HTTP/1.1" 404 -
+139.162.84.205 - - [06/Nov/2023 12:37:09] "GET / HTTP/1.0" 404 -
+135.125.246.189 - - [06/Nov/2023 13:30:07] "GET /.env HTTP/1.1" 404 -
+135.125.246.189 - - [06/Nov/2023 13:30:08] "POST / HTTP/1.1" 404 -
+43.154.8.109 - - [06/Nov/2023 13:37:44] "HEAD /Core/Skin/Login.aspx HTTP/1.1" 404 -
+1.173.82.131 - - [06/Nov/2023 13:44:48] "GET /Submit/GDSC HTTP/1.1" 200 -
+18.223.113.110 - - [06/Nov/2023 13:58:49] "GET / HTTP/1.1" 404 -
+18.223.113.110 - - [06/Nov/2023 14:04:36] "GET / HTTP/1.1" 404 -
+128.14.134.134 - - [06/Nov/2023 14:06:31] "GET / HTTP/1.1" 404 -
+185.36.81.33 - - [06/Nov/2023 14:06:37] "GET / HTTP/1.1" 404 -
+128.14.133.58 - - [06/Nov/2023 14:08:03] "GET / HTTP/1.1" 404 -
+135.125.246.189 - - [06/Nov/2023 14:34:30] "GET /.env HTTP/1.1" 404 -
+135.125.246.189 - - [06/Nov/2023 14:34:30] "POST / HTTP/1.1" 404 -
+167.94.146.58 - - [06/Nov/2023 14:49:05] "GET / HTTP/1.1" 404 -
+167.94.146.58 - - [06/Nov/2023 14:49:06] "GET / HTTP/1.1" 404 -
+167.94.146.58 - - [06/Nov/2023 14:49:06] code 505, message Invalid HTTP version (2.0)
+167.94.146.58 - - [06/Nov/2023 14:49:06] "PRI * HTTP/2.0" HTTPStatus.HTTP_VERSION_NOT_SUPPORTED -
+43.154.8.109 - - [06/Nov/2023 15:14:28] "HEAD /Core/Skin/Login.aspx HTTP/1.1" 404 -
+93.115.53.226 - - [06/Nov/2023 15:15:19] "GET /phpMyAdmin-5.2.0/index.php?lang=en HTTP/1.1" 404 -
+93.115.53.226 - - [06/Nov/2023 15:15:20] "GET /mysql-admin/index.php?lang=en HTTP/1.1" 404 -
+93.115.53.226 - - [06/Nov/2023 15:15:21] "GET /mysql/web/index.php?lang=en HTTP/1.1" 404 -
+93.115.53.226 - - [06/Nov/2023 15:15:21] "GET /db/websql/index.php?lang=en HTTP/1.1" 404 -
+93.115.53.226 - - [06/Nov/2023 15:15:22] "GET /phpmyadmin/index.php?lang=en HTTP/1.1" 404 -
+93.115.53.226 - - [06/Nov/2023 15:15:23] "GET /phpMyAdmin-5/index.php?lang=en HTTP/1.1" 404 -
+93.115.53.226 - - [06/Nov/2023 15:15:23] "GET /phpmyadmin2017/index.php?lang=en HTTP/1.1" 404 -
+93.115.53.226 - - [06/Nov/2023 15:15:24] "GET /admin/pma/index.php?lang=en HTTP/1.1" 404 -
+93.115.53.226 - - [06/Nov/2023 15:15:24] "GET /mysql/pMA/index.php?lang=en HTTP/1.1" 404 -
+93.115.53.226 - - [06/Nov/2023 15:15:25] "GET /database/index.php?lang=en HTTP/1.1" 404 -
+93.115.53.226 - - [06/Nov/2023 15:15:26] "GET /sql/webdb/index.php?lang=en HTTP/1.1" 404 -
+93.115.53.226 - - [06/Nov/2023 15:15:26] "GET /sql/phpMyAdmin/index.php?lang=en HTTP/1.1" 404 -
+93.115.53.226 - - [06/Nov/2023 15:15:27] "GET /phpMyAdmin-5.1.0/index.php?lang=en HTTP/1.1" 404 -
+93.115.53.226 - - [06/Nov/2023 15:15:27] "GET /phpmyadmin4/index.php?lang=en HTTP/1.1" 404 -
+93.115.53.226 - - [06/Nov/2023 15:15:28] "GET /db/myadmin/index.php?lang=en HTTP/1.1" 404 -
+93.115.53.226 - - [06/Nov/2023 15:15:29] "GET /mysqladmin/index.php?lang=en HTTP/1.1" 404 -
+93.115.53.226 - - [06/Nov/2023 15:15:29] "GET /sql/myadmin/index.php?lang=en HTTP/1.1" 404 -
+93.115.53.226 - - [06/Nov/2023 15:15:30] "GET /db/db-admin/index.php?lang=en HTTP/1.1" 404 -
+93.115.53.226 - - [06/Nov/2023 15:15:30] "GET /mysql/db/index.php?lang=en HTTP/1.1" 404 -
+93.115.53.226 - - [06/Nov/2023 15:15:31] "GET /phpMyAdmin3/index.php?lang=en HTTP/1.1" 404 -
+93.115.53.226 - - [06/Nov/2023 15:15:32] "GET /phpMyAdmin-latest-all-languages/index.php?lang=en HTTP/1.1" 404 -
+93.115.53.226 - - [06/Nov/2023 15:15:32] "GET /phpMyAdmin-5.3.0/index.php?lang=en HTTP/1.1" 404 -
+93.115.53.226 - - [06/Nov/2023 15:15:33] "GET /phpmyadmin_/index.php?lang=en HTTP/1.1" 404 -
+93.115.53.226 - - [06/Nov/2023 15:15:34] "GET /administrator/admin/index.php?lang=en HTTP/1.1" 404 -
+93.115.53.226 - - [06/Nov/2023 15:15:34] "GET /sql/phpmyadmin5/index.php?lang=en HTTP/1.1" 404 -
+93.115.53.226 - - [06/Nov/2023 15:15:35] "GET /program/index.php?lang=en HTTP/1.1" 404 -
+93.115.53.226 - - [06/Nov/2023 15:15:35] "GET /phpmyadmin2011/index.php?lang=en HTTP/1.1" 404 -
+93.115.53.226 - - [06/Nov/2023 15:15:36] "GET /phpMyadmin/index.php?lang=en HTTP/1.1" 404 -
+93.115.53.226 - - [06/Nov/2023 15:15:37] "GET /db/index.php?lang=en HTTP/1.1" 404 -
+93.115.53.226 - - [06/Nov/2023 15:15:37] "GET /_phpMyAdmin/index.php?lang=en HTTP/1.1" 404 -
+93.115.53.226 - - [06/Nov/2023 15:15:38] "GET /sql/phpMyAdmin2/index.php?lang=en HTTP/1.1" 404 -
+93.115.53.226 - - [06/Nov/2023 15:15:38] "GET /phpMyAdmin-4.9.10-all-languages/index.php?lang=en HTTP/1.1" 404 -
+93.115.53.226 - - [06/Nov/2023 15:15:39] "GET /db/webadmin/index.php?lang=en HTTP/1.1" 404 -
+93.115.53.226 - - [06/Nov/2023 15:15:40] "GET /php-my-admin/index.php?lang=en HTTP/1.1" 404 -
+93.115.53.226 - - [06/Nov/2023 15:15:40] "GET /administrator/pma/index.php?lang=en HTTP/1.1" 404 -
+93.115.53.226 - - [06/Nov/2023 15:15:41] "GET /phpmyadmin5/index.php?lang=en HTTP/1.1" 404 -
+93.115.53.226 - - [06/Nov/2023 15:15:41] "GET /admin/db/index.php?lang=en HTTP/1.1" 404 -
+93.115.53.226 - - [06/Nov/2023 15:15:42] "GET /phpmyadmin3/index.php?lang=en HTTP/1.1" 404 -
+93.115.53.226 - - [06/Nov/2023 15:15:43] "GET /phpmyadmin2018/index.php?lang=en HTTP/1.1" 404 -
+93.115.53.226 - - [06/Nov/2023 15:15:43] "GET /phpMyAdmin5/index.php?lang=en HTTP/1.1" 404 -
+93.115.53.226 - - [06/Nov/2023 15:15:44] "GET /db/phpmyadmin3/index.php?lang=en HTTP/1.1" 404 -
+93.115.53.226 - - [06/Nov/2023 15:15:44] "GET /db/dbadmin/index.php?lang=en HTTP/1.1" 404 -
+93.115.53.226 - - [06/Nov/2023 15:15:45] "GET /db/phpmyadmin5/index.php?lang=en HTTP/1.1" 404 -
+93.115.53.226 - - [06/Nov/2023 15:15:46] "GET /phpMyAdmin_/index.php?lang=en HTTP/1.1" 404 -
+93.115.53.226 - - [06/Nov/2023 15:15:46] "GET /phpMyAdmin-5.1.1/index.php?lang=en HTTP/1.1" 404 -
+93.115.53.226 - - [06/Nov/2023 15:15:47] "GET /mysql/sqlmanager/index.php?lang=en HTTP/1.1" 404 -
+93.115.53.226 - - [06/Nov/2023 15:15:48] "GET /myadmin/index.php?lang=en HTTP/1.1" 404 -
+93.115.53.226 - - [06/Nov/2023 15:15:49] "GET /sql/sql/index.php?lang=en HTTP/1.1" 404 -
+93.115.53.226 - - [06/Nov/2023 15:15:50] "GET /pma/index.php?lang=en HTTP/1.1" 404 -
+93.115.53.226 - - [06/Nov/2023 15:15:50] "GET /phpmy-admin/index.php?lang=en HTTP/1.1" 404 -
+93.115.53.226 - - [06/Nov/2023 15:15:51] "GET /sqlmanager/index.php?lang=en HTTP/1.1" 404 -
+93.115.53.226 - - [06/Nov/2023 15:15:51] "GET /dbadmin/index.php?lang=en HTTP/1.1" 404 -
+93.115.53.226 - - [06/Nov/2023 15:15:52] "GET /phpMyAdmin-5.1.2/index.php?lang=en HTTP/1.1" 404 -
+93.115.53.226 - - [06/Nov/2023 15:15:53] "GET /phpMyAdmin-4/index.php?lang=en HTTP/1.1" 404 -
+93.115.53.226 - - [06/Nov/2023 15:15:53] "GET /mysql/admin/index.php?lang=en HTTP/1.1" 404 -
+93.115.53.226 - - [06/Nov/2023 15:15:54] "GET /mysqlmanager/index.php?lang=en HTTP/1.1" 404 -
+93.115.53.226 - - [06/Nov/2023 15:15:54] "GET /PMA/index.php?lang=en HTTP/1.1" 404 -
+93.115.53.226 - - [06/Nov/2023 15:15:55] "GET /sql/sqlweb/index.php?lang=en HTTP/1.1" 404 -
+93.115.53.226 - - [06/Nov/2023 15:15:56] "GET /phpmyadmin2015/index.php?lang=en HTTP/1.1" 404 -
+93.115.53.226 - - [06/Nov/2023 15:15:56] "GET /admin/index.php?lang=en HTTP/1.1" 404 -
+93.115.53.226 - - [06/Nov/2023 15:15:57] "GET /index.php?lang=en HTTP/1.1" 404 -
+93.115.53.226 - - [06/Nov/2023 15:15:57] "GET /mysql/index.php?lang=en HTTP/1.1" 404 -
+93.115.53.226 - - [06/Nov/2023 15:15:58] "GET /2phpmyadmin/index.php?lang=en HTTP/1.1" 404 -
+93.115.53.226 - - [06/Nov/2023 15:15:59] "GET /sql/phpmanager/index.php?lang=en HTTP/1.1" 404 -
+93.115.53.226 - - [06/Nov/2023 15:15:59] "GET /sql/phpmyadmin3/index.php?lang=en HTTP/1.1" 404 -
+93.115.53.226 - - [06/Nov/2023 15:16:00] "GET /mysql/dbadmin/index.php?lang=en HTTP/1.1" 404 -
+93.115.53.226 - - [06/Nov/2023 15:16:01] "GET /admin/sysadmin/index.php?lang=en HTTP/1.1" 404 -
+93.115.53.226 - - [06/Nov/2023 15:16:01] "GET /admin/sqladmin/index.php?lang=en HTTP/1.1" 404 -
+93.115.53.226 - - [06/Nov/2023 15:16:02] "GET /administrator/web/index.php?lang=en HTTP/1.1" 404 -
+93.115.53.226 - - [06/Nov/2023 15:16:02] "GET /sql/websql/index.php?lang=en HTTP/1.1" 404 -
+93.115.53.226 - - [06/Nov/2023 15:16:03] "GET /db/phpmyadmin/index.php?lang=en HTTP/1.1" 404 -
+93.115.53.226 - - [06/Nov/2023 15:16:04] "GET /shopdb/index.php?lang=en HTTP/1.1" 404 -
+93.115.53.226 - - [06/Nov/2023 15:16:04] "GET /phpmyadmin2/index.php?lang=en HTTP/1.1" 404 -
+93.115.53.226 - - [06/Nov/2023 15:16:05] "GET /_phpmyadmin/index.php?lang=en HTTP/1.1" 404 -
+93.115.53.226 - - [06/Nov/2023 15:16:05] "GET /admin/phpMyAdmin/index.php?lang=en HTTP/1.1" 404 -
+93.115.53.226 - - [06/Nov/2023 15:16:06] "GET /phpMyAdmin1/index.php?lang=en HTTP/1.1" 404 -
+93.115.53.226 - - [06/Nov/2023 15:16:07] "GET /phpMyAdmin-4.9.7/index.php?lang=en HTTP/1.1" 404 -
+93.115.53.226 - - [06/Nov/2023 15:16:07] "GET /phpMyAdmin-5.3.0-all-languages/index.php?lang=en HTTP/1.1" 404 -
+93.115.53.226 - - [06/Nov/2023 15:16:08] "GET /administrator/PMA/index.php?lang=en HTTP/1.1" 404 -
+93.115.53.226 - - [06/Nov/2023 15:16:09] "GET /db/phpMyAdmin-5/index.php?lang=en HTTP/1.1" 404 -
+93.115.53.226 - - [06/Nov/2023 15:16:09] "GET /phpmyadmin2019/index.php?lang=en HTTP/1.1" 404 -
+93.115.53.226 - - [06/Nov/2023 15:16:10] "GET /administrator/db/index.php?lang=en HTTP/1.1" 404 -
+93.115.53.226 - - [06/Nov/2023 15:16:10] "GET /phpmyadmin2016/index.php?lang=en HTTP/1.1" 404 -
+93.115.53.226 - - [06/Nov/2023 15:16:11] "GET /phpMyAdmin/index.php?lang=en HTTP/1.1" 404 -
+93.115.53.226 - - [06/Nov/2023 15:16:12] "GET /phpmyadmin2014/index.php?lang=en HTTP/1.1" 404 -
+93.115.53.226 - - [06/Nov/2023 15:16:12] "GET /db/phpMyAdmin-3/index.php?lang=en HTTP/1.1" 404 -
+93.115.53.226 - - [06/Nov/2023 15:16:13] "GET /php-myadmin/index.php?lang=en HTTP/1.1" 404 -
+93.115.53.226 - - [06/Nov/2023 15:16:13] "GET /sql/webadmin/index.php?lang=en HTTP/1.1" 404 -
+93.115.53.226 - - [06/Nov/2023 15:16:14] "GET /__phpmyadmin/index.php?lang=en HTTP/1.1" 404 -
+93.115.53.226 - - [06/Nov/2023 15:16:15] "GET /phpMyAdmin4/index.php?lang=en HTTP/1.1" 404 -
+93.115.53.226 - - [06/Nov/2023 15:16:15] "GET /wp-content/plugins/portable-phpmyadmin/wp-pma-mod/index.php?lang=en HTTP/1.1" 404 -
+93.115.53.226 - - [06/Nov/2023 15:16:16] "GET /phpmyadmin2021/index.php?lang=en HTTP/1.1" 404 -
+93.115.53.226 - - [06/Nov/2023 15:16:16] "GET /phpMyAdmin2/index.php?lang=en HTTP/1.1" 404 -
+93.115.53.226 - - [06/Nov/2023 15:16:17] "GET /sql/phpmyadmin4/index.php?lang=en HTTP/1.1" 404 -
+93.115.53.226 - - [06/Nov/2023 15:16:18] "GET /MyAdmin/index.php?lang=en HTTP/1.1" 404 -
+93.115.53.226 - - [06/Nov/2023 15:16:18] "GET /db/webdb/index.php?lang=en HTTP/1.1" 404 -
+93.115.53.226 - - [06/Nov/2023 15:16:19] "GET /phpMyAdmin-3/index.php?lang=en HTTP/1.1" 404 -
+93.115.53.226 - - [06/Nov/2023 15:16:20] "GET /admin/web/index.php?lang=en HTTP/1.1" 404 -
+93.115.53.226 - - [06/Nov/2023 15:16:20] "GET /phpmyadmin2013/index.php?lang=en HTTP/1.1" 404 -
+93.115.53.226 - - [06/Nov/2023 15:16:21] "GET /_phpmyadmin_/index.php?lang=en HTTP/1.1" 404 -
+93.115.53.226 - - [06/Nov/2023 15:16:21] "GET /phpMyAdmin-5.2.0-all-languages/index.php?lang=en HTTP/1.1" 404 -
+93.115.53.226 - - [06/Nov/2023 15:16:22] "GET /admin/phpmyadmin/index.php?lang=en HTTP/1.1" 404 -
+93.115.53.226 - - [06/Nov/2023 15:16:23] "GET /phpmyadmin2022/index.php?lang=en HTTP/1.1" 404 -
+93.115.53.226 - - [06/Nov/2023 15:16:23] "GET /db/dbweb/index.php?lang=en HTTP/1.1" 404 -
+93.115.53.226 - - [06/Nov/2023 15:16:24] "GET /phpMyAdmin5.2/index.php?lang=en HTTP/1.1" 404 -
+93.115.53.226 - - [06/Nov/2023 15:16:24] "GET /sql/php-myadmin/index.php?lang=en HTTP/1.1" 404 -
+93.115.53.226 - - [06/Nov/2023 15:16:25] "GET /phpmyadmin1/index.php?lang=en HTTP/1.1" 404 -
+93.115.53.226 - - [06/Nov/2023 15:16:26] "GET /mysql/mysqlmanager/index.php?lang=en HTTP/1.1" 404 -
+93.115.53.226 - - [06/Nov/2023 15:16:26] "GET /sql/phpmy-admin/index.php?lang=en HTTP/1.1" 404 -
+93.115.53.226 - - [06/Nov/2023 15:16:27] "GET /administrator/phpmyadmin/index.php?lang=en HTTP/1.1" 404 -
+93.115.53.226 - - [06/Nov/2023 15:16:28] "GET /db/phpMyAdmin/index.php?lang=en HTTP/1.1" 404 -
+93.115.53.226 - - [06/Nov/2023 15:16:28] "GET /phpmyadmin2020/index.php?lang=en HTTP/1.1" 404 -
+93.115.53.226 - - [06/Nov/2023 15:16:29] "GET /phpmy/index.php?lang=en HTTP/1.1" 404 -
+93.115.53.226 - - [06/Nov/2023 15:16:29] "GET /phpmyadmin2012/index.php?lang=en HTTP/1.1" 404 -
+93.115.53.226 - - [06/Nov/2023 15:16:30] "GET /db/phpMyAdmin3/index.php?lang=en HTTP/1.1" 404 -
+93.115.53.226 - - [06/Nov/2023 15:16:31] "GET /db/phpMyAdmin-4/index.php?lang=en HTTP/1.1" 404 -
+93.115.53.226 - - [06/Nov/2023 15:16:31] "GET /sql/sql-admin/index.php?lang=en HTTP/1.1" 404 -
+93.115.53.226 - - [06/Nov/2023 15:16:32] "GET /db/phpmyadmin4/index.php?lang=en HTTP/1.1" 404 -
+93.115.53.226 - - [06/Nov/2023 15:16:32] "GET /administrator/phpMyAdmin/index.php?lang=en HTTP/1.1" 404 -
+93.115.53.226 - - [06/Nov/2023 15:16:33] "GET /phpMyAdmin5.1/index.php?lang=en HTTP/1.1" 404 -
+93.115.53.226 - - [06/Nov/2023 15:16:34] "GET /sql/sqladmin/index.php?lang=en HTTP/1.1" 404 -
+93.115.53.226 - - [06/Nov/2023 15:16:34] "GET /wpma5.2/index.php?lang=en HTTP/1.1" 404 -
+93.115.53.226 - - [06/Nov/2023 15:16:35] "GET /phpMyAdmin-5.1.3/index.php?lang=en HTTP/1.1" 404 -
+93.115.53.226 - - [06/Nov/2023 15:16:35] "GET /mysql/pma/index.php?lang=en HTTP/1.1" 404 -
+93.115.53.226 - - [06/Nov/2023 15:16:36] "GET /phpmyAdmin/index.php?lang=en HTTP/1.1" 404 -
+93.115.53.226 - - [06/Nov/2023 15:16:37] "GET /1phpmyadmin/index.php?lang=en HTTP/1.1" 404 -
+93.115.53.226 - - [06/Nov/2023 15:16:37] "GET /phpMyAdmin-latest-english/index.php?lang=en HTTP/1.1" 404 -
+93.115.53.226 - - [06/Nov/2023 15:16:38] "GET /phppma/index.php?lang=en HTTP/1.1" 404 -
+185.162.235.174 - - [06/Nov/2023 15:52:52] "CONNECT google.com:443 HTTP/1.1" 404 -
+78.129.165.238 - - [06/Nov/2023 16:32:31] code 400, message Bad request version ('À\x13À')
+78.129.165.238 - - [06/Nov/2023 16:32:31] "\x16\x03\x01\x00î\x01\x00\x00ê\x03\x03\x16özzèshÁCO\x1c<Õb5f\x9aùÙ7³\x90­ÅÁ\x98ûd²aO\x08 p^yJE\x84ºDZ\x00+y\x13\x8cçÌtþ\x84Ám\x9c~ÄíøÃÂ\x04¨:\x83\x00&À+À/À,À0Ì©Ì¨À\x09À\x13À" HTTPStatus.BAD_REQUEST -
+78.129.165.238 - - [06/Nov/2023 16:32:39] "GET / HTTP/1.1" 404 -
+185.254.196.173 - - [06/Nov/2023 16:37:36] "GET /.env HTTP/1.1" 404 -
+185.254.196.173 - - [06/Nov/2023 16:37:37] "POST / HTTP/1.1" 404 -
+139.162.84.205 - - [06/Nov/2023 16:38:58] "GET / HTTP/1.0" 404 -
+43.154.8.109 - - [06/Nov/2023 16:50:30] "HEAD /Core/Skin/Login.aspx HTTP/1.1" 404 -
+135.125.246.189 - - [06/Nov/2023 16:54:10] "GET /.env HTTP/1.1" 404 -
+135.125.246.189 - - [06/Nov/2023 16:54:10] "POST / HTTP/1.1" 404 -
+78.129.165.238 - - [06/Nov/2023 16:58:55] "GET @a4fgfxmn6z14j5jpyd2f8xk2gtmkaby0.oastify.com/3.26.117.18 HTTP/1.1" 404 -
+78.129.165.238 - - [06/Nov/2023 17:09:02] "GET https://a4fgfxmn6z14j5jpyd2f8xk2gtmkaby0.oastify.com/3.26.117.18 HTTP/1.1" 404 -
+185.254.196.173 - - [06/Nov/2023 17:57:11] "GET /.env HTTP/1.1" 404 -
+185.254.196.173 - - [06/Nov/2023 17:57:12] "POST / HTTP/1.1" 404 -
+43.154.8.109 - - [06/Nov/2023 18:25:52] "HEAD /Core/Skin/Login.aspx HTTP/1.1" 404 -
+205.210.31.152 - - [06/Nov/2023 18:46:18] code 400, message Bad request version ('À\x13À')
+205.210.31.152 - - [06/Nov/2023 18:46:18] "\x16\x03\x01\x00î\x01\x00\x00ê\x03\x03¿\x81ìÙ;àÓü®¼\x83\x11oÏÊ¹x/\x9eñµ¦Î6ÊLÚv^\x9dý\x8c Hë©ÚÔ\x99bMaÛû B~¦\x0f Aêù\x94\x97Ê»:eQ\x94\x00gµc\x00&À+À/À,À0Ì©Ì¨À\x09À\x13À" HTTPStatus.BAD_REQUEST -
+205.210.31.152 - - [06/Nov/2023 18:46:19] code 400, message Bad request version ('m.°K·²Ó\x08·^\x94')
+205.210.31.152 - - [06/Nov/2023 18:46:19] "\x16\x03\x01\x00Ê\x01\x00\x00Æ\x03\x03 ÒÆº\x90\x00\x85ÑÞÒ~\x19:\x8dñ¡n\x1em.°K·²Ó\x08·^\x94" HTTPStatus.BAD_REQUEST -
+192.241.196.118 - - [06/Nov/2023 18:52:30] "GET / HTTP/1.1" 404 -
+185.254.196.173 - - [06/Nov/2023 19:19:52] "GET /.env HTTP/1.1" 404 -
+185.254.196.173 - - [06/Nov/2023 19:19:53] "POST / HTTP/1.1" 404 -
+20.39.187.22 - - [06/Nov/2023 19:45:44] "GET /.env HTTP/1.1" 404 -
+20.39.187.22 - - [06/Nov/2023 19:45:44] "POST / HTTP/1.1" 404 -
+34.197.127.12 - - [06/Nov/2023 19:58:48] "GET / HTTP/1.1" 404 -
+34.197.127.12 - - [06/Nov/2023 19:58:48] code 400, message Bad request version ('À\x13À')
+34.197.127.12 - - [06/Nov/2023 19:58:48] "\x16\x03\x01\x00ê\x01\x00\x00æ\x03\x03òí\x07!\x82\x1e$Úè\x96£KÁÖ"\x8dÝoÃ\x9fÁ\x9a\x10Ú\x83Ä\x12u\x9f\x08\x9bh t¿\x80¥IÉâ$+,\x16s\x8a\x87ÛÓÍGMúÌís\x11÷\x96ð£Ð,`m\x00&À+À/À,À0Ì©Ì¨À\x09À\x13À" HTTPStatus.BAD_REQUEST -
+34.197.127.12 - - [06/Nov/2023 19:58:49] "GET / HTTP/1.1" 404 -
+43.154.8.109 - - [06/Nov/2023 20:00:50] "HEAD /Core/Skin/Login.aspx HTTP/1.1" 404 -
+54.190.153.134 - - [06/Nov/2023 20:13:37] "GET /.git/config HTTP/1.1" 404 -
+139.162.84.205 - - [06/Nov/2023 20:38:23] "GET / HTTP/1.0" 404 -
+5.182.209.121 - - [06/Nov/2023 20:53:13] "GET / HTTP/1.1" 404 -
+34.197.127.12 - - [06/Nov/2023 20:54:03] code 400, message Bad request version ('À\x13À')
+34.197.127.12 - - [06/Nov/2023 20:54:03] "\x16\x03\x01\x01\x07\x01\x00\x01\x03\x03\x03¾\x14òÛvX+4\x11Ö¸&®]z:Ñ¢¯÷ß\x05>\x1a,··\x1b!¤\x08\x89 7Q;@\x84EÅÉ\x81\x80Ï¯\x95è8°\x8fC\x10\x8a Õõs\x93W\x01\x8d\x1f\x11\x16{\x00&À+À/À,À0Ì©Ì¨À\x09À\x13À" HTTPStatus.BAD_REQUEST -
+34.197.127.12 - - [06/Nov/2023 20:55:29] "GET /cdn-cgi/trace HTTP/1.1" 404 -
+66.240.205.34 - - [06/Nov/2023 20:59:37] code 400, message Bad request version ('®¯]')
+66.240.205.34 - - [06/Nov/2023 20:59:37] "Gh0st­\x00\x00\x00à\x00\x00\x00x\x9cKS``\x98ÃÀÀÀ\x06Ä\x8c@¼Q\x96\x81\x81\x09H\x07§\x16\x95e&§*\x04$&g+\x182\x94ö°00¬¨rc\x00\x01\x11 \x82\x1f\\`&\x83ÇK7\x86\x19ån\x0c9\x95n\x0c;\x84\x0f3¬èsch¨^Ï4'J\x97©\x82ã0Ã\x91h]&\x90øÎ\x97SËA4L?2=áÄ\x92\x86\x0b@õ`\x0cT\x1f®¯]" HTTPStatus.BAD_REQUEST -
+185.180.143.50 - - [06/Nov/2023 21:19:27] "GET / HTTP/1.1" 404 -
+185.180.143.50 - - [06/Nov/2023 21:19:32] "GET /cf_scripts/scripts/ajax/ckeditor/ckeditor.js HTTP/1.1" 404 -
+43.154.8.109 - - [06/Nov/2023 21:35:38] "HEAD /Core/Skin/Login.aspx HTTP/1.1" 404 -
+161.35.236.158 - - [06/Nov/2023 21:48:36] code 400, message Bad HTTP/0.9 request type ('\x00\x0e8%Á\x81\x15')
+161.35.236.158 - - [06/Nov/2023 21:48:36] "\x00\x0e8%Á\x81\x15\x1eõ92\x00\x00\x00\x00\x00" HTTPStatus.BAD_REQUEST -
+185.254.196.186 - - [06/Nov/2023 22:23:09] "GET /.env HTTP/1.1" 404 -
+185.254.196.186 - - [06/Nov/2023 22:23:13] "POST / HTTP/1.1" 404 -
+205.234.144.37 - - [06/Nov/2023 22:33:53] "GET /.env HTTP/1.1" 404 -
+3.219.216.107 - - [06/Nov/2023 23:00:34] "GET / HTTP/1.1" 404 -
+43.154.8.109 - - [06/Nov/2023 23:10:54] "HEAD /Core/Skin/Login.aspx HTTP/1.1" 404 -
+135.125.246.189 - - [06/Nov/2023 23:18:39] "GET /.env HTTP/1.1" 404 -
+135.125.246.189 - - [06/Nov/2023 23:18:40] "POST / HTTP/1.1" 404 -
+3.219.216.107 - - [06/Nov/2023 23:40:58] "GET / HTTP/1.1" 404 -
+185.254.196.173 - - [06/Nov/2023 23:41:58] "GET /.env HTTP/1.1" 404 -
+3.219.216.107 - - [06/Nov/2023 23:43:20] "GET / HTTP/1.1" 404 -
+20.172.64.135 - - [07/Nov/2023 00:06:41] "GET /.env HTTP/1.1" 404 -
+20.172.64.135 - - [07/Nov/2023 00:06:41] "POST / HTTP/1.1" 404 -
+162.216.150.226 - - [07/Nov/2023 00:07:55] "GET / HTTP/1.1" 404 -
+15.188.79.84 - - [07/Nov/2023 00:17:37] "GET / HTTP/1.1" 404 -
+139.162.84.205 - - [07/Nov/2023 00:37:16] "GET / HTTP/1.0" 404 -
+43.154.8.109 - - [07/Nov/2023 00:45:52] "HEAD /Core/Skin/Login.aspx HTTP/1.1" 404 -
+135.125.246.189 - - [07/Nov/2023 01:01:31] "GET /.env HTTP/1.1" 404 -
+135.125.246.189 - - [07/Nov/2023 01:01:31] "POST / HTTP/1.1" 404 -
+34.219.21.236 - - [07/Nov/2023 01:08:46] "GET /private/.env HTTP/1.1" 404 -
+34.219.21.236 - - [07/Nov/2023 01:08:47] "POST /private/.env HTTP/1.1" 404 -
+34.219.21.236 - - [07/Nov/2023 01:08:47] "GET /.aws/credentials HTTP/1.1" 404 -
+34.219.21.236 - - [07/Nov/2023 01:08:47] "POST /.aws/credentials HTTP/1.1" 404 -
+34.219.21.236 - - [07/Nov/2023 01:08:48] "GET /script/.env HTTP/1.1" 404 -
+34.219.21.236 - - [07/Nov/2023 01:08:48] "POST /script/.env HTTP/1.1" 404 -
+34.219.21.236 - - [07/Nov/2023 01:08:48] "GET /.env.prod HTTP/1.1" 404 -
+34.219.21.236 - - [07/Nov/2023 01:08:49] "POST /.env.prod HTTP/1.1" 404 -
+34.219.21.236 - - [07/Nov/2023 01:08:49] "GET /.env.project HTTP/1.1" 404 -
+34.219.21.236 - - [07/Nov/2023 01:08:49] "POST /.env.project HTTP/1.1" 404 -
+34.219.21.236 - - [07/Nov/2023 01:08:50] "GET /back/.env HTTP/1.1" 404 -
+34.219.21.236 - - [07/Nov/2023 01:08:50] "POST /back/.env HTTP/1.1" 404 -
+34.219.21.236 - - [07/Nov/2023 01:08:50] "GET /.env.save HTTP/1.1" 404 -
+34.219.21.236 - - [07/Nov/2023 01:08:50] "POST /.env.save HTTP/1.1" 404 -
+34.219.21.236 - - [07/Nov/2023 01:08:51] "GET /.env.development HTTP/1.1" 404 -
+34.219.21.236 - - [07/Nov/2023 01:08:51] "POST /.env.development HTTP/1.1" 404 -
+34.219.21.236 - - [07/Nov/2023 01:08:52] "GET /application/.env HTTP/1.1" 404 -
+34.219.21.236 - - [07/Nov/2023 01:08:52] "POST /application/.env HTTP/1.1" 404 -
+34.219.21.236 - - [07/Nov/2023 01:08:52] "GET /docker/.env HTTP/1.1" 404 -
+34.219.21.236 - - [07/Nov/2023 01:08:53] "POST /docker/.env HTTP/1.1" 404 -
+34.219.21.236 - - [07/Nov/2023 01:08:53] "GET /laravel/.env HTTP/1.1" 404 -
+34.219.21.236 - - [07/Nov/2023 01:08:53] "POST /laravel/.env HTTP/1.1" 404 -
+34.219.21.236 - - [07/Nov/2023 01:08:54] "GET /system/.env HTTP/1.1" 404 -
+34.219.21.236 - - [07/Nov/2023 01:08:54] "POST /system/.env HTTP/1.1" 404 -
+34.219.21.236 - - [07/Nov/2023 01:08:54] "GET /enviroments/.env.production HTTP/1.1" 404 -
+34.219.21.236 - - [07/Nov/2023 01:08:54] "POST /enviroments/.env.production HTTP/1.1" 404 -
+34.219.21.236 - - [07/Nov/2023 01:08:55] "GET /.env.dist HTTP/1.1" 404 -
+34.219.21.236 - - [07/Nov/2023 01:08:55] "POST /.env.dist HTTP/1.1" 404 -
+34.219.21.236 - - [07/Nov/2023 01:08:55] "GET /app/.env HTTP/1.1" 404 -
+34.219.21.236 - - [07/Nov/2023 01:08:56] "POST /app/.env HTTP/1.1" 404 -
+34.219.21.236 - - [07/Nov/2023 01:08:56] "GET /sources/.env HTTP/1.1" 404 -
+34.219.21.236 - - [07/Nov/2023 01:08:56] "POST /sources/.env HTTP/1.1" 404 -
+34.219.21.236 - - [07/Nov/2023 01:08:57] "GET /core/.env HTTP/1.1" 404 -
+34.219.21.236 - - [07/Nov/2023 01:08:58] "POST /core/.env HTTP/1.1" 404 -
+34.219.21.236 - - [07/Nov/2023 01:08:58] "GET /apps/.env HTTP/1.1" 404 -
+34.219.21.236 - - [07/Nov/2023 01:08:59] "POST /apps/.env HTTP/1.1" 404 -
+34.219.21.236 - - [07/Nov/2023 01:08:59] "GET /api/.env HTTP/1.1" 404 -
+34.219.21.236 - - [07/Nov/2023 01:08:59] "POST /api/.env HTTP/1.1" 404 -
+34.219.21.236 - - [07/Nov/2023 01:09:00] "GET /.env HTTP/1.1" 404 -
+34.219.21.236 - - [07/Nov/2023 01:09:00] "POST /.env HTTP/1.1" 404 -
+34.219.21.236 - - [07/Nov/2023 01:09:00] "GET /shared/.env HTTP/1.1" 404 -
+34.219.21.236 - - [07/Nov/2023 01:09:01] "POST /shared/.env HTTP/1.1" 404 -
+34.219.21.236 - - [07/Nov/2023 01:09:01] "GET /cms/.env HTTP/1.1" 404 -
+34.219.21.236 - - [07/Nov/2023 01:09:01] "POST /cms/.env HTTP/1.1" 404 -
+34.219.21.236 - - [07/Nov/2023 01:09:02] "GET /.env.old HTTP/1.1" 404 -
+34.219.21.236 - - [07/Nov/2023 01:09:02] "POST /.env.old HTTP/1.1" 404 -
+34.219.21.236 - - [07/Nov/2023 01:09:02] "GET /live_env HTTP/1.1" 404 -
+34.219.21.236 - - [07/Nov/2023 01:09:03] "POST /live_env HTTP/1.1" 404 -
+34.219.21.236 - - [07/Nov/2023 01:09:03] "GET /enviroments/.env HTTP/1.1" 404 -
+34.219.21.236 - - [07/Nov/2023 01:09:03] "POST /enviroments/.env HTTP/1.1" 404 -
+34.219.21.236 - - [07/Nov/2023 01:09:04] "GET /admin-app/.env HTTP/1.1" 404 -
+34.219.21.236 - - [07/Nov/2023 01:09:04] "POST /admin-app/.env HTTP/1.1" 404 -
+34.219.21.236 - - [07/Nov/2023 01:09:04] "GET /.env.production HTTP/1.1" 404 -
+34.219.21.236 - - [07/Nov/2023 01:09:04] "POST /.env.production HTTP/1.1" 404 -
+34.219.21.236 - - [07/Nov/2023 01:09:05] "GET /development/.env HTTP/1.1" 404 -
+34.219.21.236 - - [07/Nov/2023 01:09:05] "POST /development/.env HTTP/1.1" 404 -
+34.219.21.236 - - [07/Nov/2023 01:09:05] "GET /frontend_dev.php/$ HTTP/1.1" 404 -
+34.219.21.236 - - [07/Nov/2023 01:09:06] "GET /debug/default/view?panel=config HTTP/1.1" 404 -
+34.219.21.236 - - [07/Nov/2023 01:09:06] "GET /.json HTTP/1.1" 404 -
+34.219.21.236 - - [07/Nov/2023 01:09:06] "GET /config.json HTTP/1.1" 404 -
+34.219.21.236 - - [07/Nov/2023 01:09:07] "GET /testphpinfo HTTP/1.1" 404 -
+34.219.21.236 - - [07/Nov/2023 01:09:07] "GET /admin/phpinfo.php HTTP/1.1" 404 -
+34.219.21.236 - - [07/Nov/2023 01:09:07] "GET /php_info.php HTTP/1.1" 404 -
+34.219.21.236 - - [07/Nov/2023 01:09:07] "GET /phpinfo/phpinfo.php HTTP/1.1" 404 -
+34.219.21.236 - - [07/Nov/2023 01:09:08] "GET /_phpinfo.php HTTP/1.1" 404 -
+34.219.21.236 - - [07/Nov/2023 01:09:08] "GET /php.php HTTP/1.1" 404 -
+34.219.21.236 - - [07/Nov/2023 01:09:08] "GET /phpinfo.php HTTP/1.1" 404 -
+34.219.21.236 - - [07/Nov/2023 01:09:09] "GET /phptest.php HTTP/1.1" 404 -
+34.219.21.236 - - [07/Nov/2023 01:09:09] "GET /information HTTP/1.1" 404 -
+34.219.21.236 - - [07/Nov/2023 01:09:09] "GET /information.php HTTP/1.1" 404 -
+34.219.21.236 - - [07/Nov/2023 01:09:10] "GET /pinfo.php HTTP/1.1" 404 -
+34.219.21.236 - - [07/Nov/2023 01:09:10] "GET /infophp.php HTTP/1.1" 404 -
+34.219.21.236 - - [07/Nov/2023 01:09:10] "GET /_profiler/phpinfo HTTP/1.1" 404 -
+34.219.21.236 - - [07/Nov/2023 01:09:10] "GET /info/phpinfo.php HTTP/1.1" 404 -
+34.219.21.236 - - [07/Nov/2023 01:09:11] "GET /viewinfo.php HTTP/1.1" 404 -
+34.219.21.236 - - [07/Nov/2023 01:09:11] "GET /phpversion.php HTTP/1.1" 404 -
+34.219.21.236 - - [07/Nov/2023 01:09:11] "GET /PHPConf.php HTTP/1.1" 404 -
+34.219.21.236 - - [07/Nov/2023 01:09:12] "GET /info.php HTTP/1.1" 404 -
+34.219.21.236 - - [07/Nov/2023 01:09:12] "GET /php-info.php HTTP/1.1" 404 -
+34.219.21.236 - - [07/Nov/2023 01:09:12] "GET /info/info.php HTTP/1.1" 404 -
+34.219.21.236 - - [07/Nov/2023 01:09:13] "GET /scripts/phpinfo.php HTTP/1.1" 404 -
+34.219.21.236 - - [07/Nov/2023 01:09:13] "GET /testphpinfo.php HTTP/1.1" 404 -
+34.219.21.236 - - [07/Nov/2023 01:09:13] "GET /admin.php HTTP/1.1" 404 -
+34.219.21.236 - - [07/Nov/2023 01:09:13] "GET /phpinfo HTTP/1.1" 404 -
+34.219.21.236 - - [07/Nov/2023 01:09:14] "GET /phpinformation HTTP/1.1" 404 -
+185.254.196.173 - - [07/Nov/2023 01:18:15] "GET /.env HTTP/1.1" 404 -
+185.254.196.173 - - [07/Nov/2023 01:18:16] "POST / HTTP/1.1" 404 -
+198.235.24.42 - - [07/Nov/2023 01:52:30] "GET / HTTP/1.0" 404 -
+43.154.8.109 - - [07/Nov/2023 02:20:56] "HEAD /Core/Skin/Login.aspx HTTP/1.1" 404 -
+40.77.167.101 - - [07/Nov/2023 02:43:22] "GET /robots.txt HTTP/1.1" 404 -
+207.46.13.154 - - [07/Nov/2023 02:43:27] "GET / HTTP/1.1" 404 -
+65.49.20.67 - - [07/Nov/2023 02:45:37] "GET / HTTP/1.1" 404 -
+65.49.20.67 - - [07/Nov/2023 02:47:28] "GET /favicon.ico HTTP/1.1" 404 -
+65.49.20.67 - - [07/Nov/2023 02:48:21] "GET /geoserver/web/ HTTP/1.1" 404 -
+147.92.179.114 - - [07/Nov/2023 03:01:21] "GET /Schedule/BandPractice HTTP/1.1" 200 -
+223.138.69.40 - - [07/Nov/2023 03:02:10] "GET /Schedule/BandPractice HTTP/1.1" 200 -
+223.138.69.40 - - [07/Nov/2023 03:02:10] "GET /static/styles/main.css HTTP/1.1" 200 -
+95.158.32.112 - - [07/Nov/2023 03:06:35] "GET / HTTP/1.1" 404 -
+162.216.150.133 - - [07/Nov/2023 03:07:37] "GET / HTTP/1.1" 404 -
+135.125.246.189 - - [07/Nov/2023 03:08:34] "GET /.env HTTP/1.1" 404 -
+135.125.246.189 - - [07/Nov/2023 03:08:35] "POST / HTTP/1.1" 404 -
+43.154.8.109 - - [07/Nov/2023 03:56:03] "HEAD /Core/Skin/Login.aspx HTTP/1.1" 404 -
+185.254.196.186 - - [07/Nov/2023 04:03:50] "GET /.env HTTP/1.1" 404 -
+185.254.196.186 - - [07/Nov/2023 04:03:51] "POST / HTTP/1.1" 404 -
+198.235.24.242 - - [07/Nov/2023 04:08:34] code 400, message Bad request version ('À\x13À')
+198.235.24.242 - - [07/Nov/2023 04:08:34] "\x16\x03\x01\x00î\x01\x00\x00ê\x03\x03\x00Ò»)()µs\x09µ|òp\x05S\x9c\x81)\x8euîé\x1dÆnzté\x8aB\x04Ê <.\x11Ä\x90Ã¦´\x85zÃþ\x83\x153ª¥Íò6ámÂîº\x08H3ÿ\x81\x1dM\x00&À+À/À,À0Ì©Ì¨À\x09À\x13À" HTTPStatus.BAD_REQUEST -
+198.235.24.242 - - [07/Nov/2023 04:08:34] code 400, message Bad request version ('À(À$À\x14À')
+198.235.24.242 - - [07/Nov/2023 04:08:34] "\x16\x03\x01\x00Ê\x01\x00\x00Æ\x03\x03 1\x1c%[\x15~ü\x92ï3Á\x85A¡ú»\x80yø\x95ó\x05Bû»föP\x98Uµ\x00\x00hÌ\x14Ì\x13À/À+À0À,À\x11À\x07À'À#À\x13À\x09À(À$À\x14À" HTTPStatus.BAD_REQUEST -
+35.233.62.116 - - [07/Nov/2023 04:11:17] "GET / HTTP/1.1" 404 -
+34.243.243.48 - - [07/Nov/2023 04:19:39] "GET /.git/config HTTP/1.1" 404 -
+103.70.197.71 - - [07/Nov/2023 04:21:28] code 400, message Bad request version ('À\x13À')
+103.70.197.71 - - [07/Nov/2023 04:21:28] "\x16\x03\x01\x00ê\x01\x00\x00æ\x03\x03>¬ó\x18\x07\\n²jîÏ\x8e|.¡qgQ0\x1fïÐü\x93÷|ß¯­1Ù\x89 \\<\x15XM¿{\x1a\x07-öÚ\x03Zlµ6Ïhú`hFî\x98\x10îU¹\x89ðs\x00&À+À/À,À0Ì©Ì¨À\x09À\x13À" HTTPStatus.BAD_REQUEST -
+162.243.146.17 - - [07/Nov/2023 04:26:09] code 400, message Bad request syntax ('MGLNDD_3.26.117.18_80')
+162.243.146.17 - - [07/Nov/2023 04:26:09] "MGLNDD_3.26.117.18_80" HTTPStatus.BAD_REQUEST -
+198.235.24.137 - - [07/Nov/2023 04:32:12] "GET / HTTP/1.0" 404 -
+135.125.246.189 - - [07/Nov/2023 04:40:47] "GET /.env HTTP/1.1" 404 -
+135.125.246.189 - - [07/Nov/2023 04:40:48] "POST / HTTP/1.1" 404 -
+139.162.84.205 - - [07/Nov/2023 04:41:25] "GET / HTTP/1.0" 404 -
+138.91.106.187 - - [07/Nov/2023 05:13:52] "GET /.env HTTP/1.1" 404 -
+40.77.167.30 - - [07/Nov/2023 05:16:50] "GET / HTTP/1.1" 404 -
+20.26.44.173 - - [07/Nov/2023 05:21:34] "GET / HTTP/1.1" 404 -
+43.154.8.109 - - [07/Nov/2023 05:31:45] "HEAD /Core/Skin/Login.aspx HTTP/1.1" 404 -
+185.254.196.173 - - [07/Nov/2023 05:47:37] "GET /.env HTTP/1.1" 404 -
+185.254.196.173 - - [07/Nov/2023 05:47:38] "POST / HTTP/1.1" 404 -
+138.68.186.235 - - [07/Nov/2023 06:17:24] code 400, message Bad HTTP/0.9 request type ('\x16\x03\x01\x01ú\x01\x00\x01ö\x03\x03HøßU1ÊÐ4~TJ0¥`:BÓ\x94ö¾\x1bSÌ#\x95')
+138.68.186.235 - - [07/Nov/2023 06:17:24] "\x16\x03\x01\x01ú\x01\x00\x01ö\x03\x03HøßU1ÊÐ4~TJ0¥`:BÓ\x94ö¾\x1bSÌ#\x95\x09$\x05T¶\x83*\x00\x01<Ì\x14Ì\x13Ì\x15À0À,À(À$À\x14À" HTTPStatus.BAD_REQUEST -
+185.254.196.186 - - [07/Nov/2023 07:00:43] "GET /.env HTTP/1.1" 404 -
+185.254.196.186 - - [07/Nov/2023 07:00:43] "POST / HTTP/1.1" 404 -
+43.154.8.109 - - [07/Nov/2023 07:07:21] "HEAD /Core/Skin/Login.aspx HTTP/1.1" 404 -
+162.142.125.216 - - [07/Nov/2023 07:08:13] "GET / HTTP/1.1" 404 -
+162.142.125.216 - - [07/Nov/2023 07:08:14] "GET / HTTP/1.1" 404 -
+162.142.125.216 - - [07/Nov/2023 07:08:14] code 505, message Invalid HTTP version (2.0)
+162.142.125.216 - - [07/Nov/2023 07:08:14] "PRI * HTTP/2.0" HTTPStatus.HTTP_VERSION_NOT_SUPPORTED -
+135.125.246.189 - - [07/Nov/2023 07:09:04] "GET /.env HTTP/1.1" 404 -
+135.125.246.189 - - [07/Nov/2023 07:09:05] "POST / HTTP/1.1" 404 -
+95.214.26.8 - - [07/Nov/2023 07:24:20] "GET /.env HTTP/1.1" 404 -
+95.214.26.8 - - [07/Nov/2023 07:24:21] "POST / HTTP/1.1" 404 -
+52.167.144.228 - - [07/Nov/2023 07:29:03] code 400, message Bad request version ("\x11\x1b1x\x8d¼Èý\x00,\x13\x02\x13\x01À,À+À0À/\x00\x9f\x00\x9eÀ$À#À(À'À")
+52.167.144.228 - - [07/Nov/2023 07:29:03] "\x16\x03\x01\x01>\x01\x00\x01:\x03\x03¾¬_\x80ùoa#\x7ftA&?\x7fÑ=Ã7\x91O\x13]­yêOª4'\x0cî+ \x8eHÌ\x1a)Àk1ÇÂ¹ß\x0e\x8dÐ$µ3ç^y²\x89\x0b\x11\x1b1x\x8d¼Èý\x00,\x13\x02\x13\x01À,À+À0À/\x00\x9f\x00\x9eÀ$À#À(À'À" HTTPStatus.BAD_REQUEST -
+65.49.1.80 - - [07/Nov/2023 07:54:42] code 400, message Bad request syntax ('\x16\x03\x01\x00{\x01\x00\x00w\x03\x03±T\x89gË%ú\x05\x91û\x83Þ\x10AÒBaÊ;Y\x1a')
+65.49.1.80 - - [07/Nov/2023 07:54:42] "\x16\x03\x01\x00{\x01\x00\x00w\x03\x03±T\x89gË%ú\x05\x91û\x83Þ\x10AÒBaÊ;Y\x1a" HTTPStatus.BAD_REQUEST -
+139.162.84.205 - - [07/Nov/2023 08:42:10] "GET / HTTP/1.0" 404 -
+43.154.8.109 - - [07/Nov/2023 08:43:17] "HEAD /Core/Skin/Login.aspx HTTP/1.1" 404 -
+35.187.98.121 - - [07/Nov/2023 08:44:26] "GET / HTTP/1.1" 404 -
+135.125.246.189 - - [07/Nov/2023 08:51:24] "GET /.env HTTP/1.1" 404 -
+135.125.246.189 - - [07/Nov/2023 08:51:25] "POST / HTTP/1.1" 404 -
+140.117.183.230 - - [07/Nov/2023 09:04:59] "GET /Schedule/BandPractice HTTP/1.1" 200 -
+140.117.183.231 - - [07/Nov/2023 09:04:59] "GET /static/styles/main.css HTTP/1.1" 200 -
+140.117.183.233 - - [07/Nov/2023 09:17:07] "GET /Schedule/BandPractice HTTP/1.1" 200 -
+140.117.183.231 - - [07/Nov/2023 09:17:07] "GET /Schedule/BandPractice HTTP/1.1" 200 -
+140.117.183.232 - - [07/Nov/2023 09:17:07] "GET /Schedule/BandPractice HTTP/1.1" 200 -
+140.117.183.230 - - [07/Nov/2023 09:18:59] "GET /static/styles/main.css HTTP/1.1" 304 -
+140.117.183.232 - - [07/Nov/2023 09:25:01] "GET /Schedule/BandPractice HTTP/1.1" 200 -
+140.117.183.231 - - [07/Nov/2023 09:25:01] "GET /static/styles/main.css HTTP/1.1" 304 -
+140.117.183.232 - - [07/Nov/2023 09:25:01] "GET /favicon.ico HTTP/1.1" 404 -
+140.117.183.234 - - [07/Nov/2023 09:27:42] "GET /Schedule/BandPractice HTTP/1.1" 200 -
+140.117.183.230 - - [07/Nov/2023 09:35:13] "GET /Schedule/BandPractice HTTP/1.1" 200 -
+140.117.183.233 - - [07/Nov/2023 09:46:56] "GET /Schedule/BandPractice HTTP/1.1" 200 -
+140.117.183.232 - - [07/Nov/2023 09:46:56] "GET /static/styles/main.css HTTP/1.1" 304 -
+140.117.183.231 - - [07/Nov/2023 09:46:57] "GET /favicon.ico HTTP/1.1" 404 -
+94.102.61.10 - - [07/Nov/2023 09:56:00] "GET / HTTP/1.1" 404 -
+159.203.191.49 - - [07/Nov/2023 10:03:42] "GET / HTTP/1.0" 404 -
+159.203.191.49 - - [07/Nov/2023 10:03:44] "OPTIONS / HTTP/1.0" 404 -
+159.203.191.49 - - [07/Nov/2023 10:03:45] code 400, message Bad request version ('RTSP/1.0')
+159.203.191.49 - - [07/Nov/2023 10:03:45] "OPTIONS / RTSP/1.0" HTTPStatus.BAD_REQUEST -
+159.203.191.49 - - [07/Nov/2023 10:03:48] code 400, message Bad HTTP/0.9 request type ('l\x00')
+159.203.191.49 - - [07/Nov/2023 10:03:48] "l\x00\x0b\x00\x00\x00\x00\x00\x00\x00\x00\x00" HTTPStatus.BAD_REQUEST -
+159.203.191.49 - - [07/Nov/2023 10:03:48] "GET /nice%20ports,/Trinity.txt.bak HTTP/1.0" 404 -
+159.203.191.49 - - [07/Nov/2023 10:03:49] code 400, message Bad request syntax ('#ST')
+159.203.191.49 - - [07/Nov/2023 10:03:49] "#ST" HTTPStatus.BAD_REQUEST -
+159.203.191.49 - - [07/Nov/2023 10:03:52] code 400, message Bad HTTP/0.9 request type ('\x00')
+159.203.191.49 - - [07/Nov/2023 10:03:52] "\x00\x0bn\x00\x00\x00\x00\x01\x04beio" HTTPStatus.BAD_REQUEST -
+159.203.191.49 - - [07/Nov/2023 10:03:54] code 400, message Bad request syntax ('\x00\x00\x07\x00\x08\x00\x03\x00\x04\x00\x05\x00\x06')
+159.203.191.49 - - [07/Nov/2023 10:03:54] "\x00\x00\x07\x00\x08\x00\x03\x00\x04\x00\x05\x00\x06" HTTPStatus.BAD_REQUEST -
+159.203.191.49 - - [07/Nov/2023 10:03:57] code 400, message Bad request version ('\x00\x01\x97|\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00')
+159.203.191.49 - - [07/Nov/2023 10:03:57] "\x80\x00\x00(rþ\x1d\x13\x00\x00\x00\x00\x00\x00\x00\x02\x00\x01\x86 \x00\x01\x97|\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00" HTTPStatus.BAD_REQUEST -
+159.203.191.49 - - [07/Nov/2023 10:03:59] code 400, message Bad HTTP/0.9 request type ('\x00')
+159.203.191.49 - - [07/Nov/2023 10:03:59] "\x00\x1e\x00\x06\x01\x00\x00\x01\x00\x00\x00\x00\x00\x00\x07version\x04bind\x00\x00\x10\x00\x03" HTTPStatus.BAD_REQUEST -
+159.203.191.49 - - [07/Nov/2023 10:04:01] code 400, message Bad HTTP/0.9 request type ('\x00')
+159.203.191.49 - - [07/Nov/2023 10:04:01] "\x00\x0c\x00\x00\x10\x00\x00\x00\x00\x00\x00\x00\x00\x00" HTTPStatus.BAD_REQUEST -
+159.203.191.49 - - [07/Nov/2023 10:04:02] code 400, message Bad request syntax ('HELP')
+159.203.191.49 - - [07/Nov/2023 10:04:02] "HELP" HTTPStatus.BAD_REQUEST -
+159.203.191.49 - - [07/Nov/2023 10:04:03] code 400, message Bad request syntax ('\x16\x03\x00\x00S\x01\x00\x00O\x03\x00?G×÷º,îê²`~ó\x00ý\x82{¹Õ\x96Èw\x9bæÄÛ<=Ûoï\x10n\x00\x00(\x00\x16\x00\x13\x00')
+159.203.191.49 - - [07/Nov/2023 10:04:03] "\x16\x03\x00\x00S\x01\x00\x00O\x03\x00?G×÷º,îê²`~ó\x00ý\x82{¹Õ\x96Èw\x9bæÄÛ<=Ûoï\x10n\x00\x00(\x00\x16\x00\x13\x00" HTTPStatus.BAD_REQUEST -
+159.203.191.49 - - [07/Nov/2023 10:04:05] code 400, message Bad HTTP/0.9 request type ('\x03\x00\x00*%à\x00\x00\x00\x00\x00Cookie:')
+159.203.191.49 - - [07/Nov/2023 10:04:05] "\x03\x00\x00*%à\x00\x00\x00\x00\x00Cookie: mstshash=beio" HTTPStatus.BAD_REQUEST -
+159.203.191.49 - - [07/Nov/2023 10:04:06] code 400, message Bad request version ('\x00/\x00')
+159.203.191.49 - - [07/Nov/2023 10:04:06] "\x16\x03\x00\x00i\x01\x00\x00e\x03\x03U\x1c§ärandom1random2random3random4\x00\x00\x0c\x00/\x00" HTTPStatus.BAD_REQUEST -
+159.203.191.49 - - [07/Nov/2023 10:04:07] code 400, message Bad request syntax ('\x00\x00\x00qj\x81n0\x81k¡\x03\x02\x01\x05¢\x03\x02\x01')
+159.203.191.49 - - [07/Nov/2023 10:04:07] "\x00\x00\x00qj\x81n0\x81k¡\x03\x02\x01\x05¢\x03\x02\x01" HTTPStatus.BAD_REQUEST -
+159.203.191.49 - - [07/Nov/2023 10:04:11] code 400, message Bad request version ('0.12\x00')
+159.203.191.49 - - [07/Nov/2023 10:04:11] "\x00\x00\x00¤ÿSMBr\x00\x00\x00\x00\x08\x01@\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00@\x06\x00\x00\x01\x00\x00\x81\x00\x02PC NETWORK PROGRAM 1.0\x00\x02MICROSOFT NETWORKS 1.03\x00\x02MICROSOFT NETWORKS 3.0\x00\x02LANMAN1.0\x00\x02LM1.2X002\x00\x02Samba\x00\x02NT LANMAN 1.0\x00\x02NT LM 0.12\x00" HTTPStatus.BAD_REQUEST -
+159.203.191.49 - - [07/Nov/2023 10:04:12] code 400, message Bad request syntax ('\x01default')
+159.203.191.49 - - [07/Nov/2023 10:04:12] "\x01default" HTTPStatus.BAD_REQUEST -
+159.203.191.49 - - [07/Nov/2023 10:04:13] code 400, message Bad request syntax ('0\x84\x00\x00\x00-\x02\x01\x07c\x84\x00\x00\x00$\x04\x00')
+159.203.191.49 - - [07/Nov/2023 10:04:13] "0\x84\x00\x00\x00-\x02\x01\x07c\x84\x00\x00\x00$\x04\x00" HTTPStatus.BAD_REQUEST -
+159.203.191.49 - - [07/Nov/2023 10:04:16] code 400, message Bad HTTP/0.9 request type ('0')
+159.203.191.49 - - [07/Nov/2023 10:04:16] "0\x0c\x02\x01\x01`\x07\x02\x01\x02\x04\x00\x80\x00" HTTPStatus.BAD_REQUEST -
+159.203.191.49 - - [07/Nov/2023 10:04:17] code 400, message Bad request version ('SIP/2.0')
+159.203.191.49 - - [07/Nov/2023 10:04:17] "OPTIONS sip:nm SIP/2.0" HTTPStatus.BAD_REQUEST -
+159.203.191.49 - - [07/Nov/2023 10:04:20] code 400, message Bad request syntax ('TNMP\x04\x00\x00\x00TNME\x00\x00\x04\x00')
+159.203.191.49 - - [07/Nov/2023 10:04:20] "TNMP\x04\x00\x00\x00TNME\x00\x00\x04\x00" HTTPStatus.BAD_REQUEST -
+159.203.191.49 - - [07/Nov/2023 10:04:22] code 400, message Bad HTTP/0.9 request type ('\x03\x00\x00')
+159.203.191.49 - - [07/Nov/2023 10:04:22] "\x03\x00\x00\x0b\x06à\x00\x00\x00\x00\x00" HTTPStatus.BAD_REQUEST -
+159.203.191.49 - - [07/Nov/2023 10:04:24] code 400, message Bad request syntax ('DmdT\x00\x00\x00\x17\x00\x00\x00\x01\x00\x00\x00\x00\x11\x11\x00ÿ\x01ÿ\x13')
+159.203.191.49 - - [07/Nov/2023 10:04:24] "DmdT\x00\x00\x00\x17\x00\x00\x00\x01\x00\x00\x00\x00\x11\x11\x00ÿ\x01ÿ\x13" HTTPStatus.BAD_REQUEST -
+159.203.191.49 - - [07/Nov/2023 10:04:26] code 400, message Bad HTTP/0.9 request type (':\x00\x00\x00/\x00\x00\x00\x02\x00\x00@\x02\x0f\x00\x01\x00=\x05\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00/\x00\x00\x00\x00\x00\x00\x00\x00\x00@')
+159.203.191.49 - - [07/Nov/2023 10:04:26] ":\x00\x00\x00/\x00\x00\x00\x02\x00\x00@\x02\x0f\x00\x01\x00=\x05\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00/\x00\x00\x00\x00\x00\x00\x00\x00\x00@\x1f\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00" HTTPStatus.BAD_REQUEST -
+159.203.191.49 - - [07/Nov/2023 10:04:29] code 400, message Bad request syntax ('JRMI\x00\x02K')
+159.203.191.49 - - [07/Nov/2023 10:04:29] "JRMI\x00\x02K" HTTPStatus.BAD_REQUEST -
+159.203.191.49 - - [07/Nov/2023 10:04:31] code 400, message Bad request version ('\x00{\x00\x00\x00\x00\x00A\x00A\x00\x00\x00-\x00\x00A\x00\x00\x00-\x00\x00\x00a\x00\x00-\x00A\x00A\x00\x00A\x00-\x00\x00\x00\x00\x00A\x00\x00A\x00A\x00\x00A\x00A\x00\x00}\x00\x00\x00àmß_')
+159.203.191.49 - - [07/Nov/2023 10:04:31] "\x01\x00\x00ýÎú\x0b° \x00\x00\x00MMS\x14\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x12\x00\x00\x00\x01\x00\x03\x00ðððð\x0b\x00\x04\x00\x1c\x00\x03\x00N\x00S\x00P\x00l\x00a\x00y\x00e\x00r\x00/\x009\x00.\x00\x00.\x00\x00.\x02\x009\x008\x00\x00;\x00 \x00{\x00\x00\x00\x00\x00A\x00A\x00\x00\x00-\x00\x00A\x00\x00\x00-\x00\x00\x00a\x00\x00-\x00A\x00A\x00\x00A\x00-\x00\x00\x00\x00\x00A\x00\x00A\x00A\x00\x00A\x00A\x00\x00}\x00\x00\x00àmß_" HTTPStatus.BAD_REQUEST -
+159.203.191.49 - - [07/Nov/2023 10:04:33] code 400, message Bad HTTP/0.9 request type ('\x00Z\x00\x00\x01\x00\x00\x00\x016\x01,\x00\x00\x08\x00\x7fÿ\x7f\x08\x00\x00\x00\x01\x00')
+159.203.191.49 - - [07/Nov/2023 10:04:33] "\x00Z\x00\x00\x01\x00\x00\x00\x016\x01,\x00\x00\x08\x00\x7fÿ\x7f\x08\x00\x00\x00\x01\x00 \x00:\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x04æ\x00\x00\x00\x01\x00\x00\x00\x00\x00\x00\x00\x00(CONNECT_DATA=(COMMAND=version))" HTTPStatus.BAD_REQUEST -
+159.203.191.49 - - [07/Nov/2023 10:04:35] code 400, message Bad request version ('\x03\x00(\x00\x04ÿ\x08\x00\x01U\x00\x00\x00MSSQLServer\x00H\x0f\x00\x00')
+159.203.191.49 - - [07/Nov/2023 10:04:35] "\x12\x01\x004\x00\x00\x00\x00\x00\x00\x15\x00\x06\x01\x00\x1b\x00\x01\x02\x00\x1c\x00\x0c\x03\x00(\x00\x04ÿ\x08\x00\x01U\x00\x00\x00MSSQLServer\x00H\x0f\x00\x00" HTTPStatus.BAD_REQUEST -
+159.203.191.49 - - [07/Nov/2023 10:04:37] code 400, message Bad request syntax ('\x00\x03\x00\x01\x00\x00\x00\x00\x00\x00\x00\x02\x00\x00\x00\x00\x0f\x00')
+159.203.191.49 - - [07/Nov/2023 10:04:37] "\x00\x03\x00\x01\x00\x00\x00\x00\x00\x00\x00\x02\x00\x00\x00\x00\x0f\x00" HTTPStatus.BAD_REQUEST -
+159.203.191.49 - - [07/Nov/2023 10:04:39] code 400, message Bad request syntax ('GIOP\x01\x00\x01\x00$\x00\x00\x00\x00\x00\x00\x00\x01\x00\x00\x00\x01\x00\x00\x00\x06\x00\x00\x00abcdef\x00\x00\x04\x00\x00\x00get\x00\x00\x00\x00\x00')
+159.203.191.49 - - [07/Nov/2023 10:04:39] "GIOP\x01\x00\x01\x00$\x00\x00\x00\x00\x00\x00\x00\x01\x00\x00\x00\x01\x00\x00\x00\x06\x00\x00\x00abcdef\x00\x00\x04\x00\x00\x00get\x00\x00\x00\x00\x00" HTTPStatus.BAD_REQUEST -
+159.203.191.49 - - [07/Nov/2023 10:04:41] code 400, message Bad request syntax ('\x00\x9c\x00\x01\x1a+<M\x00\x01\x00\x00\x01\x00\x00\x00\x00\x00\x00\x01\x00\x00\x00\x01ÿÿ\x00\x01none\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00beio\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00')
+159.203.191.49 - - [07/Nov/2023 10:04:41] "\x00\x9c\x00\x01\x1a+<M\x00\x01\x00\x00\x01\x00\x00\x00\x00\x00\x00\x01\x00\x00\x00\x01ÿÿ\x00\x01none\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00beio\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00" HTTPStatus.BAD_REQUEST -
+159.203.191.49 - - [07/Nov/2023 10:04:43] code 400, message Bad request syntax ('\x00\x00\x00\x01\x00\x00\x00\x01\x00\x00\x00\x04\x00\x00\x00\x08\x00\x00\x00\x01\x00\x00\x00\x00')
+159.203.191.49 - - [07/Nov/2023 10:04:43] "\x00\x00\x00\x01\x00\x00\x00\x01\x00\x00\x00\x04\x00\x00\x00\x08\x00\x00\x00\x01\x00\x00\x00\x00" HTTPStatus.BAD_REQUEST -
+159.203.191.49 - - [07/Nov/2023 10:04:45] code 400, message Bad request syntax ('\x03\x81\x00\x00\x00\x00\x00_@\x00\x017\x00\x00\x00\x00\x00\x00\x00\x01\x00\x01\x00\x00\x00\x00\x00\x01\x00\x00\x00\x01\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00InitiatorName=iqn.1991-05.com.microsoft:beio-iscsi-probe\x00SessionType=Discovery\x00AuthMethod=None\x00\x00')
+159.203.191.49 - - [07/Nov/2023 10:04:45] "\x03\x81\x00\x00\x00\x00\x00_@\x00\x017\x00\x00\x00\x00\x00\x00\x00\x01\x00\x01\x00\x00\x00\x00\x00\x01\x00\x00\x00\x01\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00InitiatorName=iqn.1991-05.com.microsoft:beio-iscsi-probe\x00SessionType=Discovery\x00AuthMethod=None\x00\x00" HTTPStatus.BAD_REQUEST -
+159.203.191.49 - - [07/Nov/2023 10:04:46] code 400, message Bad request version ('CharruaVista')
+159.203.191.49 - - [07/Nov/2023 10:04:46] "\x01\x00\x00\x00\x00Í\x00\x01\x00\x00ANY-SCP\x00\x00\x00\x00\x00\x00\x00\x00\x00FINDSCU\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x10\x00\x00\x151.2.840.10008.3.1.1.1 \x00\x00.\x01\x00\x00\x000\x00\x00\x111.2.840.10008.1.1@\x00\x00\x111.2.840.10008.1.2P\x00\x00:Q\x00\x00\x04\x00\x00@\x00R\x00\x00\x1e1.2.826.0.1.3680043.2.1396.999U\x00\x00\x0cCharruaVista" HTTPStatus.BAD_REQUEST -
+159.203.191.49 - - [07/Nov/2023 10:04:47] code 400, message Bad HTTP/0.9 request type ("\x03\x00\x00,'à\x00\x00\x00\x00\x00Cookie:")
+159.203.191.49 - - [07/Nov/2023 10:04:47] "\x03\x00\x00,'à\x00\x00\x00\x00\x00Cookie: mstshash=Administrator" HTTPStatus.BAD_REQUEST -
+159.203.191.49 - - [07/Nov/2023 10:04:49] code 400, message Bad request syntax ('\x00\x00\x00\x00\x00')
+159.203.191.49 - - [07/Nov/2023 10:04:49] "\x00\x00\x00\x00\x00" HTTPStatus.BAD_REQUEST -
+159.203.191.49 - - [07/Nov/2023 10:04:49] code 400, message Bad request syntax ('\x01I20100')
+159.203.191.49 - - [07/Nov/2023 10:04:49] "\x01I20100" HTTPStatus.BAD_REQUEST -
+43.154.8.109 - - [07/Nov/2023 10:18:29] "HEAD /Core/Skin/Login.aspx HTTP/1.1" 404 -
+193.35.18.187 - - [07/Nov/2023 11:00:04] "CONNECT google.com:443 HTTP/1.1" 404 -
+135.125.246.189 - - [07/Nov/2023 11:28:00] "GET /.env HTTP/1.1" 404 -
+135.125.246.189 - - [07/Nov/2023 11:28:01] "POST / HTTP/1.1" 404 -
+78.153.140.221 - - [07/Nov/2023 11:35:09] "GET /.env HTTP/1.1" 404 -
+78.153.140.221 - - [07/Nov/2023 11:35:10] code 400, message Bad request version ('O\x10\x19râ\x00ú\x01Zµ(W5\x00b\x13\x02\x13\x03\x13\x01À,À0À+À/Ì©Ì¨\x00£\x00\x9f\x00¢\x00\x9eÌªÀ¯À\xadÀ$À(À')
+78.153.140.221 - - [07/Nov/2023 11:35:10] "\x16\x03\x01\x01H\x01\x00\x01D\x03\x03\x97Þ\x94â\x8b£\x97Ê\x85M\x19\x04e\x1e³´J\x83Fï\x14o\x81\x1aåGZ0\x1b²¥ú r\x98GfZ[\x0c\x87Ü·\x9fç\x97~\x0ca^ý\x1cO\x10\x19râ\x00ú\x01Zµ(W5\x00b\x13\x02\x13\x03\x13\x01À,À0À+À/Ì©Ì¨\x00£\x00\x9f\x00¢\x00\x9eÌªÀ¯À­À$À(À" HTTPStatus.BAD_REQUEST -
+185.254.196.173 - - [07/Nov/2023 11:42:03] "GET /.env HTTP/1.1" 404 -
+185.254.196.173 - - [07/Nov/2023 11:42:04] "POST / HTTP/1.1" 404 -
+43.154.8.109 - - [07/Nov/2023 11:53:58] "HEAD /Core/Skin/Login.aspx HTTP/1.1" 404 -
+221.122.67.75 - - [07/Nov/2023 11:55:17] "GET / HTTP/1.1" 404 -
+134.209.0.142 - - [07/Nov/2023 12:01:31] code 400, message Bad request version ('À\x14À')
+134.209.0.142 - - [07/Nov/2023 12:01:31] "\x16\x03\x01\x00{\x01\x00\x00w\x03\x03*\x1aÅ£\x1d\x9boÈ%-ú|\x16\x9d*í÷\x9aóý\x92\x10Rp¡ï;\x10\x19hVT\x00\x00\x1aÀ/À+À\x11À\x07À\x13À\x09À\x14À" HTTPStatus.BAD_REQUEST -
+134.209.0.142 - - [07/Nov/2023 12:01:31] code 400, message Bad request syntax ('\x16\x03\x01\x00{\x01\x00\x00w\x03\x03£\x91')
+134.209.0.142 - - [07/Nov/2023 12:01:31] "\x16\x03\x01\x00{\x01\x00\x00w\x03\x03£\x91" HTTPStatus.BAD_REQUEST -
+134.209.0.142 - - [07/Nov/2023 12:01:32] "GET / HTTP/1.1" 404 -
+134.209.0.142 - - [07/Nov/2023 12:01:32] "GET /form.html HTTP/1.1" 404 -
+134.209.0.142 - - [07/Nov/2023 12:01:32] "GET /upl.php HTTP/1.1" 404 -
+134.209.0.142 - - [07/Nov/2023 12:01:33] code 400, message Bad request version ('À\x14À')
+134.209.0.142 - - [07/Nov/2023 12:01:33] "\x16\x03\x01\x00{\x01\x00\x00w\x03\x03ùãl?m_\x80¯\x90\x92£®²\x04A\x0b2%£TèïNPç\x99Û\x8cOÓäm\x00\x00\x1aÀ/À+À\x11À\x07À\x13À\x09À\x14À" HTTPStatus.BAD_REQUEST -
+134.209.0.142 - - [07/Nov/2023 12:01:33] "GET /geoip/ HTTP/1.1" 404 -
+134.209.0.142 - - [07/Nov/2023 12:01:33] "GET / HTTP/1.1" 404 -
+134.209.0.142 - - [07/Nov/2023 12:01:33] "GET /favicon.ico HTTP/1.1" 404 -
+134.209.0.142 - - [07/Nov/2023 12:01:34] "GET /1.php HTTP/1.1" 404 -
+134.209.0.142 - - [07/Nov/2023 12:01:34] "GET /bundle.js HTTP/1.1" 404 -
+134.209.0.142 - - [07/Nov/2023 12:01:34] "GET /files/ HTTP/1.1" 404 -
+134.209.0.142 - - [07/Nov/2023 12:01:35] "GET /systembc/password.php HTTP/1.1" 404 -
+134.209.0.142 - - [07/Nov/2023 12:01:35] "GET /password.php HTTP/1.1" 404 -
+134.209.0.142 - - [07/Nov/2023 12:01:35] "GET /info.php HTTP/1.1" 404 -
+139.162.84.205 - - [07/Nov/2023 12:37:26] "GET / HTTP/1.0" 404 -
+43.154.8.109 - - [07/Nov/2023 13:30:51] "HEAD /Core/Skin/Login.aspx HTTP/1.1" 404 -
+135.125.246.189 - - [07/Nov/2023 13:32:55] "GET /.env HTTP/1.1" 404 -
+135.125.246.189 - - [07/Nov/2023 13:32:56] "POST / HTTP/1.1" 404 -
+43.154.8.109 - - [07/Nov/2023 15:08:58] "HEAD /Core/Skin/Login.aspx HTTP/1.1" 404 -
+87.236.176.41 - - [07/Nov/2023 15:36:55] "GET / HTTP/1.1" 404 -
+147.92.179.108 - - [07/Nov/2023 15:54:30] "GET /Schedule/BandPractice HTTP/1.1" 200 -
+135.125.246.189 - - [07/Nov/2023 16:04:00] "GET /.env HTTP/1.1" 404 -
+135.125.246.189 - - [07/Nov/2023 16:04:01] "POST / HTTP/1.1" 404 -
+139.162.84.205 - - [07/Nov/2023 16:43:13] "GET / HTTP/1.0" 404 -
+43.154.8.109 - - [07/Nov/2023 16:46:56] "HEAD /Core/Skin/Login.aspx HTTP/1.1" 404 -
+5.182.209.121 - - [07/Nov/2023 16:49:51] "GET / HTTP/1.1" 404 -
+135.125.246.189 - - [07/Nov/2023 17:23:31] "GET /.env HTTP/1.1" 404 -
+135.125.246.189 - - [07/Nov/2023 17:23:32] "POST / HTTP/1.1" 404 -
+180.149.125.167 - - [07/Nov/2023 17:42:14] "GET / HTTP/1.1" 404 -
+141.98.11.52 - - [07/Nov/2023 17:55:12] "GET / HTTP/1.1" 404 -
+43.154.8.109 - - [07/Nov/2023 18:22:31] "HEAD /Core/Skin/Login.aspx HTTP/1.1" 404 -
+34.219.21.236 - - [07/Nov/2023 18:43:56] "GET /api/.env HTTP/1.1" 404 -
+34.219.21.236 - - [07/Nov/2023 18:43:57] "POST /api/.env HTTP/1.1" 404 -
+34.219.21.236 - - [07/Nov/2023 18:43:57] "GET /live_env HTTP/1.1" 404 -
+34.219.21.236 - - [07/Nov/2023 18:43:57] "POST /live_env HTTP/1.1" 404 -
+34.219.21.236 - - [07/Nov/2023 18:43:58] "GET /enviroments/.env.production HTTP/1.1" 404 -
+34.219.21.236 - - [07/Nov/2023 18:43:58] "POST /enviroments/.env.production HTTP/1.1" 404 -
+34.219.21.236 - - [07/Nov/2023 18:43:59] "GET /private/.env HTTP/1.1" 404 -
+34.219.21.236 - - [07/Nov/2023 18:43:59] "POST /private/.env HTTP/1.1" 404 -
+34.219.21.236 - - [07/Nov/2023 18:43:59] "GET /.aws/credentials HTTP/1.1" 404 -
+34.219.21.236 - - [07/Nov/2023 18:44:00] "POST /.aws/credentials HTTP/1.1" 404 -
+34.219.21.236 - - [07/Nov/2023 18:44:01] "GET /development/.env HTTP/1.1" 404 -
+34.219.21.236 - - [07/Nov/2023 18:44:02] "POST /development/.env HTTP/1.1" 404 -
+34.219.21.236 - - [07/Nov/2023 18:44:03] "GET /core/.env HTTP/1.1" 404 -
+34.219.21.236 - - [07/Nov/2023 18:44:04] "POST /core/.env HTTP/1.1" 404 -
+34.219.21.236 - - [07/Nov/2023 18:44:04] "GET /.env.prod HTTP/1.1" 404 -
+34.219.21.236 - - [07/Nov/2023 18:44:05] "POST /.env.prod HTTP/1.1" 404 -
+34.219.21.236 - - [07/Nov/2023 18:44:06] "GET /sources/.env HTTP/1.1" 404 -
+34.219.21.236 - - [07/Nov/2023 18:44:07] "POST /sources/.env HTTP/1.1" 404 -
+34.219.21.236 - - [07/Nov/2023 18:44:09] "GET /.env.save HTTP/1.1" 404 -
+34.219.21.236 - - [07/Nov/2023 18:44:10] "POST /.env.save HTTP/1.1" 404 -
+34.219.21.236 - - [07/Nov/2023 18:44:10] "GET /script/.env HTTP/1.1" 404 -
+34.219.21.236 - - [07/Nov/2023 18:44:10] "POST /script/.env HTTP/1.1" 404 -
+34.219.21.236 - - [07/Nov/2023 18:44:11] "GET /application/.env HTTP/1.1" 404 -
+34.219.21.236 - - [07/Nov/2023 18:44:12] "POST /application/.env HTTP/1.1" 404 -
+34.219.21.236 - - [07/Nov/2023 18:44:13] "GET /app/.env HTTP/1.1" 404 -
+34.219.21.236 - - [07/Nov/2023 18:44:14] "POST /app/.env HTTP/1.1" 404 -
+34.219.21.236 - - [07/Nov/2023 18:44:15] "GET /.env HTTP/1.1" 404 -
+34.219.21.236 - - [07/Nov/2023 18:44:15] "POST /.env HTTP/1.1" 404 -
+34.219.21.236 - - [07/Nov/2023 18:44:15] "GET /docker/.env HTTP/1.1" 404 -
+34.219.21.236 - - [07/Nov/2023 18:44:17] "POST /docker/.env HTTP/1.1" 404 -
+34.219.21.236 - - [07/Nov/2023 18:44:17] "GET /.env.production HTTP/1.1" 404 -
+34.219.21.236 - - [07/Nov/2023 18:44:18] "POST /.env.production HTTP/1.1" 404 -
+34.219.21.236 - - [07/Nov/2023 18:44:19] "GET /system/.env HTTP/1.1" 404 -
+34.219.21.236 - - [07/Nov/2023 18:44:19] "POST /system/.env HTTP/1.1" 404 -
+34.219.21.236 - - [07/Nov/2023 18:44:20] "GET /.env.old HTTP/1.1" 404 -
+34.219.21.236 - - [07/Nov/2023 18:44:20] "POST /.env.old HTTP/1.1" 404 -
+34.219.21.236 - - [07/Nov/2023 18:44:20] "GET /apps/.env HTTP/1.1" 404 -
+34.219.21.236 - - [07/Nov/2023 18:44:21] "POST /apps/.env HTTP/1.1" 404 -
+34.219.21.236 - - [07/Nov/2023 18:44:21] "GET /admin-app/.env HTTP/1.1" 404 -
+34.219.21.236 - - [07/Nov/2023 18:44:22] "POST /admin-app/.env HTTP/1.1" 404 -
+34.219.21.236 - - [07/Nov/2023 18:44:23] "GET /.env.development HTTP/1.1" 404 -
+34.219.21.236 - - [07/Nov/2023 18:44:23] "POST /.env.development HTTP/1.1" 404 -
+34.219.21.236 - - [07/Nov/2023 18:44:24] "GET /cms/.env HTTP/1.1" 404 -
+34.219.21.236 - - [07/Nov/2023 18:44:25] "POST /cms/.env HTTP/1.1" 404 -
+34.219.21.236 - - [07/Nov/2023 18:44:25] "GET /laravel/.env HTTP/1.1" 404 -
+34.219.21.236 - - [07/Nov/2023 18:44:25] "POST /laravel/.env HTTP/1.1" 404 -
+34.219.21.236 - - [07/Nov/2023 18:44:26] "GET /.env.dist HTTP/1.1" 404 -
+34.219.21.236 - - [07/Nov/2023 18:44:26] "POST /.env.dist HTTP/1.1" 404 -
+34.219.21.236 - - [07/Nov/2023 18:44:27] "GET /shared/.env HTTP/1.1" 404 -
+34.219.21.236 - - [07/Nov/2023 18:44:27] "POST /shared/.env HTTP/1.1" 404 -
+34.219.21.236 - - [07/Nov/2023 18:44:27] "GET /back/.env HTTP/1.1" 404 -
+34.219.21.236 - - [07/Nov/2023 18:44:28] "POST /back/.env HTTP/1.1" 404 -
+34.219.21.236 - - [07/Nov/2023 18:44:28] "GET /enviroments/.env HTTP/1.1" 404 -
+34.219.21.236 - - [07/Nov/2023 18:44:29] "POST /enviroments/.env HTTP/1.1" 404 -
+34.219.21.236 - - [07/Nov/2023 18:44:29] "GET /.env.project HTTP/1.1" 404 -
+34.219.21.236 - - [07/Nov/2023 18:44:30] "POST /.env.project HTTP/1.1" 404 -
+34.219.21.236 - - [07/Nov/2023 18:44:30] "GET /frontend_dev.php/$ HTTP/1.1" 404 -
+34.219.21.236 - - [07/Nov/2023 18:44:31] "GET /debug/default/view?panel=config HTTP/1.1" 404 -
+34.219.21.236 - - [07/Nov/2023 18:44:31] "GET /.json HTTP/1.1" 404 -
+34.219.21.236 - - [07/Nov/2023 18:44:31] "GET /config.json HTTP/1.1" 404 -
+34.219.21.236 - - [07/Nov/2023 18:44:32] "GET /pinfo.php HTTP/1.1" 404 -
+34.219.21.236 - - [07/Nov/2023 18:44:32] "GET /admin.php HTTP/1.1" 404 -
+34.219.21.236 - - [07/Nov/2023 18:44:32] "GET /viewinfo.php HTTP/1.1" 404 -
+34.219.21.236 - - [07/Nov/2023 18:44:33] "GET /php-info.php HTTP/1.1" 404 -
+34.219.21.236 - - [07/Nov/2023 18:44:34] "GET /information HTTP/1.1" 404 -
+34.219.21.236 - - [07/Nov/2023 18:44:34] "GET /information.php HTTP/1.1" 404 -
+34.219.21.236 - - [07/Nov/2023 18:44:34] "GET /phpversion.php HTTP/1.1" 404 -
+34.219.21.236 - - [07/Nov/2023 18:44:35] "GET /phpinformation HTTP/1.1" 404 -
+34.219.21.236 - - [07/Nov/2023 18:44:35] "GET /_profiler/phpinfo HTTP/1.1" 404 -
+34.219.21.236 - - [07/Nov/2023 18:44:35] "GET /scripts/phpinfo.php HTTP/1.1" 404 -
+34.219.21.236 - - [07/Nov/2023 18:44:36] "GET /php_info.php HTTP/1.1" 404 -
+34.219.21.236 - - [07/Nov/2023 18:44:36] "GET /phpinfo HTTP/1.1" 404 -
+34.219.21.236 - - [07/Nov/2023 18:44:36] "GET /info/info.php HTTP/1.1" 404 -
+34.219.21.236 - - [07/Nov/2023 18:44:37] "GET /admin/phpinfo.php HTTP/1.1" 404 -
+34.219.21.236 - - [07/Nov/2023 18:44:37] "GET /_phpinfo.php HTTP/1.1" 404 -
+34.219.21.236 - - [07/Nov/2023 18:44:37] "GET /info/phpinfo.php HTTP/1.1" 404 -
+34.219.21.236 - - [07/Nov/2023 18:44:42] "GET /php.php HTTP/1.1" 404 -
+34.219.21.236 - - [07/Nov/2023 18:44:43] "GET /testphpinfo HTTP/1.1" 404 -
+34.219.21.236 - - [07/Nov/2023 18:44:44] "GET /phpinfo/phpinfo.php HTTP/1.1" 404 -
+34.219.21.236 - - [07/Nov/2023 18:44:44] "GET /infophp.php HTTP/1.1" 404 -
+34.219.21.236 - - [07/Nov/2023 18:44:44] "GET /phptest.php HTTP/1.1" 404 -
+34.219.21.236 - - [07/Nov/2023 18:44:45] "GET /testphpinfo.php HTTP/1.1" 404 -
+34.219.21.236 - - [07/Nov/2023 18:44:45] "GET /info.php HTTP/1.1" 404 -
+34.219.21.236 - - [07/Nov/2023 18:44:45] "GET /phpinfo.php HTTP/1.1" 404 -
+34.219.21.236 - - [07/Nov/2023 18:44:46] "GET /PHPConf.php HTTP/1.1" 404 -
+34.219.21.236 - - [07/Nov/2023 18:58:03] "GET /phpinfo.php HTTP/1.1" 404 -
+34.219.21.236 - - [07/Nov/2023 18:58:03] "GET /info.php HTTP/1.1" 404 -
+34.219.21.236 - - [07/Nov/2023 18:58:04] "GET /phpinfo HTTP/1.1" 404 -
+34.219.21.236 - - [07/Nov/2023 18:58:04] "GET /php.php HTTP/1.1" 404 -
+34.219.21.236 - - [07/Nov/2023 18:58:04] "GET /php_info.php HTTP/1.1" 404 -
+34.219.21.236 - - [07/Nov/2023 18:58:04] "GET /phptest.php HTTP/1.1" 404 -
+34.219.21.236 - - [07/Nov/2023 18:58:05] "GET /dashboard/phpinfo.php HTTP/1.1" 404 -
+34.219.21.236 - - [07/Nov/2023 18:58:05] "GET /infophp.php HTTP/1.1" 404 -
+34.219.21.236 - - [07/Nov/2023 18:58:05] "GET /p.php HTTP/1.1" 404 -
+34.219.21.236 - - [07/Nov/2023 18:58:06] "GET /_profiler/phpinfo HTTP/1.1" 404 -
+34.219.21.236 - - [07/Nov/2023 18:58:06] "GET /info.php HTTP/1.1" 404 -
+34.219.21.236 - - [07/Nov/2023 18:58:06] "GET /pinfo.php HTTP/1.1" 404 -
+34.219.21.236 - - [07/Nov/2023 18:58:07] "GET /scripts/phpinfo.php HTTP/1.1" 404 -
+34.219.21.236 - - [07/Nov/2023 18:58:07] "GET /phpinfo.php HTTP/1.1" 404 -
+34.219.21.236 - - [07/Nov/2023 18:58:07] "GET /admin/phpinfo.php HTTP/1.1" 404 -
+34.219.21.236 - - [07/Nov/2023 18:58:07] "GET /phpinfo/phpinfo.php HTTP/1.1" 404 -
+34.219.21.236 - - [07/Nov/2023 18:58:08] "GET /information.php HTTP/1.1" 404 -
+34.219.21.236 - - [07/Nov/2023 18:58:08] "GET /information HTTP/1.1" 404 -
+34.219.21.236 - - [07/Nov/2023 18:58:08] "GET /phpinformation HTTP/1.1" 404 -
+34.219.21.236 - - [07/Nov/2023 18:58:09] "GET /php-info.php HTTP/1.1" 404 -
+34.219.21.236 - - [07/Nov/2023 18:58:09] "GET /phpversion.php HTTP/1.1" 404 -
+34.219.21.236 - - [07/Nov/2023 18:58:09] "GET /webdav/phpinfo.php HTTP/1.1" 404 -
+34.219.21.236 - - [07/Nov/2023 18:58:10] "GET /webdav/phpinfo HTTP/1.1" 404 -
+34.219.21.236 - - [07/Nov/2023 18:58:10] "GET /webdav/info.php HTTP/1.1" 404 -
+34.219.21.236 - - [07/Nov/2023 18:58:10] "GET /testphpinfo.php HTTP/1.1" 404 -
+34.219.21.236 - - [07/Nov/2023 18:58:10] "GET /testphpinfo HTTP/1.1" 404 -
+34.219.21.236 - - [07/Nov/2023 18:58:11] "GET /admin.php HTTP/1.1" 404 -
+34.219.21.236 - - [07/Nov/2023 18:58:11] "GET /_phpinfo.php HTTP/1.1" 404 -
+34.219.21.236 - - [07/Nov/2023 18:58:11] "GET /PHPConf.php HTTP/1.1" 404 -
+34.219.21.236 - - [07/Nov/2023 18:58:12] "GET /viewinfo.php HTTP/1.1" 404 -
+34.219.21.236 - - [07/Nov/2023 18:58:12] "GET /info/phpinfo.php HTTP/1.1" 404 -
+34.219.21.236 - - [07/Nov/2023 18:58:12] "GET /info/info.php HTTP/1.1" 404 -
+34.219.21.236 - - [07/Nov/2023 18:58:13] "GET /.env HTTP/1.1" 404 -
+34.219.21.236 - - [07/Nov/2023 18:58:13] "GET /.env.save HTTP/1.1" 404 -
+34.219.21.236 - - [07/Nov/2023 18:58:13] "GET /.env.old HTTP/1.1" 404 -
+34.219.21.236 - - [07/Nov/2023 18:58:13] "GET /.env.prod HTTP/1.1" 404 -
+34.219.21.236 - - [07/Nov/2023 18:58:14] "GET /.env.production HTTP/1.1" 404 -
+34.219.21.236 - - [07/Nov/2023 18:58:14] "GET /.env.development HTTP/1.1" 404 -
+34.219.21.236 - - [07/Nov/2023 18:58:14] "GET /laravel/.env HTTP/1.1" 404 -
+34.219.21.236 - - [07/Nov/2023 18:58:15] "GET /admin-app/.env HTTP/1.1" 404 -
+34.219.21.236 - - [07/Nov/2023 18:58:15] "GET /api/.env HTTP/1.1" 404 -
+34.219.21.236 - - [07/Nov/2023 18:58:15] "GET /app/.env HTTP/1.1" 404 -
+34.219.21.236 - - [07/Nov/2023 18:58:15] "GET /development/.env HTTP/1.1" 404 -
+34.219.21.236 - - [07/Nov/2023 18:58:16] "GET /apps/.env HTTP/1.1" 404 -
+34.219.21.236 - - [07/Nov/2023 18:58:16] "GET /.aws/credentials HTTP/1.1" 404 -
+34.219.21.236 - - [07/Nov/2023 18:58:16] "GET /private/.env HTTP/1.1" 404 -
+34.219.21.236 - - [07/Nov/2023 18:58:17] "GET /system/.env HTTP/1.1" 404 -
+34.219.21.236 - - [07/Nov/2023 18:58:17] "GET /docker/.env HTTP/1.1" 404 -
+34.219.21.236 - - [07/Nov/2023 18:58:17] "GET /cms/.env HTTP/1.1" 404 -
+34.219.21.236 - - [07/Nov/2023 18:58:18] "GET /script/.env HTTP/1.1" 404 -
+34.219.21.236 - - [07/Nov/2023 18:58:18] "GET /live_env HTTP/1.1" 404 -
+34.219.21.236 - - [07/Nov/2023 18:58:18] "GET /application/.env HTTP/1.1" 404 -
+34.219.21.236 - - [07/Nov/2023 18:58:19] "GET /.env.project HTTP/1.1" 404 -
+34.219.21.236 - - [07/Nov/2023 18:58:19] "GET /.env.dist HTTP/1.1" 404 -
+34.219.21.236 - - [07/Nov/2023 18:58:19] "GET /back/.env HTTP/1.1" 404 -
+34.219.21.236 - - [07/Nov/2023 18:58:19] "GET /core/.env HTTP/1.1" 404 -
+34.219.21.236 - - [07/Nov/2023 18:58:20] "GET /docker/.env HTTP/1.1" 404 -
+34.219.21.236 - - [07/Nov/2023 18:58:20] "GET /fedex/.env HTTP/1.1" 404 -
+34.219.21.236 - - [07/Nov/2023 18:58:20] "GET /local/.env HTTP/1.1" 404 -
+34.219.21.236 - - [07/Nov/2023 18:58:21] "GET /rest/.env HTTP/1.1" 404 -
+34.219.21.236 - - [07/Nov/2023 18:58:21] "GET /shared/.env HTTP/1.1" 404 -
+34.219.21.236 - - [07/Nov/2023 18:58:21] "GET /sources/.env HTTP/1.1" 404 -
+34.219.21.236 - - [07/Nov/2023 18:58:22] "GET /enviroments/.env.production HTTP/1.1" 404 -
+34.219.21.236 - - [07/Nov/2023 18:58:22] "GET /enviroments/.env HTTP/1.1" 404 -
+34.219.21.236 - - [07/Nov/2023 18:58:22] "POST / HTTP/1.1" 404 -
+185.254.196.186 - - [07/Nov/2023 19:25:14] "GET /.env HTTP/1.1" 404 -
+185.254.196.186 - - [07/Nov/2023 19:25:15] "POST / HTTP/1.1" 404 -
+135.125.246.189 - - [07/Nov/2023 19:52:50] "GET /.env HTTP/1.1" 404 -
+135.125.246.189 - - [07/Nov/2023 19:52:51] "POST / HTTP/1.1" 404 -
+43.154.8.109 - - [07/Nov/2023 19:58:06] "HEAD /Core/Skin/Login.aspx HTTP/1.1" 404 -
+139.162.84.205 - - [07/Nov/2023 20:39:32] "GET / HTTP/1.0" 404 -
+94.102.49.193 - - [07/Nov/2023 20:55:33] "GET / HTTP/1.1" 404 -
+94.102.49.193 - - [07/Nov/2023 20:55:35] "GET /robots.txt HTTP/1.1" 404 -
+94.102.49.193 - - [07/Nov/2023 20:55:39] "GET /sitemap.xml HTTP/1.1" 404 -
+94.102.49.193 - - [07/Nov/2023 20:55:40] "GET /.well-known/security.txt HTTP/1.1" 404 -
+94.102.49.193 - - [07/Nov/2023 20:55:42] "GET /favicon.ico HTTP/1.1" 404 -
+94.102.49.193 - - [07/Nov/2023 20:55:47] code 400, message Bad request syntax ('\x03O¤Je\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00')
+94.102.49.193 - - [07/Nov/2023 20:55:47] "\x03O¤Je\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00" HTTPStatus.BAD_REQUEST -
+45.55.67.157 - - [07/Nov/2023 21:25:40] "GET / HTTP/1.0" 404 -
+43.154.8.109 - - [07/Nov/2023 21:33:38] "HEAD /Core/Skin/Login.aspx HTTP/1.1" 404 -
+135.125.246.189 - - [07/Nov/2023 21:36:53] "GET /.env HTTP/1.1" 404 -
+135.125.246.189 - - [07/Nov/2023 21:36:53] "POST / HTTP/1.1" 404 -
+45.55.67.157 - - [07/Nov/2023 21:37:04] "GET / HTTP/1.1" 404 -
+45.55.67.157 - - [07/Nov/2023 21:37:05] "GET /favicon.ico HTTP/1.1" 404 -
+141.98.11.60 - - [07/Nov/2023 21:45:47] "GET / HTTP/1.1" 404 -
+172.105.128.11 - - [07/Nov/2023 21:47:35] code 400, message Bad request version ('À\x14À')
+172.105.128.11 - - [07/Nov/2023 21:47:35] "\x16\x03\x01\x00\x85\x01\x00\x00\x81\x03\x03E\x1a\\rÂ\x9d)\x18!gêM\x97*pà\x8a¤\x0d@\x0c\x8a#*HÔ\x8dþí¥\x0b\x91\x00\x00 À/À0À+À,Ì¨Ì©À\x13À\x09À\x14À" HTTPStatus.BAD_REQUEST -
+135.125.246.189 - - [07/Nov/2023 22:08:49] "GET /.env HTTP/1.1" 404 -
+135.125.246.189 - - [07/Nov/2023 22:08:49] "POST / HTTP/1.1" 404 -
+198.235.24.243 - - [07/Nov/2023 22:20:33] code 400, message Bad request version ('À\x13À')
+198.235.24.243 - - [07/Nov/2023 22:20:33] "\x16\x03\x01\x00î\x01\x00\x00ê\x03\x03\x9b\x03*è\x0f%A´D9«½ßÎ/\x17_i\x1e\x85¨\x8d"^yÐ\x1fR\x12¡«\x9f ª¸\x82Yú[\x9e\x93\x0fÏÐ1ôdI\x1c¦ª\x1cZ¢½V,\x00´\x82a\x9c\x84F²\x00&À+À/À,À0Ì©Ì¨À\x09À\x13À" HTTPStatus.BAD_REQUEST -
+198.235.24.243 - - [07/Nov/2023 22:20:34] code 400, message Bad request version ('À(À$À\x14À')
+198.235.24.243 - - [07/Nov/2023 22:20:34] "\x16\x03\x01\x00Ê\x01\x00\x00Æ\x03\x03\x8cK\x9d\x06/ÕsZÃ¸\x03Àø0Ñu \x83\x8f[8\x83\x17vØW\x8d`â\x196¬\x00\x00hÌ\x14Ì\x13À/À+À0À,À\x11À\x07À'À#À\x13À\x09À(À$À\x14À" HTTPStatus.BAD_REQUEST -
+198.235.24.17 - - [07/Nov/2023 22:22:40] "GET / HTTP/1.1" 404 -
+43.154.8.109 - - [07/Nov/2023 23:08:51] "HEAD /Core/Skin/Login.aspx HTTP/1.1" 404 -
+104.131.144.29 - - [07/Nov/2023 23:25:55] "GET / HTTP/1.1" 404 -
+185.254.196.186 - - [07/Nov/2023 23:32:43] "GET /.env HTTP/1.1" 404 -
+185.254.196.186 - - [07/Nov/2023 23:32:44] "POST / HTTP/1.1" 404 -
+162.221.192.26 - - [07/Nov/2023 23:36:11] "GET / HTTP/1.1" 404 -
+91.92.241.63 - - [07/Nov/2023 23:43:31] "GET /.git/config HTTP/1.1" 404 -
+91.92.241.63 - - [07/Nov/2023 23:43:32] "GET /.git/config HTTP/1.1" 404 -
+91.92.241.63 - - [07/Nov/2023 23:43:36] "GET /.git/config HTTP/1.1" 404 -
+91.92.241.63 - - [07/Nov/2023 23:43:37] "GET /.git/config HTTP/1.1" 404 -
+135.125.246.189 - - [08/Nov/2023 00:22:27] "GET /.env HTTP/1.1" 404 -
+135.125.246.189 - - [08/Nov/2023 00:22:28] "POST / HTTP/1.1" 404 -
+139.162.84.205 - - [08/Nov/2023 00:37:23] "GET / HTTP/1.0" 404 -
+43.154.8.109 - - [08/Nov/2023 00:44:32] "HEAD /Core/Skin/Login.aspx HTTP/1.1" 404 -
+141.98.11.60 - - [08/Nov/2023 00:56:40] "GET / HTTP/1.1" 404 -
+68.69.185.50 - - [08/Nov/2023 01:13:42] "GET / HTTP/1.1" 404 -
+68.69.185.50 - - [08/Nov/2023 01:13:42] code 400, message Bad request version ('HTTP')
+68.69.185.50 - - [08/Nov/2023 01:13:42] "GET ../../proc/ HTTP" HTTPStatus.BAD_REQUEST -
+185.254.196.186 - - [08/Nov/2023 01:25:58] "GET /.env HTTP/1.1" 404 -
+185.254.196.186 - - [08/Nov/2023 01:25:58] "POST / HTTP/1.1" 404 -
+74.50.84.203 - - [08/Nov/2023 01:32:20] "GET / HTTP/1.1" 404 -
+192.241.201.68 - - [08/Nov/2023 01:39:16] "GET /manager/text/list HTTP/1.1" 404 -
+103.56.17.4 - - [08/Nov/2023 01:43:53] "GET / HTTP/1.1" 404 -
+205.210.31.34 - - [08/Nov/2023 02:13:48] code 400, message Bad request version ('À\x13À')
+205.210.31.34 - - [08/Nov/2023 02:13:48] "\x16\x03\x01\x00î\x01\x00\x00ê\x03\x03m17èü\x84\x1aH\x94X{8õ\x9cD«nöwÒ]!À\x0dròµy·\x8c\x17¾ -\x02\x1ccÆ<¾\x9f\x91\x02åîKî[x;æ\x0eL{¦/Ñ\x89:ä\x11Dqòü\x00&À+À/À,À0Ì©Ì¨À\x09À\x13À" HTTPStatus.BAD_REQUEST -
+205.210.31.34 - - [08/Nov/2023 02:13:49] code 400, message Bad request version ('À(À$À\x14À')
+205.210.31.34 - - [08/Nov/2023 02:13:49] "\x16\x03\x01\x00Ê\x01\x00\x00Æ\x03\x03¡BÚö\x14Z\x8cÒÐ§L8O\x9eZ¾g dnUÊ\x9a6\x1b\x90ØéÎþnÿ\x00\x00hÌ\x14Ì\x13À/À+À0À,À\x11À\x07À'À#À\x13À\x09À(À$À\x14À" HTTPStatus.BAD_REQUEST -
+43.154.8.109 - - [08/Nov/2023 02:20:07] "HEAD /Core/Skin/Login.aspx HTTP/1.1" 404 -
+91.92.255.122 - - [08/Nov/2023 03:34:16] "GET /.git/config HTTP/1.1" 404 -
+91.92.255.122 - - [08/Nov/2023 03:34:17] "GET /.env.development HTTP/1.1" 404 -
+91.92.255.122 - - [08/Nov/2023 03:34:18] "POST /.env.development HTTP/1.1" 404 -
+91.92.255.122 - - [08/Nov/2023 03:34:26] "GET /cms/.env HTTP/1.1" 404 -
+91.92.255.122 - - [08/Nov/2023 03:34:27] "POST /cms/.env HTTP/1.1" 404 -
+91.92.255.122 - - [08/Nov/2023 03:34:31] "GET /core/.env HTTP/1.1" 404 -
+91.92.255.122 - - [08/Nov/2023 03:34:32] "POST /core/.env HTTP/1.1" 404 -
+91.92.255.122 - - [08/Nov/2023 03:34:37] "GET /docker/.env HTTP/1.1" 404 -
+91.92.255.122 - - [08/Nov/2023 03:34:38] "POST /docker/.env HTTP/1.1" 404 -
+91.92.255.122 - - [08/Nov/2023 03:34:40] "GET /.env.save HTTP/1.1" 404 -
+91.92.255.122 - - [08/Nov/2023 03:34:40] "POST /.env.save HTTP/1.1" 404 -
+91.92.255.122 - - [08/Nov/2023 03:34:44] "GET /live_env HTTP/1.1" 404 -
+91.92.255.122 - - [08/Nov/2023 03:34:45] "POST /live_env HTTP/1.1" 404 -
+91.92.255.122 - - [08/Nov/2023 03:34:52] "GET /enviroments/.env HTTP/1.1" 404 -
+91.92.255.122 - - [08/Nov/2023 03:34:56] "POST /enviroments/.env HTTP/1.1" 404 -
+91.92.255.122 - - [08/Nov/2023 03:35:05] "GET /cp/.env HTTP/1.1" 404 -
+91.92.255.122 - - [08/Nov/2023 03:35:06] "POST /cp/.env HTTP/1.1" 404 -
+91.92.255.122 - - [08/Nov/2023 03:35:08] "GET /.env.dist HTTP/1.1" 404 -
+91.92.255.122 - - [08/Nov/2023 03:35:08] "POST /.env.dist HTTP/1.1" 404 -
+91.92.255.122 - - [08/Nov/2023 03:35:12] "GET /.env HTTP/1.1" 404 -
+91.92.255.122 - - [08/Nov/2023 03:35:12] "POST /.env HTTP/1.1" 404 -
+91.92.255.122 - - [08/Nov/2023 03:35:17] "GET /.env.old HTTP/1.1" 404 -
+91.92.255.122 - - [08/Nov/2023 03:35:18] "POST /.env.old HTTP/1.1" 404 -
+91.92.255.122 - - [08/Nov/2023 03:35:28] "GET /app/.env HTTP/1.1" 404 -
+91.92.255.122 - - [08/Nov/2023 03:35:29] "POST /app/.env HTTP/1.1" 404 -
+91.92.255.122 - - [08/Nov/2023 03:35:35] "GET /apps/.env HTTP/1.1" 404 -
+91.92.255.122 - - [08/Nov/2023 03:35:36] "POST /apps/.env HTTP/1.1" 404 -
+91.92.255.122 - - [08/Nov/2023 03:35:39] "GET /.env.production HTTP/1.1" 404 -
+91.92.255.122 - - [08/Nov/2023 03:35:43] "POST /.env.production HTTP/1.1" 404 -
+91.92.255.122 - - [08/Nov/2023 03:35:45] "GET /local/.env HTTP/1.1" 404 -
+91.92.255.122 - - [08/Nov/2023 03:35:45] "POST /local/.env HTTP/1.1" 404 -
+91.92.255.122 - - [08/Nov/2023 03:35:48] "GET /admin-app/.env HTTP/1.1" 404 -
+91.92.255.122 - - [08/Nov/2023 03:35:49] "POST /admin-app/.env HTTP/1.1" 404 -
+91.92.255.122 - - [08/Nov/2023 03:35:53] "GET /.env.project HTTP/1.1" 404 -
+91.92.255.122 - - [08/Nov/2023 03:35:53] "POST /.env.project HTTP/1.1" 404 -
+91.92.255.122 - - [08/Nov/2023 03:35:55] "GET /fedex/.env HTTP/1.1" 404 -
+91.92.255.122 - - [08/Nov/2023 03:35:56] "POST /fedex/.env HTTP/1.1" 404 -
+91.92.255.122 - - [08/Nov/2023 03:36:03] "GET /api/.env HTTP/1.1" 404 -
+91.92.255.122 - - [08/Nov/2023 03:36:04] "POST /api/.env HTTP/1.1" 404 -
+91.92.255.122 - - [08/Nov/2023 03:36:09] "GET /laravel/.env HTTP/1.1" 404 -
+91.92.255.122 - - [08/Nov/2023 03:36:10] "POST /laravel/.env HTTP/1.1" 404 -
+91.92.255.122 - - [08/Nov/2023 03:36:15] "GET /.env.prod HTTP/1.1" 404 -
+91.92.255.122 - - [08/Nov/2023 03:36:16] "POST /.env.prod HTTP/1.1" 404 -
+91.92.255.122 - - [08/Nov/2023 03:36:18] "GET /application/.env HTTP/1.1" 404 -
+91.92.255.122 - - [08/Nov/2023 03:36:19] "POST /application/.env HTTP/1.1" 404 -
+91.92.255.122 - - [08/Nov/2023 03:36:20] "GET /sources/.env HTTP/1.1" 404 -
+91.92.255.122 - - [08/Nov/2023 03:36:21] "POST /sources/.env HTTP/1.1" 404 -
+91.92.255.122 - - [08/Nov/2023 03:36:24] "GET /enviroments/.env.production HTTP/1.1" 404 -
+91.92.255.122 - - [08/Nov/2023 03:36:25] "POST /enviroments/.env.production HTTP/1.1" 404 -
+91.92.255.122 - - [08/Nov/2023 03:36:27] "GET /development/.env HTTP/1.1" 404 -
+91.92.255.122 - - [08/Nov/2023 03:36:27] "POST /development/.env HTTP/1.1" 404 -
+91.92.255.122 - - [08/Nov/2023 03:36:31] "GET /script/.env HTTP/1.1" 404 -
+91.92.255.122 - - [08/Nov/2023 03:36:32] "POST /script/.env HTTP/1.1" 404 -
+91.92.255.122 - - [08/Nov/2023 03:36:35] "GET /back/.env HTTP/1.1" 404 -
+91.92.255.122 - - [08/Nov/2023 03:36:36] "POST /back/.env HTTP/1.1" 404 -
+91.92.255.122 - - [08/Nov/2023 03:36:39] "GET /rest/.env HTTP/1.1" 404 -
+91.92.255.122 - - [08/Nov/2023 03:36:40] "POST /rest/.env HTTP/1.1" 404 -
+91.92.255.122 - - [08/Nov/2023 03:36:43] "GET /private/.env HTTP/1.1" 404 -
+91.92.255.122 - - [08/Nov/2023 03:36:44] "POST /private/.env HTTP/1.1" 404 -
+91.92.255.122 - - [08/Nov/2023 03:36:47] "GET /shared/.env HTTP/1.1" 404 -
+91.92.255.122 - - [08/Nov/2023 03:36:47] "POST /shared/.env HTTP/1.1" 404 -
+91.92.255.122 - - [08/Nov/2023 03:36:50] "GET /system/.env HTTP/1.1" 404 -
+91.92.255.122 - - [08/Nov/2023 03:36:50] "POST /system/.env HTTP/1.1" 404 -
+91.92.255.122 - - [08/Nov/2023 03:36:52] "GET /frontend_dev.php/$ HTTP/1.1" 404 -
+91.92.255.122 - - [08/Nov/2023 03:36:56] "GET /debug/default/view?panel=config HTTP/1.1" 404 -
+91.92.255.122 - - [08/Nov/2023 03:36:59] "GET /config.json HTTP/1.1" 404 -
+91.92.255.122 - - [08/Nov/2023 03:37:01] "GET /.json HTTP/1.1" 404 -
+91.92.255.122 - - [08/Nov/2023 03:37:04] "GET /info.php HTTP/1.1" 404 -
+91.92.255.122 - - [08/Nov/2023 03:37:05] "GET /_profiler/phpinfo HTTP/1.1" 404 -
+91.92.255.122 - - [08/Nov/2023 03:37:07] "GET /?phpinfo=1 HTTP/1.1" 404 -
+91.92.255.122 - - [08/Nov/2023 03:37:11] "GET /phpinfo.php HTTP/1.1" 404 -
+162.216.149.132 - - [08/Nov/2023 03:45:32] "GET / HTTP/1.1" 404 -
+43.154.8.109 - - [08/Nov/2023 03:56:03] "HEAD /Core/Skin/Login.aspx HTTP/1.1" 404 -
+35.233.62.116 - - [08/Nov/2023 03:56:55] "GET / HTTP/1.1" 404 -
+147.92.179.108 - - [08/Nov/2023 03:57:00] "GET /Schedule/BandPractice HTTP/1.1" 200 -
+135.125.246.110 - - [08/Nov/2023 04:24:13] "GET /.env HTTP/1.1" 404 -
+135.125.246.110 - - [08/Nov/2023 04:24:13] "POST / HTTP/1.1" 404 -
+35.203.210.20 - - [08/Nov/2023 04:31:39] "GET / HTTP/1.1" 404 -
+139.162.84.205 - - [08/Nov/2023 04:44:10] "GET / HTTP/1.0" 404 -
+78.153.140.219 - - [08/Nov/2023 05:06:21] "GET /.env HTTP/1.1" 404 -
+78.153.140.219 - - [08/Nov/2023 05:06:21] code 400, message Bad request version ('\x84¥\x9fX¾\x89\x7f\x86A\x06\x03ë\x00b\x13\x02\x13\x03\x13\x01À,À0À+À/Ì©Ì¨\x00£\x00\x9f\x00¢\x00\x9eÌªÀ¯À\xadÀ$À(À')
+78.153.140.219 - - [08/Nov/2023 05:06:21] "\x16\x03\x01\x01H\x01\x00\x01D\x03\x033\x8e\x80¸jÂmB\x82ò×\x0b5[\x9eÜ\x1dÊA\x85v\x0cöÁcöáÛ«\x87ä  ê$bæMÂ7÷+ÁäÌ\x81qÔÿ\x9d?\x93\x0d\x84¥\x9fX¾\x89\x7f\x86A\x06\x03ë\x00b\x13\x02\x13\x03\x13\x01À,À0À+À/Ì©Ì¨\x00£\x00\x9f\x00¢\x00\x9eÌªÀ¯À­À$À(À" HTTPStatus.BAD_REQUEST -
+205.210.31.22 - - [08/Nov/2023 05:29:23] "GET / HTTP/1.0" 404 -
+135.125.246.110 - - [08/Nov/2023 05:30:18] "GET /.env HTTP/1.1" 404 -
+135.125.246.110 - - [08/Nov/2023 05:30:19] "POST / HTTP/1.1" 404 -
+43.154.8.109 - - [08/Nov/2023 05:31:35] "HEAD /Core/Skin/Login.aspx HTTP/1.1" 404 -
+185.254.196.173 - - [08/Nov/2023 06:02:19] "GET /.env HTTP/1.1" 404 -
+185.254.196.173 - - [08/Nov/2023 06:02:23] "POST / HTTP/1.1" 404 -
+206.189.64.181 - - [08/Nov/2023 06:34:14] code 400, message Bad request version ('À\x14À')
+206.189.64.181 - - [08/Nov/2023 06:34:14] "\x16\x03\x01\x00{\x01\x00\x00w\x03\x03\x8a\x94îDÔæ4#R3XZ'pxS.ô\x81õ!ØJ\x80\x13[Xa\x1f_kÒ\x00\x00\x1aÀ/À+À\x11À\x07À\x13À\x09À\x14À" HTTPStatus.BAD_REQUEST -
+206.189.64.181 - - [08/Nov/2023 06:34:14] code 400, message Bad request version ('À\x14À')
+206.189.64.181 - - [08/Nov/2023 06:34:14] "\x16\x03\x01\x00{\x01\x00\x00w\x03\x03ZU~ ½ \x9e.Ã\x13\x8då\x171ö¿[ñaÁÎ\x82^ù#î\x0e\x0b\x98×(n\x00\x00\x1aÀ/À+À\x11À\x07À\x13À\x09À\x14À" HTTPStatus.BAD_REQUEST -
+206.189.64.181 - - [08/Nov/2023 06:34:14] "GET / HTTP/1.1" 404 -
+206.189.64.181 - - [08/Nov/2023 06:34:15] "GET /form.html HTTP/1.1" 404 -
+206.189.64.181 - - [08/Nov/2023 06:34:15] "GET /upl.php HTTP/1.1" 404 -
+206.189.64.181 - - [08/Nov/2023 06:34:15] code 400, message Bad request version ('À\x14À')
+206.189.64.181 - - [08/Nov/2023 06:34:15] "\x16\x03\x01\x00{\x01\x00\x00w\x03\x03~\x05\x81R)ë\x09¸¨W\x81\x8eäIÍw\x12Ýfàîó«\x9a\x90Â-l\x7fúÙÙ\x00\x00\x1aÀ/À+À\x11À\x07À\x13À\x09À\x14À" HTTPStatus.BAD_REQUEST -
+206.189.64.181 - - [08/Nov/2023 06:34:15] "GET /geoip/ HTTP/1.1" 404 -
+206.189.64.181 - - [08/Nov/2023 06:34:16] "GET / HTTP/1.1" 404 -
+206.189.64.181 - - [08/Nov/2023 06:34:16] "GET /favicon.ico HTTP/1.1" 404 -
+206.189.64.181 - - [08/Nov/2023 06:34:16] "GET /1.php HTTP/1.1" 404 -
+206.189.64.181 - - [08/Nov/2023 06:34:17] "GET /bundle.js HTTP/1.1" 404 -
+206.189.64.181 - - [08/Nov/2023 06:34:17] "GET /files/ HTTP/1.1" 404 -
+206.189.64.181 - - [08/Nov/2023 06:34:17] "GET /systembc/password.php HTTP/1.1" 404 -
+206.189.64.181 - - [08/Nov/2023 06:34:17] "GET /password.php HTTP/1.1" 404 -
+206.189.64.181 - - [08/Nov/2023 06:34:18] "GET /info.php HTTP/1.1" 404 -
+180.149.125.169 - - [08/Nov/2023 07:01:29] "GET /stalker_portal/server/tools/auth_simple.php HTTP/1.1" 404 -
+43.154.8.109 - - [08/Nov/2023 07:07:11] "HEAD /Core/Skin/Login.aspx HTTP/1.1" 404 -
+185.254.196.186 - - [08/Nov/2023 07:07:17] "GET /.env HTTP/1.1" 404 -
+185.254.196.186 - - [08/Nov/2023 07:07:19] "POST / HTTP/1.1" 404 -
+135.125.246.110 - - [08/Nov/2023 07:40:04] "GET /.env HTTP/1.1" 404 -
+135.125.246.110 - - [08/Nov/2023 07:40:04] "POST / HTTP/1.1" 404 -
+40.77.167.184 - - [08/Nov/2023 07:46:01] code 400, message Bad request version ('w©9¯¨lR\x9b¦\x06U@I¶|É±G')
+40.77.167.184 - - [08/Nov/2023 07:46:01] "\x16\x03\x01\x01C\x01\x00\x01?\x03\x03¿ñ9w³iSÜtX+Z_\x09\x97\x99\x82ÍYèë¤a\x0bÕÊÝl;ù¬\x8f \x7f\x96b\x1aU\x0fÞ\x0cw©9¯¨lR\x9b¦\x06U@I¶|É±G" HTTPStatus.BAD_REQUEST -
+40.77.167.184 - - [08/Nov/2023 07:46:02] code 400, message Bad request version ("p´%T\x84Á\x98Fh¿¹\x96\x84ùº|\x03xÉý\x00\x00$À,À+À0À/À$À#À(À'À")
+40.77.167.184 - - [08/Nov/2023 07:46:02] "\x16\x03\x03\x00§\x01\x00\x00£\x03\x03eK<¹\x8b\x95FÙ\x1chs\x1ep´%T\x84Á\x98Fh¿¹\x96\x84ùº|\x03xÉý\x00\x00$À,À+À0À/À$À#À(À'À" HTTPStatus.BAD_REQUEST -
+40.77.167.184 - - [08/Nov/2023 07:46:02] code 400, message Bad HTTP/0.9 request type ('\x16\x03\x03\x00§\x01\x00\x00£\x03\x03eK<ºØtg\x8cì)bé®è\x14w¤än')
+40.77.167.184 - - [08/Nov/2023 07:46:02] "\x16\x03\x03\x00§\x01\x00\x00£\x03\x03eK<ºØtg\x8cì)bé®è\x14w¤än\x0bg;\x0eT.\x05\x7f\x91&\x18î\x13\x00\x00$À,À+À0À/À$À#À(À'À" HTTPStatus.BAD_REQUEST -
+40.77.167.184 - - [08/Nov/2023 07:46:02] code 400, message Bad request version ('\x00\x1a\x00\x18\x08\x04\x08\x05\x08\x06\x04\x01\x05\x01\x02\x01\x04\x03\x05\x03\x02\x03\x02\x02\x06\x01\x06\x03\x00#\x00\x00\x00')
+40.77.167.184 - - [08/Nov/2023 07:46:02] "\x16\x03\x01\x01\x1d\x01\x00\x01\x19\x03\x03ý@\x90D\x8c\x0dp\x8c\x0e\x99ïÃ\x03Æ"$\x82Í\x85\x1fe¹\x06©<Ñ¦\x86¥\x05q\x9f ¨¡\x0c\x05Ãl×ûÇ°\x140WÝ\x8döaA\x90kÞ%ñî"cÌ\x9c\x04ü\x94\x1b\x00\x04\x13\x02\x13\x01\x01\x00\x00Ì\x00\x05\x00\x05\x01\x00\x00\x00\x00\x00+\x00\x03\x02\x03\x04\x00\x0d\x00\x1a\x00\x18\x08\x04\x08\x05\x08\x06\x04\x01\x05\x01\x02\x01\x04\x03\x05\x03\x02\x03\x02\x02\x06\x01\x06\x03\x00#\x00\x00\x00" HTTPStatus.BAD_REQUEST -
+52.167.144.229 - - [08/Nov/2023 07:46:10] code 400, message Bad request version ('¿\x15¢»J®\x12©T=Þc')
+52.167.144.229 - - [08/Nov/2023 07:46:10] "\x16\x03\x01\x01>\x01\x00\x01:\x03\x03ÊÏÃ$\x80%Ä\x13Nïg\x88\x97É×\x87NTS\x85Q$ä½IÑ\x88ûù\x80BÆ ¿\x15¢»J®\x12©T=Þc" HTTPStatus.BAD_REQUEST -
+172.105.128.11 - - [08/Nov/2023 07:49:42] code 400, message Bad request version ('À\x14À')
+172.105.128.11 - - [08/Nov/2023 07:49:42] "\x16\x03\x01\x00\x85\x01\x00\x00\x81\x03\x03$\x9d¦I\x12üÔQv\x91HãÄ$\x94ÑX¾\x93sÓ6~~\x9a\x0fÂß4z¤d\x00\x00 À/À0À+À,Ì¨Ì©À\x13À\x09À\x14À" HTTPStatus.BAD_REQUEST -
+64.62.197.94 - - [08/Nov/2023 08:09:20] "GET / HTTP/1.1" 404 -
+64.62.197.93 - - [08/Nov/2023 08:11:08] "GET /favicon.ico HTTP/1.1" 404 -
+64.62.197.101 - - [08/Nov/2023 08:11:59] "GET /geoserver/web/ HTTP/1.1" 404 -
+172.104.11.4 - - [08/Nov/2023 08:22:43] code 400, message Bad HTTP/0.9 request type ('\x16\x03\x01\x00')
+172.104.11.4 - - [08/Nov/2023 08:22:43] "\x16\x03\x01\x00\x85\x01\x00\x00\x81\x03\x03²/\x15Bûv(\x95m\x9e" HTTPStatus.BAD_REQUEST -
+147.92.179.112 - - [08/Nov/2023 08:41:41] "GET /Schedule/GDSC HTTP/1.1" 200 -
+147.92.179.116 - - [08/Nov/2023 08:41:41] "GET / HTTP/1.1" 404 -
+43.154.8.109 - - [08/Nov/2023 08:44:42] "HEAD /Core/Skin/Login.aspx HTTP/1.1" 404 -
+139.162.84.205 - - [08/Nov/2023 08:45:12] "GET / HTTP/1.0" 404 -
+135.125.246.110 - - [08/Nov/2023 09:08:44] "GET /.env HTTP/1.1" 404 -
+135.125.246.110 - - [08/Nov/2023 09:08:45] "POST / HTTP/1.1" 404 -
+58.144.148.20 - - [08/Nov/2023 09:29:20] "GET / HTTP/1.1" 404 -
+45.79.181.251 - - [08/Nov/2023 10:01:55] code 400, message Bad request version ('À\x14À')
+45.79.181.251 - - [08/Nov/2023 10:01:55] "\x16\x03\x01\x00\x85\x01\x00\x00\x81\x03\x03M\x81{i\x7fÒ§\x10Û\x8e&tb\x89\x83ÏÌM·\x9a¸ ÞÖÞ å%loñK\x00\x00 À/À0À+À,Ì¨Ì©À\x13À\x09À\x14À" HTTPStatus.BAD_REQUEST -
+135.125.246.110 - - [08/Nov/2023 10:17:06] "GET /.env HTTP/1.1" 404 -
+135.125.246.110 - - [08/Nov/2023 10:17:07] "POST / HTTP/1.1" 404 -
+43.154.8.109 - - [08/Nov/2023 10:21:06] "HEAD /Core/Skin/Login.aspx HTTP/1.1" 404 -
+65.49.1.17 - - [08/Nov/2023 10:27:19] code 400, message Bad request version ('À\x14À')
+65.49.1.17 - - [08/Nov/2023 10:27:19] "\x16\x03\x01\x00{\x01\x00\x00w\x03\x03ÕùOÞ.t\x1c\x92²+\x91}\x0cà\x8a»áæR\x18À]\x80°«Ó\x95\x92\x99èâ­\x00\x00\x1aÀ/À+À\x11À\x07À\x13À\x09À\x14À" HTTPStatus.BAD_REQUEST -
+45.79.128.205 - - [08/Nov/2023 11:05:22] "GET / HTTP/1.1" 404 -
+192.155.90.118 - - [08/Nov/2023 11:52:30] code 400, message Bad request version ('À\x14À')
+192.155.90.118 - - [08/Nov/2023 11:52:30] "\x16\x03\x01\x00\x85\x01\x00\x00\x81\x03\x03\x95¾#\x8fmAÇ#5±Ã?ì2ç DÈ:\x98³¨â\x1cv¢«\x03ó\x1a@\x99\x00\x00 À/À0À+À,Ì¨Ì©À\x13À\x09À\x14À" HTTPStatus.BAD_REQUEST -
+43.154.8.109 - - [08/Nov/2023 11:58:10] "HEAD /Core/Skin/Login.aspx HTTP/1.1" 404 -
+223.138.69.40 - - [08/Nov/2023 12:14:16] "GET /Schedule/BandPractice HTTP/1.1" 200 -
+223.138.69.40 - - [08/Nov/2023 12:14:16] "GET /static/styles/main.css HTTP/1.1" 200 -
+34.219.21.236 - - [08/Nov/2023 12:29:05] "GET /.git/HEAD HTTP/1.1" 404 -
+34.219.21.236 - - [08/Nov/2023 12:29:06] "GET /.git/HEAD HTTP/1.1" 404 -
+139.162.84.205 - - [08/Nov/2023 12:37:32] "GET / HTTP/1.0" 404 -
+135.125.246.110 - - [08/Nov/2023 12:54:49] "GET /.env HTTP/1.1" 404 -
+135.125.246.110 - - [08/Nov/2023 12:54:50] "POST / HTTP/1.1" 404 -
+43.154.8.109 - - [08/Nov/2023 13:37:00] "HEAD /Core/Skin/Login.aspx HTTP/1.1" 404 -
+185.36.81.33 - - [08/Nov/2023 13:42:28] "GET / HTTP/1.1" 404 -
+172.104.11.51 - - [08/Nov/2023 13:46:01] code 400, message Bad request version ('À\x14À')
+172.104.11.51 - - [08/Nov/2023 13:46:01] "\x16\x03\x01\x00\x85\x01\x00\x00\x81\x03\x03\x1e\x1fB]\x1a\x14ý½E$Mè>íÝ]Vx7.x£mÉî\x00\x8cËû\x1b¢¼\x00\x00 À/À0À+À,Ì¨Ì©À\x13À\x09À\x14À" HTTPStatus.BAD_REQUEST -
+185.254.196.186 - - [08/Nov/2023 14:32:21] "GET /.env HTTP/1.1" 404 -
+185.254.196.186 - - [08/Nov/2023 14:32:22] "POST / HTTP/1.1" 404 -
+135.125.217.54 - - [08/Nov/2023 14:39:39] "GET /.env HTTP/1.1" 404 -
+135.125.217.54 - - [08/Nov/2023 14:39:40] "POST / HTTP/1.1" 404 -
+34.197.127.12 - - [08/Nov/2023 14:55:33] "GET / HTTP/1.1" 404 -
+34.197.127.12 - - [08/Nov/2023 14:55:45] code 400, message Bad request syntax ('\x16\x03\x01\x00ê\x01\x00\x00æ\x03\x03î7Ä;\x928sÝ#¶6d~\x01wÓWY\x8câu\x8d\x08ð¥\x8eÔºèª¥')
+34.197.127.12 - - [08/Nov/2023 14:55:45] "\x16\x03\x01\x00ê\x01\x00\x00æ\x03\x03î7Ä;\x928sÝ#¶6d~\x01wÓWY\x8câu\x8d\x08ð¥\x8eÔºèª¥" HTTPStatus.BAD_REQUEST -
+34.197.127.12 - - [08/Nov/2023 14:55:47] "GET / HTTP/1.1" 404 -
+34.197.127.12 - - [08/Nov/2023 14:55:59] code 400, message Bad request version ('À\x13À')
+34.197.127.12 - - [08/Nov/2023 14:55:59] "\x16\x03\x01\x00ê\x01\x00\x00æ\x03\x03õ\x04×\x91¸\x8b\x0e$Ì\x11»è\x9e\x14ù\x13éà%\x8dH\x17ñüI\x9ci u\x05Q\x12 R\x99ÂJÞLâ\x948Ò[Ífü\x01¯S¿ª\x96"`/c\x10©¯\x1eîÖ^ß\x00&À+À/À,À0Ì©Ì¨À\x09À\x13À" HTTPStatus.BAD_REQUEST -
+3.223.72.184 - - [08/Nov/2023 15:10:17] "GET / HTTP/1.1" 404 -
+3.223.72.184 - - [08/Nov/2023 15:10:18] code 400, message Bad request version ('À\x13À')
+3.223.72.184 - - [08/Nov/2023 15:10:18] "\x16\x03\x01\x00ê\x01\x00\x00æ\x03\x03·P\x1d/£\x8e~ç»¤´¡¡ô6¼%°ÿ¤¬a\x8bÅÆ\x8eûJÆb7V ll@¬fçÍ6Nò\x85\x93ý\x13\x82í\x95×#\x9e\x7fh\x7fd¾à\x96È!»Ò³\x00&À+À/À,À0Ì©Ì¨À\x09À\x13À" HTTPStatus.BAD_REQUEST -
+34.197.127.12 - - [08/Nov/2023 15:10:34] "GET / HTTP/1.1" 404 -
+34.197.127.12 - - [08/Nov/2023 15:10:39] code 400, message Bad request version ('À\x13À')
+34.197.127.12 - - [08/Nov/2023 15:10:39] "\x16\x03\x01\x00ê\x01\x00\x00æ\x03\x03À)\x08aè\x00}cyw\x8a\x83\x80%\x87ww\x08Õo½[ÕH4\x03ÉÏ\x00[S. \x19Î\x87ËcÏñ¬âÞGØþÕ\x94Ð\x95|L»·\x95f×¿\x9cP \x0e(\x00a\x00&À+À/À,À0Ì©Ì¨À\x09À\x13À" HTTPStatus.BAD_REQUEST -
+34.197.127.12 - - [08/Nov/2023 15:10:39] "GET / HTTP/1.1" 404 -
+34.197.127.12 - - [08/Nov/2023 15:10:40] code 400, message Bad request version ('À\x13À')
+34.197.127.12 - - [08/Nov/2023 15:10:40] "\x16\x03\x01\x00ê\x01\x00\x00æ\x03\x03¥¥¨à!ÇÕ%7\x8c\x9d\x90C\x86\x8cUÂ\x0dl¤°Ø\x04õ³3ßs\x1eR#P %~ä;\x10J[Ý\x9c¥­\x08+É-`S \x066Ñ\x8d©¸jV+,goZ¨\x00&À+À/À,À0Ì©Ì¨À\x09À\x13À" HTTPStatus.BAD_REQUEST -
+3.223.72.184 - - [08/Nov/2023 15:10:43] code 400, message Bad HTTP/0.9 request type ('\x16\x03\x01\x00ê\x01\x00\x00æ\x03\x03\x12\x9fh\x9c\x14Å((åÚ»Z+yØ\x8c/§\x15³Áaý\x92Z«ô]ôTª.')
+3.223.72.184 - - [08/Nov/2023 15:10:43] "\x16\x03\x01\x00ê\x01\x00\x00æ\x03\x03\x12\x9fh\x9c\x14Å((åÚ»Z+yØ\x8c/§\x15³Áaý\x92Z«ô]ôTª. \x9f­\x16\x1br#\x0f©À©;¦" HTTPStatus.BAD_REQUEST -
+34.197.127.12 - - [08/Nov/2023 15:11:17] code 400, message Bad request version ('À\x13À')
+34.197.127.12 - - [08/Nov/2023 15:11:17] "\x16\x03\x01\x01\x07\x01\x00\x01\x03\x03\x031\x98\x8ch&\x04ºÄá'|\x07ÕruÉ\x91u\x99\x0d|÷±\x1eÐê\x05WFio\x86 ñ°F\x1bJ\x16Ø\x08íg\x04»M3\x81áFöòñfÙ<L_\x1bÖøÂz×¼\x00&À+À/À,À0Ì©Ì¨À\x09À\x13À" HTTPStatus.BAD_REQUEST -
+34.197.127.12 - - [08/Nov/2023 15:12:27] "GET /cdn-cgi/trace HTTP/1.1" 404 -
+43.154.8.109 - - [08/Nov/2023 15:15:29] "HEAD /Core/Skin/Login.aspx HTTP/1.1" 404 -
+192.241.224.15 - - [08/Nov/2023 15:22:58] code 400, message Bad request syntax ('MGLNDD_3.26.117.18_80')
+192.241.224.15 - - [08/Nov/2023 15:22:58] "MGLNDD_3.26.117.18_80" HTTPStatus.BAD_REQUEST -
+3.223.72.184 - - [08/Nov/2023 15:30:16] code 400, message Bad request version ('À\x13À')
+3.223.72.184 - - [08/Nov/2023 15:30:16] "\x16\x03\x01\x01\x07\x01\x00\x01\x03\x03\x03Ñ\x81Þª\x0d«Õg\x7fUoá\x17OÖ\x1bÖòÃ(wb\x92TpÏÍô)\x96\x18L \x0d¨P/¶ù\x17×{+l\x0e|\x04µmm1´\x16Ää¬9H\x13[ÑjI8T\x00&À+À/À,À0Ì©Ì¨À\x09À\x13À" HTTPStatus.BAD_REQUEST -
+3.223.72.184 - - [08/Nov/2023 15:31:39] "GET /cdn-cgi/trace HTTP/1.1" 404 -
+167.94.145.56 - - [08/Nov/2023 15:32:36] "GET / HTTP/1.1" 404 -
+167.94.145.56 - - [08/Nov/2023 15:32:37] "GET / HTTP/1.1" 404 -
+167.94.145.56 - - [08/Nov/2023 15:32:37] code 505, message Invalid HTTP version (2.0)
+167.94.145.56 - - [08/Nov/2023 15:32:37] "PRI * HTTP/2.0" HTTPStatus.HTTP_VERSION_NOT_SUPPORTED -
+34.197.127.12 - - [08/Nov/2023 15:34:42] code 400, message Bad request version ('À\x13À')
+34.197.127.12 - - [08/Nov/2023 15:34:42] "\x16\x03\x01\x01\x07\x01\x00\x01\x03\x03\x03¤\x83æ\x01Àh\x0dèG%P%]ã\x85âÅM¶Ôw§±F\x06ü\x9f\x87×»"Þ àS\x10-t×Z\x11X\x9b»\x09»$ýî1¤\x89\x7f+Í«;Í \x1b\x8e#\x89­\x90\x00&À+À/À,À0Ì©Ì¨À\x09À\x13À" HTTPStatus.BAD_REQUEST -
+34.197.127.12 - - [08/Nov/2023 15:36:07] "GET /cdn-cgi/trace HTTP/1.1" 404 -
+45.79.181.179 - - [08/Nov/2023 15:47:00] code 400, message Bad request version ('=ÿß^|\x9b\x9c')
+45.79.181.179 - - [08/Nov/2023 15:47:00] "\x16\x03\x01\x00\x85\x01\x00\x00\x81\x03\x03\x1a\x09=ÿß^|\x9b\x9c" HTTPStatus.BAD_REQUEST -
+167.248.133.49 - - [08/Nov/2023 16:19:39] "GET / HTTP/1.1" 404 -
+167.248.133.49 - - [08/Nov/2023 16:19:40] code 505, message Invalid HTTP version (2.0)
+167.248.133.49 - - [08/Nov/2023 16:19:40] "PRI * HTTP/2.0" HTTPStatus.HTTP_VERSION_NOT_SUPPORTED -
+139.162.84.205 - - [08/Nov/2023 16:37:22] "GET / HTTP/1.0" 404 -
+43.154.8.109 - - [08/Nov/2023 16:52:05] "HEAD /Core/Skin/Login.aspx HTTP/1.1" 404 -
+135.125.217.54 - - [08/Nov/2023 17:10:09] "GET /.env HTTP/1.1" 404 -
+135.125.217.54 - - [08/Nov/2023 17:10:10] "POST / HTTP/1.1" 404 -
+84.54.51.66 - - [08/Nov/2023 17:13:26] "POST /boaform/admin/formLogin HTTP/1.1" 404 -
+103.45.246.214 - - [08/Nov/2023 17:50:41] "GET /.env HTTP/1.1" 404 -
+103.45.246.214 - - [08/Nov/2023 17:50:41] "POST / HTTP/1.1" 404 -
+135.125.217.54 - - [08/Nov/2023 18:24:34] "GET /.env HTTP/1.1" 404 -
+135.125.217.54 - - [08/Nov/2023 18:24:34] "POST / HTTP/1.1" 404 -
+43.154.8.109 - - [08/Nov/2023 18:28:15] "HEAD /Core/Skin/Login.aspx HTTP/1.1" 404 -
+43.154.8.109 - - [08/Nov/2023 20:03:55] "HEAD /Core/Skin/Login.aspx HTTP/1.1" 404 -
+185.180.143.71 - - [08/Nov/2023 20:09:11] "GET / HTTP/1.1" 404 -
+139.162.84.205 - - [08/Nov/2023 20:41:39] "GET / HTTP/1.0" 404 -
+135.125.217.54 - - [08/Nov/2023 20:48:35] "GET /.env HTTP/1.1" 404 -
+135.125.217.54 - - [08/Nov/2023 20:48:35] "POST / HTTP/1.1" 404 -
+43.154.8.109 - - [08/Nov/2023 21:39:20] "HEAD /Core/Skin/Login.aspx HTTP/1.1" 404 -
+172.104.11.46 - - [08/Nov/2023 21:47:28] code 400, message Bad request version ('À\x14À')
+172.104.11.46 - - [08/Nov/2023 21:47:28] "\x16\x03\x01\x00\x85\x01\x00\x00\x81\x03\x03\x9c/W5ãb´=\x18åé³VÎ©TñL.kUÕ¼\x85;CIùã´*¦\x00\x00 À/À0À+À,Ì¨Ì©À\x13À\x09À\x14À" HTTPStatus.BAD_REQUEST -
+135.125.217.54 - - [08/Nov/2023 22:24:55] "GET /.env HTTP/1.1" 404 -
+135.125.217.54 - - [08/Nov/2023 22:24:55] "POST / HTTP/1.1" 404 -
+5.188.210.227 - - [08/Nov/2023 22:56:52] code 400, message Bad request syntax ('\x05\x01\x00')
+5.188.210.227 - - [08/Nov/2023 22:56:52] "\x05\x01\x00" HTTPStatus.BAD_REQUEST -
+5.188.210.227 - - [08/Nov/2023 22:57:02] code 400, message Bad request syntax ('\x05\x01\x00')
+5.188.210.227 - - [08/Nov/2023 22:57:02] "\x05\x01\x00" HTTPStatus.BAD_REQUEST -
+5.188.210.227 - - [08/Nov/2023 22:57:12] code 400, message Bad request syntax ('\x05\x01\x00')
+5.188.210.227 - - [08/Nov/2023 22:57:12] "\x05\x01\x00" HTTPStatus.BAD_REQUEST -
+5.188.210.227 - - [08/Nov/2023 22:58:27] code 400, message Bad request syntax ('\x04\x01\x00P\x05¼Òã\x00')
+5.188.210.227 - - [08/Nov/2023 22:58:27] "\x04\x01\x00P\x05¼Òã\x00" HTTPStatus.BAD_REQUEST -
+5.188.210.227 - - [08/Nov/2023 22:58:51] code 400, message Bad request syntax ('\x04\x01\x00P\x05¼Òã\x00')
+5.188.210.227 - - [08/Nov/2023 22:58:51] "\x04\x01\x00P\x05¼Òã\x00" HTTPStatus.BAD_REQUEST -
+5.188.210.227 - - [08/Nov/2023 22:59:44] "GET http://5.188.210.227/echo.php HTTP/1.1" 404 -
+135.125.217.54 - - [08/Nov/2023 23:01:53] "GET /.env HTTP/1.1" 404 -
+135.125.217.54 - - [08/Nov/2023 23:01:54] "POST / HTTP/1.1" 404 -
+43.154.8.109 - - [08/Nov/2023 23:14:50] "HEAD /Core/Skin/Login.aspx HTTP/1.1" 404 -
+162.216.150.152 - - [08/Nov/2023 23:31:18] "GET / HTTP/1.1" 404 -
+185.254.196.173 - - [08/Nov/2023 23:35:50] "GET /.env HTTP/1.1" 404 -
+185.254.196.173 - - [08/Nov/2023 23:35:50] "POST / HTTP/1.1" 404 -
+198.235.24.238 - - [09/Nov/2023 00:19:11] "GET / HTTP/1.1" 404 -
+43.154.8.109 - - [09/Nov/2023 00:50:17] "HEAD /Core/Skin/Login.aspx HTTP/1.1" 404 -
+185.36.81.33 - - [09/Nov/2023 01:48:51] "GET / HTTP/1.1" 404 -
+162.216.149.239 - - [09/Nov/2023 02:09:47] "GET / HTTP/1.1" 404 -
+135.125.246.110 - - [09/Nov/2023 02:20:00] "GET /.env HTTP/1.1" 404 -
+135.125.246.110 - - [09/Nov/2023 02:20:00] "POST / HTTP/1.1" 404 -
+198.235.24.141 - - [09/Nov/2023 02:21:46] code 400, message Bad request version ('\x8bK\x11L\x9a!\x035Q.Û½ÔB\x86¸½ñ')
+198.235.24.141 - - [09/Nov/2023 02:21:46] "\x16\x03\x01\x00î\x01\x00\x00ê\x03\x03¿\x0b-µ .\x0f]l\x93¼\x8eß2ÛþÑ¡òOT¼å\x0bÎ®$¬\x01¨\x8b) \x8bK\x11L\x9a!\x035Q.Û½ÔB\x86¸½ñ" HTTPStatus.BAD_REQUEST -
+198.235.24.141 - - [09/Nov/2023 02:21:47] code 400, message Bad HTTP/0.9 request type ("\x16\x03\x01\x00Ê\x01\x00\x00Æ\x03\x03)\xad7¥îÉI\x1aÕt`Ù×7C¶Æ¸\xad`\x15w\x9e\x13åå¨u=e\x19¦\x00\x00hÌ\x14Ì\x13À/À+À0À,À\x11À\x07À'À#À\x13À")
+198.235.24.141 - - [09/Nov/2023 02:21:47] "\x16\x03\x01\x00Ê\x01\x00\x00Æ\x03\x03)­7¥îÉI\x1aÕt`Ù×7C¶Æ¸­`\x15w\x9e\x13åå¨u=e\x19¦\x00\x00hÌ\x14Ì\x13À/À+À0À,À\x11À\x07À'À#À\x13À\x09À(À$À\x14À" HTTPStatus.BAD_REQUEST -
+43.154.8.109 - - [09/Nov/2023 02:26:35] "HEAD /Core/Skin/Login.aspx HTTP/1.1" 404 -
+185.162.235.218 - - [09/Nov/2023 02:42:56] code 400, message Bad request version ("æ\x00>\x13\x02\x13\x03\x13\x01À,À0\x00\x9fÌ©Ì¨ÌªÀ+À/\x00\x9eÀ$À(\x00kÀ#À'\x00gÀ")
+185.162.235.218 - - [09/Nov/2023 02:42:56] "\x16\x03\x01\x02\x00\x01\x00\x01ü\x03\x032oüãÍ56úÉ*6Vj\x96=j?njf÷o6Bqtã\x0cKàE} \x84\x1e%\x07­\x1a\x9fÞ \x10cæ\x16H\x1f2\x88\x8b¦×ÒÏpÑèß¯\x01!}\x0bæ\x00>\x13\x02\x13\x03\x13\x01À,À0\x00\x9fÌ©Ì¨ÌªÀ+À/\x00\x9eÀ$À(\x00kÀ#À'\x00gÀ" HTTPStatus.BAD_REQUEST -
+198.235.24.53 - - [09/Nov/2023 02:44:37] code 400, message Bad request version ('À\x13À')
+198.235.24.53 - - [09/Nov/2023 02:44:37] "\x16\x03\x01\x00î\x01\x00\x00ê\x03\x03º0ü\x8e\x12÷íýjæ$ ªoØ\x00ä\x8e\x1e\x05\x0f9Þ\x8e0\x13Â½\x81Q § Lu\x84îÀh\x0d \x87Îþ×\x03\x08Ô\x13ïvA\x8c+È\x87\x07SH×\x90v-\x16\x0d\x00&À+À/À,À0Ì©Ì¨À\x09À\x13À" HTTPStatus.BAD_REQUEST -
+198.235.24.53 - - [09/Nov/2023 02:44:38] code 400, message Bad request version ('À(À$À\x14À')
+198.235.24.53 - - [09/Nov/2023 02:44:38] "\x16\x03\x01\x00Ê\x01\x00\x00Æ\x03\x03"®¡\x01\x95ZçÖ\x94\x0es\x05Ô×¥âµ*\\2i\x0bÿ%¸\x0bM\x16\x8d$W(\x00\x00hÌ\x14Ì\x13À/À+À0À,À\x11À\x07À'À#À\x13À\x09À(À$À\x14À" HTTPStatus.BAD_REQUEST -
+107.170.252.59 - - [09/Nov/2023 02:49:53] "GET /druid/index.html HTTP/1.1" 404 -
+198.235.24.2 - - [09/Nov/2023 03:09:47] "GET / HTTP/1.0" 404 -
+180.149.125.167 - - [09/Nov/2023 03:11:15] "GET /c/ HTTP/1.1" 404 -
+161.35.238.241 - - [09/Nov/2023 03:39:13] code 400, message Bad HTTP/0.9 request type ('\x00\x0e8')
+161.35.238.241 - - [09/Nov/2023 03:39:13] "\x00\x0e8\x1dL\x1bõy³\x03C\x00\x00\x00\x00\x00" HTTPStatus.BAD_REQUEST -
+130.211.54.158 - - [09/Nov/2023 03:41:24] "GET / HTTP/1.1" 404 -
+172.105.128.11 - - [09/Nov/2023 04:01:07] code 400, message Bad request version ('À\x14À')
+172.105.128.11 - - [09/Nov/2023 04:01:07] "\x16\x03\x01\x00\x85\x01\x00\x00\x81\x03\x03\x9c\x1cÓdèf\x92Ù\x87k\x047\x00qY\x90\x8asüA"\x80\x90\\ò8\x0dÊõ0Æ¨\x00\x00 À/À0À+À,Ì¨Ì©À\x13À\x09À\x14À" HTTPStatus.BAD_REQUEST -
+43.154.8.109 - - [09/Nov/2023 04:02:13] "HEAD /Core/Skin/Login.aspx HTTP/1.1" 404 -
+139.162.84.205 - - [09/Nov/2023 04:43:07] "GET / HTTP/1.0" 404 -
+45.79.181.179 - - [09/Nov/2023 04:53:23] code 400, message Bad request version ('À\x14À')
+45.79.181.179 - - [09/Nov/2023 04:53:23] "\x16\x03\x01\x00\x85\x01\x00\x00\x81\x03\x03+-£Ú"\x996=\x8c¬½)xÌi\x96\x90\x82q\x1eR\x99'`öùs\x90Ij\x0e[\x00\x00 À/À0À+À,Ì¨Ì©À\x13À\x09À\x14À" HTTPStatus.BAD_REQUEST -
+135.125.246.110 - - [09/Nov/2023 05:14:29] "GET /.env HTTP/1.1" 404 -
+135.125.246.110 - - [09/Nov/2023 05:14:30] "POST / HTTP/1.1" 404 -
+202.169.42.74 - - [09/Nov/2023 05:15:52] "GET /sql/phpmyadmin4/index.php?lang=en HTTP/1.1" 404 -
+202.169.42.74 - - [09/Nov/2023 05:15:52] "GET /sql/phpMyAdmin/index.php?lang=en HTTP/1.1" 404 -
+202.169.42.74 - - [09/Nov/2023 05:15:52] "GET /phpMyAdmin4/index.php?lang=en HTTP/1.1" 404 -
+202.169.42.74 - - [09/Nov/2023 05:15:52] "GET /PMA/index.php?lang=en HTTP/1.1" 404 -
+202.169.42.74 - - [09/Nov/2023 05:15:53] "GET /sql/php-myadmin/index.php?lang=en HTTP/1.1" 404 -
+202.169.42.74 - - [09/Nov/2023 05:15:53] "GET /sql/webdb/index.php?lang=en HTTP/1.1" 404 -
+202.169.42.74 - - [09/Nov/2023 05:15:53] "GET /phpMyAdmin5.1/index.php?lang=en HTTP/1.1" 404 -
+202.169.42.74 - - [09/Nov/2023 05:15:53] "GET /phpMyAdmin-5.3.0-all-languages/index.php?lang=en HTTP/1.1" 404 -
+202.169.42.74 - - [09/Nov/2023 05:15:54] "GET /db/dbadmin/index.php?lang=en HTTP/1.1" 404 -
+202.169.42.74 - - [09/Nov/2023 05:15:54] "GET /_phpMyAdmin/index.php?lang=en HTTP/1.1" 404 -
+202.169.42.74 - - [09/Nov/2023 05:15:54] "GET /sql/phpmyadmin5/index.php?lang=en HTTP/1.1" 404 -
+202.169.42.74 - - [09/Nov/2023 05:15:54] "GET /sql/phpMyAdmin2/index.php?lang=en HTTP/1.1" 404 -
+202.169.42.74 - - [09/Nov/2023 05:15:54] "GET /db/phpmyadmin5/index.php?lang=en HTTP/1.1" 404 -
+202.169.42.74 - - [09/Nov/2023 05:15:55] "GET /db/phpMyAdmin-5/index.php?lang=en HTTP/1.1" 404 -
+202.169.42.74 - - [09/Nov/2023 05:15:55] "GET /phpmyadmin2014/index.php?lang=en HTTP/1.1" 404 -
+202.169.42.74 - - [09/Nov/2023 05:15:55] "GET /db/myadmin/index.php?lang=en HTTP/1.1" 404 -
+202.169.42.74 - - [09/Nov/2023 05:15:55] "GET /sql/websql/index.php?lang=en HTTP/1.1" 404 -
+202.169.42.74 - - [09/Nov/2023 05:15:56] "GET /mysql/index.php?lang=en HTTP/1.1" 404 -
+202.169.42.74 - - [09/Nov/2023 05:15:56] "GET /administrator/phpMyAdmin/index.php?lang=en HTTP/1.1" 404 -
+202.169.42.74 - - [09/Nov/2023 05:15:56] "GET /admin/index.php?lang=en HTTP/1.1" 404 -
+202.169.42.74 - - [09/Nov/2023 05:15:56] "GET /phpmyadmin2/index.php?lang=en HTTP/1.1" 404 -
+202.169.42.74 - - [09/Nov/2023 05:15:57] "GET /phpMyAdmin3/index.php?lang=en HTTP/1.1" 404 -
+202.169.42.74 - - [09/Nov/2023 05:15:57] "GET /admin/sysadmin/index.php?lang=en HTTP/1.1" 404 -
+202.169.42.74 - - [09/Nov/2023 05:15:57] "GET /mysqladmin/index.php?lang=en HTTP/1.1" 404 -
+202.169.42.74 - - [09/Nov/2023 05:15:57] "GET /phpmyadmin2016/index.php?lang=en HTTP/1.1" 404 -
+202.169.42.74 - - [09/Nov/2023 05:15:57] "GET /phpMyAdmin-5/index.php?lang=en HTTP/1.1" 404 -
+202.169.42.74 - - [09/Nov/2023 05:15:58] "GET /phppma/index.php?lang=en HTTP/1.1" 404 -
+202.169.42.74 - - [09/Nov/2023 05:15:58] "GET /phpmyadmin2022/index.php?lang=en HTTP/1.1" 404 -
+202.169.42.74 - - [09/Nov/2023 05:15:58] "GET /phpmyadmin2013/index.php?lang=en HTTP/1.1" 404 -
+202.169.42.74 - - [09/Nov/2023 05:15:58] "GET /sql/myadmin/index.php?lang=en HTTP/1.1" 404 -
+202.169.42.74 - - [09/Nov/2023 05:15:59] "GET /phpmyadmin2011/index.php?lang=en HTTP/1.1" 404 -
+202.169.42.74 - - [09/Nov/2023 05:15:59] "GET /2phpmyadmin/index.php?lang=en HTTP/1.1" 404 -
+202.169.42.74 - - [09/Nov/2023 05:15:59] "GET /phpMyAdmin-3/index.php?lang=en HTTP/1.1" 404 -
+202.169.42.74 - - [09/Nov/2023 05:15:59] "GET /phpmyadmin2018/index.php?lang=en HTTP/1.1" 404 -
+202.169.42.74 - - [09/Nov/2023 05:16:00] "GET /phpMyAdmin-5.2.0-all-languages/index.php?lang=en HTTP/1.1" 404 -
+202.169.42.74 - - [09/Nov/2023 05:16:00] "GET /phpMyAdmin-latest-all-languages/index.php?lang=en HTTP/1.1" 404 -
+202.169.42.74 - - [09/Nov/2023 05:16:00] "GET /phpMyAdmin-5.1.2/index.php?lang=en HTTP/1.1" 404 -
+202.169.42.74 - - [09/Nov/2023 05:16:00] "GET /mysql/pMA/index.php?lang=en HTTP/1.1" 404 -
+202.169.42.74 - - [09/Nov/2023 05:16:01] "GET /index.php?lang=en HTTP/1.1" 404 -
+202.169.42.74 - - [09/Nov/2023 05:16:01] "GET /_phpmyadmin_/index.php?lang=en HTTP/1.1" 404 -
+202.169.42.74 - - [09/Nov/2023 05:16:01] "GET /phpMyAdmin-4.9.10-all-languages/index.php?lang=en HTTP/1.1" 404 -
+202.169.42.74 - - [09/Nov/2023 05:16:01] "GET /phpmyAdmin/index.php?lang=en HTTP/1.1" 404 -
+202.169.42.74 - - [09/Nov/2023 05:16:02] "GET /phpmyadmin3/index.php?lang=en HTTP/1.1" 404 -
+202.169.42.74 - - [09/Nov/2023 05:16:02] "GET /phpMyAdmin/index.php?lang=en HTTP/1.1" 404 -
+202.169.42.74 - - [09/Nov/2023 05:16:02] "GET /php-myadmin/index.php?lang=en HTTP/1.1" 404 -
+202.169.42.74 - - [09/Nov/2023 05:16:02] "GET /sqlmanager/index.php?lang=en HTTP/1.1" 404 -
+202.169.42.74 - - [09/Nov/2023 05:16:02] "GET /sql/sqladmin/index.php?lang=en HTTP/1.1" 404 -
+202.169.42.74 - - [09/Nov/2023 05:16:03] "GET /phpmyadmin4/index.php?lang=en HTTP/1.1" 404 -
+202.169.42.74 - - [09/Nov/2023 05:16:03] "GET /db/index.php?lang=en HTTP/1.1" 404 -
+202.169.42.74 - - [09/Nov/2023 05:16:04] "GET /db/phpMyAdmin3/index.php?lang=en HTTP/1.1" 404 -
+202.169.42.74 - - [09/Nov/2023 05:16:04] "GET /mysql-admin/index.php?lang=en HTTP/1.1" 404 -
+202.169.42.74 - - [09/Nov/2023 05:16:04] "GET /sql/sql/index.php?lang=en HTTP/1.1" 404 -
+202.169.42.74 - - [09/Nov/2023 05:16:04] "GET /db/phpmyadmin3/index.php?lang=en HTTP/1.1" 404 -
+202.169.42.74 - - [09/Nov/2023 05:16:04] "GET /mysql/pma/index.php?lang=en HTTP/1.1" 404 -
+202.169.42.74 - - [09/Nov/2023 05:16:05] "GET /phpMyAdmin2/index.php?lang=en HTTP/1.1" 404 -
+202.169.42.74 - - [09/Nov/2023 05:16:05] "GET /administrator/web/index.php?lang=en HTTP/1.1" 404 -
+202.169.42.74 - - [09/Nov/2023 05:16:05] "GET /phpmy-admin/index.php?lang=en HTTP/1.1" 404 -
+202.169.42.74 - - [09/Nov/2023 05:16:05] "GET /phpmyadmin_/index.php?lang=en HTTP/1.1" 404 -
+202.169.42.74 - - [09/Nov/2023 05:16:06] "GET /administrator/pma/index.php?lang=en HTTP/1.1" 404 -
+202.169.42.74 - - [09/Nov/2023 05:16:06] "GET /dbadmin/index.php?lang=en HTTP/1.1" 404 -
+202.169.42.74 - - [09/Nov/2023 05:16:06] "GET /phpmyadmin2015/index.php?lang=en HTTP/1.1" 404 -
+202.169.42.74 - - [09/Nov/2023 05:16:06] "GET /phpMyAdmin-4/index.php?lang=en HTTP/1.1" 404 -
+202.169.42.74 - - [09/Nov/2023 05:16:07] "GET /phpMyAdmin-5.1.1/index.php?lang=en HTTP/1.1" 404 -
+202.169.42.74 - - [09/Nov/2023 05:16:07] "GET /db/websql/index.php?lang=en HTTP/1.1" 404 -
+202.169.42.74 - - [09/Nov/2023 05:16:07] "GET /phpMyAdmin-5.3.0/index.php?lang=en HTTP/1.1" 404 -
+202.169.42.74 - - [09/Nov/2023 05:16:07] "GET /sql/phpmanager/index.php?lang=en HTTP/1.1" 404 -
+202.169.42.74 - - [09/Nov/2023 05:16:07] "GET /mysql/dbadmin/index.php?lang=en HTTP/1.1" 404 -
+202.169.42.74 - - [09/Nov/2023 05:16:08] "GET /pma/index.php?lang=en HTTP/1.1" 404 -
+202.169.42.74 - - [09/Nov/2023 05:16:08] "GET /shopdb/index.php?lang=en HTTP/1.1" 404 -
+202.169.42.74 - - [09/Nov/2023 05:16:08] "GET /administrator/admin/index.php?lang=en HTTP/1.1" 404 -
+202.169.42.74 - - [09/Nov/2023 05:16:08] "GET /mysql/web/index.php?lang=en HTTP/1.1" 404 -
+202.169.42.74 - - [09/Nov/2023 05:16:10] "GET /phpMyAdmin5/index.php?lang=en HTTP/1.1" 404 -
+202.169.42.74 - - [09/Nov/2023 05:16:10] "GET /_phpmyadmin/index.php?lang=en HTTP/1.1" 404 -
+202.169.42.74 - - [09/Nov/2023 05:16:10] "GET /phpMyAdmin_/index.php?lang=en HTTP/1.1" 404 -
+202.169.42.74 - - [09/Nov/2023 05:16:10] "GET /wp-content/plugins/portable-phpmyadmin/wp-pma-mod/index.php?lang=en HTTP/1.1" 404 -
+202.169.42.74 - - [09/Nov/2023 05:16:11] "GET /sql/webadmin/index.php?lang=en HTTP/1.1" 404 -
+202.169.42.74 - - [09/Nov/2023 05:16:11] "GET /program/index.php?lang=en HTTP/1.1" 404 -
+202.169.42.74 - - [09/Nov/2023 05:16:11] "GET /phpMyAdmin1/index.php?lang=en HTTP/1.1" 404 -
+202.169.42.74 - - [09/Nov/2023 05:16:12] "GET /db/phpMyAdmin/index.php?lang=en HTTP/1.1" 404 -
+202.169.42.74 - - [09/Nov/2023 05:16:12] "GET /admin/sqladmin/index.php?lang=en HTTP/1.1" 404 -
+202.169.42.74 - - [09/Nov/2023 05:16:13] "GET /phpmyadmin2020/index.php?lang=en HTTP/1.1" 404 -
+202.169.42.74 - - [09/Nov/2023 05:16:13] "GET /phpMyAdmin-4.9.7/index.php?lang=en HTTP/1.1" 404 -
+202.169.42.74 - - [09/Nov/2023 05:16:13] "GET /administrator/phpmyadmin/index.php?lang=en HTTP/1.1" 404 -
+202.169.42.74 - - [09/Nov/2023 05:16:13] "GET /phpmyadmin/index.php?lang=en HTTP/1.1" 404 -
+202.169.42.74 - - [09/Nov/2023 05:16:14] "GET /phpmyadmin2012/index.php?lang=en HTTP/1.1" 404 -
+202.169.42.74 - - [09/Nov/2023 05:16:14] "GET /mysql/sqlmanager/index.php?lang=en HTTP/1.1" 404 -
+202.169.42.74 - - [09/Nov/2023 05:16:14] "GET /database/index.php?lang=en HTTP/1.1" 404 -
+202.169.42.74 - - [09/Nov/2023 05:16:14] "GET /mysql/db/index.php?lang=en HTTP/1.1" 404 -
+202.169.42.74 - - [09/Nov/2023 05:16:15] "GET /phpMyAdmin-5.1.0/index.php?lang=en HTTP/1.1" 404 -
+202.169.42.74 - - [09/Nov/2023 05:16:15] "GET /phpMyadmin/index.php?lang=en HTTP/1.1" 404 -
+202.169.42.74 - - [09/Nov/2023 05:16:15] "GET /myadmin/index.php?lang=en HTTP/1.1" 404 -
+202.169.42.74 - - [09/Nov/2023 05:16:15] "GET /MyAdmin/index.php?lang=en HTTP/1.1" 404 -
+202.169.42.74 - - [09/Nov/2023 05:16:16] "GET /phpmy/index.php?lang=en HTTP/1.1" 404 -
+202.169.42.74 - - [09/Nov/2023 05:16:16] "GET /php-my-admin/index.php?lang=en HTTP/1.1" 404 -
+202.169.42.74 - - [09/Nov/2023 05:16:16] "GET /sql/phpmyadmin3/index.php?lang=en HTTP/1.1" 404 -
+202.169.42.74 - - [09/Nov/2023 05:16:16] "GET /phpmyadmin5/index.php?lang=en HTTP/1.1" 404 -
+202.169.42.74 - - [09/Nov/2023 05:16:16] "GET /admin/db/index.php?lang=en HTTP/1.1" 404 -
+202.169.42.74 - - [09/Nov/2023 05:16:17] "GET /1phpmyadmin/index.php?lang=en HTTP/1.1" 404 -
+202.169.42.74 - - [09/Nov/2023 05:16:17] "GET /phpmyadmin2017/index.php?lang=en HTTP/1.1" 404 -
+202.169.42.74 - - [09/Nov/2023 05:16:17] "GET /mysql/mysqlmanager/index.php?lang=en HTTP/1.1" 404 -
+202.169.42.74 - - [09/Nov/2023 05:16:17] "GET /phpMyAdmin-5.1.3/index.php?lang=en HTTP/1.1" 404 -
+202.169.42.74 - - [09/Nov/2023 05:16:18] "GET /administrator/PMA/index.php?lang=en HTTP/1.1" 404 -
+202.169.42.74 - - [09/Nov/2023 05:16:18] "GET /administrator/db/index.php?lang=en HTTP/1.1" 404 -
+202.169.42.74 - - [09/Nov/2023 05:16:18] "GET /phpmyadmin2019/index.php?lang=en HTTP/1.1" 404 -
+202.169.42.74 - - [09/Nov/2023 05:16:18] "GET /mysql/admin/index.php?lang=en HTTP/1.1" 404 -
+202.169.42.74 - - [09/Nov/2023 05:16:19] "GET /phpMyAdmin-latest-english/index.php?lang=en HTTP/1.1" 404 -
+202.169.42.74 - - [09/Nov/2023 05:16:19] "GET /db/phpMyAdmin-4/index.php?lang=en HTTP/1.1" 404 -
+202.169.42.74 - - [09/Nov/2023 05:16:19] "GET /sql/phpmy-admin/index.php?lang=en HTTP/1.1" 404 -
+202.169.42.74 - - [09/Nov/2023 05:16:19] "GET /admin/web/index.php?lang=en HTTP/1.1" 404 -
+202.169.42.74 - - [09/Nov/2023 05:16:19] "GET /admin/phpMyAdmin/index.php?lang=en HTTP/1.1" 404 -
+202.169.42.74 - - [09/Nov/2023 05:16:20] "GET /mysqlmanager/index.php?lang=en HTTP/1.1" 404 -
+202.169.42.74 - - [09/Nov/2023 05:16:20] "GET /db/phpmyadmin4/index.php?lang=en HTTP/1.1" 404 -
+202.169.42.74 - - [09/Nov/2023 05:16:20] "GET /sql/sqlweb/index.php?lang=en HTTP/1.1" 404 -
+202.169.42.74 - - [09/Nov/2023 05:16:20] "GET /admin/pma/index.php?lang=en HTTP/1.1" 404 -
+202.169.42.74 - - [09/Nov/2023 05:16:21] "GET /sql/sql-admin/index.php?lang=en HTTP/1.1" 404 -
+202.169.42.74 - - [09/Nov/2023 05:16:21] "GET /phpmyadmin2021/index.php?lang=en HTTP/1.1" 404 -
+202.169.42.74 - - [09/Nov/2023 05:16:21] "GET /db/webadmin/index.php?lang=en HTTP/1.1" 404 -
+202.169.42.74 - - [09/Nov/2023 05:16:21] "GET /db/phpMyAdmin-3/index.php?lang=en HTTP/1.1" 404 -
+202.169.42.74 - - [09/Nov/2023 05:16:21] "GET /admin/phpmyadmin/index.php?lang=en HTTP/1.1" 404 -
+202.169.42.74 - - [09/Nov/2023 05:16:22] "GET /phpmyadmin1/index.php?lang=en HTTP/1.1" 404 -
+202.169.42.74 - - [09/Nov/2023 05:16:22] "GET /db/phpmyadmin/index.php?lang=en HTTP/1.1" 404 -
+202.169.42.74 - - [09/Nov/2023 05:16:22] "GET /wpma5.2/index.php?lang=en HTTP/1.1" 404 -
+202.169.42.74 - - [09/Nov/2023 05:16:22] "GET /phpMyAdmin-5.2.0/index.php?lang=en HTTP/1.1" 404 -
+202.169.42.74 - - [09/Nov/2023 05:16:23] "GET /__phpmyadmin/index.php?lang=en HTTP/1.1" 404 -
+202.169.42.74 - - [09/Nov/2023 05:16:23] "GET /db/db-admin/index.php?lang=en HTTP/1.1" 404 -
+202.169.42.74 - - [09/Nov/2023 05:16:23] "GET /db/dbweb/index.php?lang=en HTTP/1.1" 404 -
+202.169.42.74 - - [09/Nov/2023 05:16:23] "GET /db/webdb/index.php?lang=en HTTP/1.1" 404 -
+202.169.42.74 - - [09/Nov/2023 05:16:24] "GET /phpMyAdmin5.2/index.php?lang=en HTTP/1.1" 404 -
+192.241.215.29 - - [09/Nov/2023 05:22:41] "GET /actuator/health HTTP/1.1" 404 -
+43.154.8.109 - - [09/Nov/2023 05:37:24] "HEAD /Core/Skin/Login.aspx HTTP/1.1" 404 -
+185.254.196.186 - - [09/Nov/2023 05:56:37] "GET /.env HTTP/1.1" 404 -
+185.254.196.186 - - [09/Nov/2023 05:56:38] "POST / HTTP/1.1" 404 -
+167.99.205.107 - - [09/Nov/2023 06:07:07] code 400, message Bad request version ('jµ-\x15ê\x00\x01<Ì\x14Ì\x13Ì\x15À0À,À(À$À\x14À')
+167.99.205.107 - - [09/Nov/2023 06:07:07] "\x16\x03\x01\x01ú\x01\x00\x01ö\x03\x03÷½8§ô*\x98y_\x0bg\x9djU¼\x19®ª\x17-\x04²\x9diKr\x1cjµ-\x15ê\x00\x01<Ì\x14Ì\x13Ì\x15À0À,À(À$À\x14À" HTTPStatus.BAD_REQUEST -
+91.92.247.79 - - [09/Nov/2023 06:08:17] "GET / HTTP/1.1" 404 -
+2.81.228.237 - - [09/Nov/2023 06:42:09] "GET /.env HTTP/1.1" 404 -
+2.81.228.237 - - [09/Nov/2023 06:42:09] "POST / HTTP/1.1" 404 -
+135.125.246.110 - - [09/Nov/2023 06:55:57] "GET /.env HTTP/1.1" 404 -
+135.125.246.110 - - [09/Nov/2023 06:55:58] "POST / HTTP/1.1" 404 -
+185.254.196.186 - - [09/Nov/2023 07:08:29] "GET /.env HTTP/1.1" 404 -
+185.254.196.186 - - [09/Nov/2023 07:08:29] "POST / HTTP/1.1" 404 -
+43.154.8.109 - - [09/Nov/2023 07:12:40] "HEAD /Core/Skin/Login.aspx HTTP/1.1" 404 -
+64.62.197.67 - - [09/Nov/2023 07:42:25] code 400, message Bad request version ('À\x14À')
+64.62.197.67 - - [09/Nov/2023 07:42:25] "\x16\x03\x01\x00{\x01\x00\x00w\x03\x03x~q«\x09Á4öZS®\x97\x02p2+àC¾m\x93|Rè\x98u8Å>ÁÀ\\\x00\x00\x1aÀ/À+À\x11À\x07À\x13À\x09À\x14À" HTTPStatus.BAD_REQUEST -
+135.125.246.110 - - [09/Nov/2023 08:08:57] "GET /.env HTTP/1.1" 404 -
+135.125.246.110 - - [09/Nov/2023 08:08:57] "POST / HTTP/1.1" 404 -
+205.210.31.161 - - [09/Nov/2023 08:32:08] "GET / HTTP/1.0" 404 -
+192.241.199.83 - - [09/Nov/2023 08:33:29] "GET / HTTP/1.1" 404 -
+139.162.84.205 - - [09/Nov/2023 08:41:23] "GET / HTTP/1.0" 404 -
+43.154.8.109 - - [09/Nov/2023 08:47:51] "HEAD /Core/Skin/Login.aspx HTTP/1.1" 404 -
+135.125.246.110 - - [09/Nov/2023 09:01:29] "GET /.env HTTP/1.1" 404 -
+135.125.246.110 - - [09/Nov/2023 09:01:30] "POST / HTTP/1.1" 404 -
+185.254.196.186 - - [09/Nov/2023 10:07:25] "GET /.env HTTP/1.1" 404 -
+185.254.196.186 - - [09/Nov/2023 10:07:26] "POST / HTTP/1.1" 404 -
+43.154.8.109 - - [09/Nov/2023 10:23:04] "HEAD /Core/Skin/Login.aspx HTTP/1.1" 404 -
+184.105.247.196 - - [09/Nov/2023 10:48:51] "GET / HTTP/1.1" 404 -
+184.105.247.196 - - [09/Nov/2023 10:51:14] "GET /favicon.ico HTTP/1.1" 404 -
+184.105.247.196 - - [09/Nov/2023 10:51:53] "GET /geoserver/web/ HTTP/1.1" 404 -
+135.125.246.110 - - [09/Nov/2023 11:11:59] "GET /.env HTTP/1.1" 404 -
+135.125.246.110 - - [09/Nov/2023 11:11:59] "POST / HTTP/1.1" 404 -
+198.199.102.40 - - [09/Nov/2023 11:25:11] "GET /hudson HTTP/1.1" 404 -
+223.138.69.40 - - [09/Nov/2023 11:34:29] "GET /Schedule/BandPractice HTTP/1.1" 200 -
+223.138.69.40 - - [09/Nov/2023 11:34:29] "GET /static/styles/main.css HTTP/1.1" 304 -
+223.138.69.40 - - [09/Nov/2023 11:34:29] "GET /favicon.ico HTTP/1.1" 404 -
+223.138.69.40 - - [09/Nov/2023 11:34:30] "GET /favicon.ico HTTP/1.1" 404 -
+223.138.69.40 - - [09/Nov/2023 11:34:30] "GET /favicon.ico HTTP/1.1" 404 -
+27.100.64.229 - - [09/Nov/2023 11:50:11] "GET /Schedule/GDSC HTTP/1.1" 200 -
+27.100.64.229 - - [09/Nov/2023 11:50:12] "GET /static/styles/main.css HTTP/1.1" 200 -
+42.77.213.93 - - [09/Nov/2023 11:50:13] "GET /Schedule/GDSC HTTP/1.1" 200 -
+42.77.213.93 - - [09/Nov/2023 11:50:13] "GET /static/styles/main.css HTTP/1.1" 200 -
+42.77.213.93 - - [09/Nov/2023 11:50:13] "GET /favicon.ico HTTP/1.1" 404 -
+42.77.213.93 - - [09/Nov/2023 11:50:23] "GET /static/styles/main.css HTTP/1.1" 304 -
+43.154.8.109 - - [09/Nov/2023 11:58:35] "HEAD /Core/Skin/Login.aspx HTTP/1.1" 404 -
+ * Serving Flask app 'run'
+ * Debug mode: off
+WARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:80
+ * Running on http://172.31.26.153:80
+Press CTRL+C to quit
+140.117.178.250 - - [09/Nov/2023 20:44:09] "GET /Schedule/BandPractice HTTP/1.1" 200 -
+140.117.178.250 - - [09/Nov/2023 20:44:09] "GET /static/styles/main.css HTTP/1.1" 304 -
+140.117.178.250 - - [09/Nov/2023 20:44:09] "GET /favicon.ico HTTP/1.1" 404 -
+140.117.178.250 - - [09/Nov/2023 20:44:09] "GET /favicon.ico HTTP/1.1" 404 -
+140.117.178.250 - - [09/Nov/2023 20:44:10] "GET /favicon.ico HTTP/1.1" 404 -
+139.162.84.205 - - [09/Nov/2023 20:45:14] "GET / HTTP/1.0" 404 -
+102.89.22.127 - - [09/Nov/2023 20:54:30] "GET /.env HTTP/1.1" 404 -
+102.89.22.127 - - [09/Nov/2023 20:54:31] "POST / HTTP/1.1" 404 -
+141.98.11.60 - - [09/Nov/2023 21:18:03] "GET / HTTP/1.1" 404 -
+43.154.8.109 - - [09/Nov/2023 21:37:24] "HEAD /Core/Skin/Login.aspx HTTP/1.1" 404 -
+71.6.158.166 - - [09/Nov/2023 22:30:50] "GET / HTTP/1.1" 404 -
+71.6.158.166 - - [09/Nov/2023 22:30:52] "GET /robots.txt HTTP/1.1" 404 -
+71.6.158.166 - - [09/Nov/2023 22:30:53] "GET /sitemap.xml HTTP/1.1" 404 -
+71.6.158.166 - - [09/Nov/2023 22:30:54] "GET /.well-known/security.txt HTTP/1.1" 404 -
+71.6.158.166 - - [09/Nov/2023 22:30:55] "GET /favicon.ico HTTP/1.1" 404 -
+185.254.196.186 - - [09/Nov/2023 22:52:07] "GET /.env HTTP/1.1" 404 -
+185.254.196.186 - - [09/Nov/2023 22:52:08] "POST / HTTP/1.1" 404 -
+135.125.246.189 - - [09/Nov/2023 23:13:21] "GET /.env HTTP/1.1" 404 -
+135.125.246.189 - - [09/Nov/2023 23:13:21] "POST / HTTP/1.1" 404 -
+43.154.8.109 - - [09/Nov/2023 23:15:23] "HEAD /Core/Skin/Login.aspx HTTP/1.1" 404 -

@@ -1,18 +1,17 @@
 from flask import Flask, render_template,request
 import pprint
 import os
+import datetime,time
 
 app = Flask(__name__)
-
-# http://3.26.117.8/Schedule/BandPractice
-"/home/ubuntu/Web-BookingSystem/data_storage"
 Route = os.getcwd()
-@app.route("/Schedule/<Type>", methods=["GET"])
-def Schedule(Type):
+# 初始頁面
+@app.route("/Schedule/<Type>/<YearWeek>", methods=["GET"]) #/Schedule/BandPractice/2330
+def Schedule(Type, YearWeek):
     data = []
     # Decide which file to load
     try:FileNames = os.listdir(f"{Route}/data_storage/{Type}")
-    except:return "<h1>No such File<h1>"
+    except:return f"<h1>No such File {Route}/data_storage/{Type}<h1>"
 
     if len(FileNames) == 1: FileName = f"{Route}/data_storage/{Type}/data_init.txt"
     else: FileName = f"{Route}/data_storage/{Type}/data_{len(FileNames)-1}.txt"
@@ -38,9 +37,20 @@ def Schedule(Type):
                 if countx == 7:
                     countx = 0
                     county +=1
+    
+    # 處理日期問題
+    if YearWeek == "-1":
+        Year = int(datetime.datetime.now().isocalendar()[0]) - 2000
+        Week = int(datetime.datetime.now().isocalendar()[1])
+    else:
+        Year = int(YearWeek[:2])
+        Week = int(YearWeek[2:])
+    date = Week1toWeek7(Year, Week)
+    date.insert(0,("YY", "MM", "DD"))
 
-    return render_template("Schedule.html", data = data, Type=Type)
+    return render_template("Schedule.html", data = data, Type=Type, Date = date, YearWeek = int(f"{Year}{Week}"))
 
+# 提交
 @app.route("/Submit/<Type>", methods=["POST", "GET"])
 def Submit(Type):
     try:
@@ -75,7 +85,27 @@ def Submit(Type):
     except Exception as e:
         return str(e)
         
+def Week1toWeek7(Year, Week):
+    Year += 2000
+
+    # first_day = (Year-01-01)
+    first_day = datetime.date(Year, 1,1)
+    
+    # 計算first_day是星期幾
+    first_day_Weekday = first_day.weekday()
+    
+    # 計算第一天距離該周第一天天數差距
+    days_to_Week1 = 7 - first_day_Weekday
+
+    #取得目標週的第一天
+    target_week1 = first_day + datetime.timedelta(days= days_to_Week1 + 7*(Week-1))
+    
+    date = [target_week1 + datetime.timedelta(days= x) for x in range(7)]
+    date = [(x.year, str(x.month).zfill(2), str(x.day).zfill(2)) for x in date]
+
+    return(date)
+
 
 
 if __name__ == '__main__':
-    app.run(host="0.0.0.0", port=80)
+    app.run(host="0.0.0.0", port=80, debug=True)

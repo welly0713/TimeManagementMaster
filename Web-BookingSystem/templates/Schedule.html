@@ -21,7 +21,12 @@
                 {% for WeekDay in data[0] %}
                     <th>{{WeekDay}}</th>
                 {% endfor %}
-        </tr>
+            </tr>
+            <tr class="YMD">
+                {% for YMD in Date %}
+                    <th>{{YMD[0]}} / {{YMD[1]}} / {{YMD[2]}}</th>
+                {% endfor %}
+            </tr>
 
             {% for Time in data[1:] %}
                 <tr class="Time">
@@ -41,7 +46,16 @@
             <tr class="Time" id="PM4:00" style="border:none">
                 <td><input type="text" class="name_bar" name="name" placeholder="Write Your name here!"></td>
                 <td><input type="submit" value="Submit"></td>
-            </tr>
-            
+            </tr>    
         </table>
+    </form>
+
+    <form action="/Schedule/{{Type}}/{{YearWeek - 1}}" method="get">
+        <td><input type="submit" value="Last Week"></td>
+    </form>
+    <form action="/Schedule/{{Type}}/{{YearWeek + 1}}" method="get">
+        <td><input type="submit" value="Next Week"></td>
+    </form>
+
+
 </body>

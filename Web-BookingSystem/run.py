@@ -6,15 +6,16 @@ app = Flask(__name__)
 
 # http://3.26.117.8/Schedule/BandPractice
 "/home/ubuntu/Web-BookingSystem/data_storage"
+Route = os.getcwd()
 @app.route("/Schedule/<Type>", methods=["GET"])
 def Schedule(Type):
     data = []
     # Decide which file to load
-    try:FileNames = os.listdir(f"/home/ubuntu/Web-BookingSystem/data_storage/{Type}")
+    try:FileNames = os.listdir(f"{Route}/data_storage/{Type}")
     except:return "<h1>No such File<h1>"
 
-    if len(FileNames) == 1: FileName = f"/home/ubuntu/Web-BookingSystem/data_storage/{Type}/data_init.txt"
-    else: FileName = f"/home/ubuntu/Web-BookingSystem/data_storage/{Type}/data_{len(FileNames)-1}.txt"
+    if len(FileNames) == 1: FileName = f"{Route}/data_storage/{Type}/data_init.txt"
+    else: FileName = f"{Route}/data_storage/{Type}/data_{len(FileNames)-1}.txt"
     
     with open(FileName, mode="r", encoding="utf-8") as f:
         
@@ -55,8 +56,8 @@ def Submit(Type):
 
             # 修改檔案
             # 處理檔案名稱
-            FileNames = os.listdir(f"/home/ubuntu/Web-BookingSystem/data_storage/{Type}")
-            NewFileName = f"/home/ubuntu/Web-BookingSystem/data_storage/{Type}/data_{len(FileNames)}.txt"
+            FileNames = os.listdir(f"{Route}/data_storage/{Type}")
+            NewFileName = f"{Route}/data_storage/{Type}/data_{len(FileNames)}.txt"
 
             #寫入檔案
             t = 16

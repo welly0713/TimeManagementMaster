@@ -44,18 +44,11 @@
                 </tr>
             {% endfor %}
             <tr class="Time" id="PM4:00" style="border:none">
+                <td><a href="/Schedule/{{Type}}/{{YearWeek - 1}}"><input type="button" value="Last Week"></a></td>
+                <td><a href="/Schedule/{{Type}}/{{YearWeek + 1}}"><input type="button" value="Next Week"></a></td>
                 <td><input type="text" class="name_bar" name="name" placeholder="Write Your name here!"></td>
                 <td><input type="submit" value="Submit"></td>
             </tr>    
         </table>
     </form>
-
-    <form action="/Schedule/{{Type}}/{{YearWeek - 1}}" method="get">
-        <td><input type="submit" value="Last Week"></td>
-    </form>
-    <form action="/Schedule/{{Type}}/{{YearWeek + 1}}" method="get">
-        <td><input type="submit" value="Next Week"></td>
-    </form>
-
-
 </body>
